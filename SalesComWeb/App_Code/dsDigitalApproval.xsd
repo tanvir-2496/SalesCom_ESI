@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsDigitalApproval" targetNamespace="http://tempuri.org/dsDigitalApproval.xsd" xmlns:mstns="http://tempuri.org/dsDigitalApproval.xsd" xmlns="http://tempuri.org/dsDigitalApproval.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsDigitalApproval" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="dsDigitalApproval" msprop:Generator_UserDSName="dsDigitalApproval">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtDigitalApproval" msprop:Generator_TableClassName="dtDigitalApprovalDataTable" msprop:Generator_TableVarName="tabledtDigitalApproval" msprop:Generator_TablePropName="dtDigitalApproval" msprop:Generator_RowDeletingName="dtDigitalApprovalRowDeleting" msprop:Generator_RowChangingName="dtDigitalApprovalRowChanging" msprop:Generator_RowEvHandlerName="dtDigitalApprovalRowChangeEventHandler" msprop:Generator_RowDeletedName="dtDigitalApprovalRowDeleted" msprop:Generator_UserTableName="dtDigitalApproval" msprop:Generator_RowChangedName="dtDigitalApprovalRowChanged" msprop:Generator_RowEvArgName="dtDigitalApprovalRowChangeEvent" msprop:Generator_RowClassName="dtDigitalApprovalRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CHANNELID" msprop:Generator_ColumnVarNameInTable="columnCHANNELID" msprop:Generator_ColumnPropNameInRow="CHANNELID" msprop:Generator_ColumnPropNameInTable="CHANNELIDColumn" msprop:Generator_UserColumnName="CHANNELID" type="xs:string" minOccurs="0" />
+              <xs:element name="REFERENCENUMBER" msprop:Generator_ColumnVarNameInTable="columnREFERENCENUMBER" msprop:Generator_ColumnPropNameInRow="REFERENCENUMBER" msprop:Generator_ColumnPropNameInTable="REFERENCENUMBERColumn" msprop:Generator_UserColumnName="REFERENCENUMBER" type="xs:string" minOccurs="0" />
+              <xs:element name="REPORTNAME" msprop:Generator_ColumnVarNameInTable="columnREPORTNAME" msprop:Generator_ColumnPropNameInRow="REPORTNAME" msprop:Generator_ColumnPropNameInTable="REPORTNAMEColumn" msprop:Generator_UserColumnName="REPORTNAME" type="xs:string" minOccurs="0" />
+              <xs:element name="COMMISSIONCRITERION" msprop:Generator_ColumnVarNameInTable="columnCOMMISSIONCRITERION" msprop:Generator_ColumnPropNameInRow="COMMISSIONCRITERION" msprop:Generator_ColumnPropNameInTable="COMMISSIONCRITERIONColumn" msprop:Generator_UserColumnName="COMMISSIONCRITERION" type="xs:string" minOccurs="0" />
+              <xs:element name="CYCLEDESCRIPTION" msprop:Generator_ColumnVarNameInTable="columnCYCLEDESCRIPTION" msprop:Generator_ColumnPropNameInRow="CYCLEDESCRIPTION" msprop:Generator_ColumnPropNameInTable="CYCLEDESCRIPTIONColumn" msprop:Generator_UserColumnName="CYCLEDESCRIPTION" type="xs:string" minOccurs="0" />
+              <xs:element name="MODEOFPAYMENT" msprop:Generator_ColumnVarNameInTable="columnMODEOFPAYMENT" msprop:Generator_ColumnPropNameInRow="MODEOFPAYMENT" msprop:Generator_ColumnPropNameInTable="MODEOFPAYMENTColumn" msprop:Generator_UserColumnName="MODEOFPAYMENT" type="xs:string" minOccurs="0" />
+              <xs:element name="CHANNELCODE" msprop:Generator_ColumnVarNameInTable="columnCHANNELCODE" msprop:Generator_ColumnPropNameInRow="CHANNELCODE" msprop:Generator_ColumnPropNameInTable="CHANNELCODEColumn" msprop:Generator_UserColumnName="CHANNELCODE" type="xs:string" minOccurs="0" />
+              <xs:element name="CHANNELNAME" msprop:Generator_ColumnVarNameInTable="columnCHANNELNAME" msprop:Generator_ColumnPropNameInRow="CHANNELNAME" msprop:Generator_ColumnPropNameInTable="CHANNELNAMEColumn" msprop:Generator_UserColumnName="CHANNELNAME" type="xs:string" minOccurs="0" />
+              <xs:element name="AIT" msprop:Generator_ColumnVarNameInTable="columnAIT" msprop:Generator_ColumnPropNameInRow="AIT" msprop:Generator_ColumnPropNameInTable="AITColumn" msprop:Generator_UserColumnName="AIT" type="xs:string" minOccurs="0" />
+              <xs:element name="Net_Payable" msprop:Generator_ColumnVarNameInTable="columnNet_Payable" msprop:Generator_ColumnPropNameInRow="Net_Payable" msprop:Generator_ColumnPropNameInTable="Net_PayableColumn" msprop:Generator_UserColumnName="Net_Payable" type="xs:string" minOccurs="0" />
+              <xs:element name="COMMISSIONAMOUNT" msprop:Generator_ColumnVarNameInTable="columnCOMMISSIONAMOUNT" msprop:Generator_ColumnPropNameInRow="COMMISSIONAMOUNT" msprop:Generator_ColumnPropNameInTable="COMMISSIONAMOUNTColumn" msprop:Generator_UserColumnName="COMMISSIONAMOUNT" type="xs:string" minOccurs="0" />
+              <xs:element name="Remarks" msprop:Generator_ColumnVarNameInTable="columnRemarks" msprop:Generator_ColumnPropNameInRow="Remarks" msprop:Generator_ColumnPropNameInTable="RemarksColumn" msprop:Generator_UserColumnName="Remarks" type="xs:string" minOccurs="0" />
+              <xs:element name="WhthheldAmount" msprop:Generator_ColumnVarNameInTable="columnWhthheldAmount" msprop:Generator_ColumnPropNameInRow="WhthheldAmount" msprop:Generator_ColumnPropNameInTable="WhthheldAmountColumn" msprop:Generator_UserColumnName="WhthheldAmount" type="xs:string" minOccurs="0" />
+              <xs:element name="PayableAmount" msprop:Generator_ColumnVarNameInTable="columnPayableAmount" msprop:Generator_ColumnPropNameInRow="PayableAmount" msprop:Generator_ColumnPropNameInTable="PayableAmountColumn" msprop:Generator_UserColumnName="PayableAmount" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

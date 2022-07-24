@@ -1,0 +1,9 @@
+F:\Mustak\Commission\salescom_app-master\salescom_app-master\SalesCom.Entity\bin\Release\SalesCom.Entity.dll
+F:\Mustak\Commission\salescom_app-master\salescom_app-master\SalesCom.Entity\bin\Release\SalesCom.Entity.pdb
+F:\Mustak\Commission\salescom_app-master\salescom_app-master\SalesCom.Entity\obj\Release\SalesCom.Entity.dll
+F:\Mustak\Commission\salescom_app-master\salescom_app-master\SalesCom.Entity\obj\Release\SalesCom.Entity.pdb
+F:\Mustak\Commission\SalesCommDevFolder\salescom_app-master\SalesCom.Entity\bin\Release\SalesCom.Entity.dll
+F:\Mustak\Commission\SalesCommDevFolder\salescom_app-master\SalesCom.Entity\bin\Release\SalesCom.Entity.pdb
+F:\Mustak\Commission\SalesCommDevFolder\salescom_app-master\SalesCom.Entity\obj\Release\SalesCom.Entity.csprojResolveAssemblyReference.cache
+F:\Mustak\Commission\SalesCommDevFolder\salescom_app-master\SalesCom.Entity\obj\Release\SalesCom.Entity.dll
+F:\Mustak\Commission\SalesCommDevFolder\salescom_app-master\SalesCom.Entity\obj\Release\SalesCom.Entity.pdb

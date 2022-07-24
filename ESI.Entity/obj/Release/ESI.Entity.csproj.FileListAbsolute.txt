@@ -1,0 +1,55 @@
+D:\ESI second Phase Development\Development\salescom_app-master\ESI.Entity\bin\Release\ESI.Entity.dll
+D:\ESI second Phase Development\Development\salescom_app-master\ESI.Entity\bin\Release\ESI.Entity.pdb
+D:\ESI second Phase Development\Development\salescom_app-master\ESI.Entity\obj\Release\ESI.Entity.csprojResolveAssemblyReference.cache
+D:\ESI second Phase Development\Development\salescom_app-master\ESI.Entity\obj\Release\ESI.Entity.dll
+D:\ESI second Phase Development\Development\salescom_app-master\ESI.Entity\obj\Release\ESI.Entity.pdb
+F:\My\salescom_app new dev\ESI.Entity\bin\Release\ESI.Entity.dll
+F:\My\salescom_app new dev\ESI.Entity\bin\Release\ESI.Entity.pdb
+F:\My\salescom_app new dev\ESI.Entity\obj\Release\ESI.Entity.csprojResolveAssemblyReference.cache
+F:\My\salescom_app new dev\ESI.Entity\obj\Release\ESI.Entity.dll
+F:\My\salescom_app new dev\ESI.Entity\obj\Release\ESI.Entity.pdb
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app new dev\ESI.Entity\bin\Release\ESI.Entity.dll
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app new dev\ESI.Entity\bin\Release\ESI.Entity.pdb
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app new dev\ESI.Entity\obj\Release\ESI.Entity.csprojResolveAssemblyReference.cache
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app new dev\ESI.Entity\obj\Release\ESI.Entity.dll
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app new dev\ESI.Entity\obj\Release\ESI.Entity.pdb
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app Development for Test server\ESI.Entity\bin\Release\ESI.Entity.dll
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app Development for Test server\ESI.Entity\bin\Release\ESI.Entity.pdb
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app Development for Test server\ESI.Entity\obj\Release\ESI.Entity.csprojResolveAssemblyReference.cache
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app Development for Test server\ESI.Entity\obj\Release\ESI.Entity.dll
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app Development for Test server\ESI.Entity\obj\Release\ESI.Entity.pdb
+D:\SalesCom\SalesCom\ESI.Entity\bin\Release\ESI.Entity.dll
+D:\SalesCom\SalesCom\ESI.Entity\bin\Release\ESI.Entity.pdb
+D:\SalesCom\SalesCom\ESI.Entity\obj\Release\ESI.Entity.csprojResolveAssemblyReference.cache
+D:\SalesCom\SalesCom\ESI.Entity\obj\Release\ESI.Entity.dll
+D:\SalesCom\SalesCom\ESI.Entity\obj\Release\ESI.Entity.pdb
+E:\SalesCom\Solution\Latest Salescom\SalesCom\SalesCom\ESI.Entity\bin\Release\ESI.Entity.dll
+E:\SalesCom\Solution\Latest Salescom\SalesCom\SalesCom\ESI.Entity\bin\Release\ESI.Entity.pdb
+E:\SalesCom\Solution\Latest Salescom\SalesCom\SalesCom\ESI.Entity\obj\Release\ESI.Entity.csprojResolveAssemblyReference.cache
+E:\SalesCom\Solution\Latest Salescom\SalesCom\SalesCom\ESI.Entity\obj\Release\ESI.Entity.dll
+E:\SalesCom\Solution\Latest Salescom\SalesCom\SalesCom\ESI.Entity\obj\Release\ESI.Entity.pdb
+D:\SalesCom\ESI.Entity\bin\Release\ESI.Entity.dll
+D:\SalesCom\ESI.Entity\bin\Release\ESI.Entity.pdb
+D:\SalesCom\ESI.Entity\obj\Release\ESI.Entity.csprojResolveAssemblyReference.cache
+D:\SalesCom\ESI.Entity\obj\Release\ESI.Entity.dll
+D:\SalesCom\ESI.Entity\obj\Release\ESI.Entity.pdb
+E:\SalesCom\Solution\Latest Salescom\SalesCom\Details_SalesCom\Salescom\Salescom\SalesCom\ESI.Entity\bin\Release\ESI.Entity.dll
+E:\SalesCom\Solution\Latest Salescom\SalesCom\Details_SalesCom\Salescom\Salescom\SalesCom\ESI.Entity\bin\Release\ESI.Entity.pdb
+E:\SalesCom\Solution\Latest Salescom\SalesCom\Details_SalesCom\Salescom\Salescom\SalesCom\ESI.Entity\obj\Release\ESI.Entity.dll
+E:\SalesCom\Solution\Latest Salescom\SalesCom\Details_SalesCom\Salescom\Salescom\SalesCom\ESI.Entity\obj\Release\ESI.Entity.pdb
+E:\SalesCom\Solution\Latest Salescom\SalesCom\Details_SalesCom\Salescom\Salescom\SalesCom\ESI.Entity\obj\Release\ESI.Entity.csprojResolveAssemblyReference.cache
+E:\SalesCom\Solution\Latest Salescom\SalesCom\Merge_SalesCom\SalesCom\ESI.Entity\bin\Release\ESI.Entity.dll
+E:\SalesCom\Solution\Latest Salescom\SalesCom\Merge_SalesCom\SalesCom\ESI.Entity\bin\Release\ESI.Entity.pdb
+E:\SalesCom\Solution\Latest Salescom\SalesCom\Merge_SalesCom\SalesCom\ESI.Entity\obj\Release\ESI.Entity.csprojResolveAssemblyReference.cache
+E:\SalesCom\Solution\Latest Salescom\SalesCom\Merge_SalesCom\SalesCom\ESI.Entity\obj\Release\ESI.Entity.dll
+E:\SalesCom\Solution\Latest Salescom\SalesCom\Merge_SalesCom\SalesCom\ESI.Entity\obj\Release\ESI.Entity.pdb
+E:\Salescom deployment\SalesCom_Latest\SalesCom\ESI.Entity\bin\Release\ESI.Entity.dll
+E:\Salescom deployment\SalesCom_Latest\SalesCom\ESI.Entity\bin\Release\ESI.Entity.pdb
+E:\Salescom deployment\SalesCom_Latest\SalesCom\ESI.Entity\obj\Release\ESI.Entity.csprojResolveAssemblyReference.cache
+E:\Salescom deployment\SalesCom_Latest\SalesCom\ESI.Entity\obj\Release\ESI.Entity.dll
+E:\Salescom deployment\SalesCom_Latest\SalesCom\ESI.Entity\obj\Release\ESI.Entity.pdb
+E:\SalesCom\ESI.Entity\bin\Release\ESI.Entity.dll
+E:\SalesCom\ESI.Entity\bin\Release\ESI.Entity.pdb
+E:\SalesCom\ESI.Entity\obj\Release\ESI.Entity.csprojResolveAssemblyReference.cache
+E:\SalesCom\ESI.Entity\obj\Release\ESI.Entity.dll
+E:\SalesCom\ESI.Entity\obj\Release\ESI.Entity.pdb

@@ -1,0 +1,304 @@
+CREATE OR REPLACE PROCEDURE  ESI_GETSALESCHANNELBYGROUPID 
+(
+    p_sales_group_id number,
+    CUR_SALESCHANNEL OUT SYS_REFCURSOR 
+)
+IS
+BEGIN
+  OPEN CUR_SALESCHANNEL FOR 
+    SELECT c.sales_channel_id sales_channel_id, c.sales_channel_name sales_channel_name from ESIsaleschannel c
+    where (p_sales_group_id =  0 or c.sales_group_id = p_sales_group_id);
+    IF SQL%ROWCOUNT< 0 THEN
+        CUR_SALESCHANNEL := null;
+        END IF;
+    EXCEPTION
+    WHEN OTHERS THEN
+        CUR_SALESCHANNEL := null; 
+END ESI_GETSALESCHANNELBYGROUPID;
+/
+
+CREATE OR REPLACE PROCEDURE ESI_GETKPIBYGROUPID 
+(
+    p_sales_group_id number,
+    CUR_KPI OUT SYS_REFCURSOR 
+)
+IS
+BEGIN
+  OPEN CUR_KPI FOR 
+    SELECT k.kpi_id kpi_id, k.kpi_name kpi_name from ESIkpi k
+    where k.is_active = 1 and k.kpi_type = 1 and (p_sales_group_id =  1 or k.sales_group_id = p_sales_group_id);
+    IF SQL%ROWCOUNT< 0 THEN
+        CUR_KPI := null;
+        END IF;
+    EXCEPTION
+    WHEN OTHERS THEN
+        CUR_KPI := null; 
+END ESI_GETKPIBYGROUPID;
+/
+
+CREATE OR REPLACE PROCEDURE ESI_GETSUBKPIBYKPIID 
+(
+    p_kpi_id number,
+    CUR_KPIMAP OUT SYS_REFCURSOR 
+)
+IS
+BEGIN
+  OPEN CUR_KPIMAP FOR 
+    SELECT km.sub_kpi_id sub_kpi_id, k.kpi_name sub_kpi_name from ESIkpimapping km
+    left outer join ESIkpi k on k.kpi_id = km.sub_kpi_id
+    where (p_kpi_id =  0 or km.kpi_id = p_kpi_id);
+    IF SQL%ROWCOUNT< 0 THEN
+        CUR_KPIMAP := null;
+        END IF;
+    EXCEPTION
+    WHEN OTHERS THEN
+        CUR_KPIMAP := null; 
+END ESI_GETSUBKPIBYKPIID;
+/
+
+create or replace PROCEDURE ESI_GETCONDITIONBYKPIID 
+(
+    p_kpi_id number,
+    CUR_CONDITIONMAPPING OUT SYS_REFCURSOR 
+)
+IS
+BEGIN
+  OPEN CUR_CONDITIONMAPPING FOR 
+    SELECT kcm.condition_id, kc.condition_name from ESIkpiconditionmapping kcm
+    left outer join ESIkpicondition kc on kcm.condition_id = kc.condition_id
+    where (p_kpi_id =  0 or kcm.kpi_id = p_kpi_id);
+    IF SQL%ROWCOUNT< 0 THEN
+        CUR_CONDITIONMAPPING := null;
+        END IF;
+    EXCEPTION
+    WHEN OTHERS THEN
+        CUR_CONDITIONMAPPING := null; 
+END ESI_GETCONDITIONBYKPIID;
+/
+
+create or replace PROCEDURE ESI_INSERT_REPORTCYCLE
+(
+    LOG_PARAM_DATA TYPEESIREPORTCYCLE
+    ,po_PKValue OUT DECIMAL 
+)
+AS
+    logData TYPEESIREPORTCYCLE;
+BEGIN
+    logData := log_param_data;
+
+    select rc.report_cycle_id into  po_PKValue
+                         from ESIREPORTCYCLE RC  
+                         where RC.YEAR =logData.YEAR AND RC.QUARTER = logData.QUARTER AND RC.SALES_CHANNEL_ID =logData.SALES_CHANNEL_ID;
+        EXCEPTION
+            WHEN NO_DATA_FOUND THEN
+            
+    po_PKValue:=ESIREPORTCYCLE_SEQ.NEXTVAL;
+    insert INTO ESIREPORTCYCLE RC
+            (
+               RC.REPORT_CYCLE_ID
+               ,RC.YEAR
+               ,RC.QUARTER
+               ,RC.SALES_CHANNEL_ID
+               ,RC.MATURE_DATE
+               ,RC.CREATED_BY
+               ,RC.CREATED_DATE
+            ) 
+        select  po_PKValue
+                ,logData.YEAR
+                ,logData.QUARTER
+                ,logData.SALES_CHANNEL_ID
+                ,logData.MATURE_DATE
+                ,logData.CREATED_BY
+                ,logData.CREATED_DATE
+        from dual;
+END ESI_INSERT_REPORTCYCLE;
+/
+
+CREATE OR REPLACE PROCEDURE ESI_INSERT_KPICONFIGURATION
+(
+    LOG_PARAM_DATA TYPEESIKPICONFIGURATION
+    ,po_PKValue OUT DECIMAL 
+)
+AS
+    logData TYPEESIKPICONFIGURATION;
+BEGIN
+
+    logData := log_param_data;
+    if logData.KPI_CONFIG_ID = 0
+    then
+        po_PKValue:=ESIKPICONFIGURATION_SEQ.NEXTVAL;
+        else
+        po_PKValue := logData.KPI_CONFIG_ID;
+    end if;
+    
+    MERGE INTO ESIKPICONFIGURATION KC
+    USING(SELECT logData FROM DUAL) D
+    ON(KC.KPI_CONFIG_ID=logData.KPI_CONFIG_ID)
+    WHEN MATCHED THEN 
+    UPDATE
+    SET
+       KC.YEAR = logData.YEAR
+      ,KC.QUARTER = logData.QUARTER
+      ,KC.MONTH = logData.MONTH
+      ,KC.SALES_CHANNEL_ID =logData.SALES_CHANNEL_ID
+      ,KC.KPI_ID = logData.KPI_ID
+      ,KC.PARENT_KPI_ID = logData.PARENT_KPI_ID
+      ,KC.REPORT_CYCLE_ID = logData.REPORT_CYCLE_ID
+      ,KC.IS_LAST_LEVEL = logData.IS_LAST_LEVEL
+      ,KC.INCENTIVE_PAYOUT = logData.INCENTIVE_PAYOUT
+      ,KC.WEIGHTAGE = logData.WEIGHTAGE
+      ,KC.UPDATED_BY =logData.UPDATED_BY
+      ,KC.UPDATED_DATE =logData.UPDATED_DATE
+    
+    WHEN NOT MATCHED THEN 
+    INSERT  
+    (
+       KC.KPI_CONFIG_ID
+       ,KC.YEAR
+       ,KC.QUARTER
+       ,KC.MONTH
+       ,KC.SALES_CHANNEL_ID
+       ,KC.KPI_ID
+       ,KC.PARENT_KPI_ID
+       ,KC.REPORT_CYCLE_ID
+       ,KC.IS_LAST_LEVEL
+       ,KC.INCENTIVE_PAYOUT
+       ,KC.WEIGHTAGE
+       ,KC.CREATED_BY
+       ,KC.CREATED_DATE
+    )
+    VALUES
+    (
+        po_PKValue
+        ,logData.YEAR
+        ,logData.QUARTER
+        ,logData.MONTH
+        ,logData.SALES_CHANNEL_ID
+        ,logData.KPI_ID
+        ,logData.PARENT_KPI_ID
+        ,logData.REPORT_CYCLE_ID
+        ,logData.IS_LAST_LEVEL
+        ,logData.INCENTIVE_PAYOUT
+        ,logData.WEIGHTAGE
+        ,logData.CREATED_BY
+        ,logData.CREATED_DATE
+    );
+END ESI_INSERT_KPICONFIGURATION;
+/
+
+CREATE OR REPLACE PROCEDURE ESI_INSERT_KPICONDITIONCONFIG
+(
+    LOG_PARAM_DATA TYPEESIKPICONDITIONCONFIG
+    ,po_PKValue OUT DECIMAL 
+)
+AS
+    logData TYPEESIKPICONDITIONCONFIG;
+BEGIN
+    logData := log_param_data;
+    if logData.KPI_CONDITION_CONFIG_ID = 0
+    then
+        po_PKValue:=ESIKPICONDITIONCONFIG_SEQ.NEXTVAL;
+        else
+        po_PKValue := logData.KPI_CONDITION_CONFIG_ID;
+    end if;
+    
+    MERGE INTO ESIKPICONDITIONCONFIG KCC
+    USING(SELECT logData FROM DUAL) D
+    ON(KCC.KPI_CONDITION_CONFIG_ID=logData.KPI_CONDITION_CONFIG_ID)
+    WHEN MATCHED THEN 
+    UPDATE
+    SET
+       KCC.KPI_CONFIGURATION_ID = logData.KPI_CONFIGURATION_ID
+      ,KCC.CONDITION_ID = logData.CONDITION_ID
+      ,KCC.AMOUNT = logData.AMOUNT
+      ,KCC.COUNTABLE =logData.COUNTABLE
+      ,KCC.PERCENTAGE = logData.PERCENTAGE
+      ,KCC.DAY1 = logData.DAY1
+      ,KCC.DAY2 = logData.DAY2
+      ,KCC.MATURE_DATE = logData.MATURE_DATE
+      ,KCC.UPDATED_BY =logData.UPDATED_BY
+      ,KCC.UPDATED_DATE =logData.UPDATED_DATE
+    
+    WHEN NOT MATCHED THEN 
+    INSERT  
+    (
+       KCC.KPI_CONDITION_CONFIG_ID
+       ,KCC.KPI_CONFIGURATION_ID
+       ,KCC.CONDITION_ID
+       ,KCC.AMOUNT
+       ,KCC.COUNTABLE
+       ,KCC.PERCENTAGE
+       ,KCC.DAY1
+       ,KCC.DAY2
+       ,KCC.MATURE_DATE
+       ,KCC.CREATED_BY
+       ,KCC.CREATED_DATE
+    )
+    VALUES
+    (
+        po_PKValue
+        ,logData.KPI_CONFIGURATION_ID
+        ,logData.CONDITION_ID
+        ,logData.AMOUNT
+        ,logData.COUNTABLE
+        ,logData.PERCENTAGE
+        ,logData.DAY1
+        ,logData.DAY2
+        ,logData.MATURE_DATE
+        ,logData.CREATED_BY
+        ,logData.CREATED_DATE
+    );
+END ESI_INSERT_KPICONDITIONCONFIG;
+
+/
+CREATE OR REPLACE PROCEDURE ESI_INSERT_FLOW
+(
+    LOG_PARAM_DATA TYPEESIFLOW
+    ,po_PKValue OUT DECIMAL 
+)
+AS
+    logData TYPEESIFLOW;
+BEGIN
+
+    logData := log_param_data;
+    if logData.FLOW_ID = 0
+    then
+        po_PKValue:=ESIFLOW_SEQ.NEXTVAL;
+        else
+        po_PKValue := logData.FLOW_ID;
+    end if;
+    
+    MERGE INTO ESIFLOW F
+    USING(SELECT logData FROM DUAL) D
+    ON(F.FLOW_ID=logData.FLOW_ID)
+    WHEN MATCHED THEN 
+    UPDATE
+    SET
+       F.FLOW_NAME = logData.FLOW_NAME
+      ,F.FLOW_CODE = logData.FLOW_CODE
+      ,F.NEXT_FLOW_ID=logData.NEXT_FLOW_ID
+      ,F.FLOW_TYPE=logData.FLOW_TYPE
+      ,F.UPDATED_BY =logData.UPDATED_BY
+      ,F.UPDATED_DATE =logData.UPDATED_DATE
+    WHEN NOT MATCHED THEN 
+    INSERT  
+    (
+       F.FLOW_ID
+       ,FLOW_CODE
+       ,FLOW_NAME 
+       ,NEXT_FLOW_ID
+       ,FLOW_TYPE  
+       ,F.CREATED_BY
+       ,F.CREATED_DATE
+    )
+    VALUES
+    (
+        po_PKValue
+        ,logData.FLOW_CODE
+        ,logData.FLOW_NAME
+        ,logData.NEXT_FLOW_ID
+        ,logData.FLOW_TYPE
+        ,logData.CREATED_BY
+        ,logData.CREATED_DATE
+    );
+END ESI_INSERT_FLOW;

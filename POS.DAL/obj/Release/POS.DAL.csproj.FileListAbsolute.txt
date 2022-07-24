@@ -1,0 +1,197 @@
+D:\Work\POS.CODE\POS.DAL\bin\Release\POS.DAL.dll
+D:\Work\POS.CODE\POS.DAL\bin\Release\POS.DAL.pdb
+D:\Work\POS.CODE\POS.DAL\obj\Release\ResolveAssemblyReference.cache
+D:\Work\POS.CODE\POS.DAL\obj\Release\POS.DAL.dll
+D:\Work\POS.CODE\POS.DAL\obj\Release\POS.DAL.pdb
+D:\SalesCom_04022015\SalesCom\POS.DAL\bin\Release\POS.DAL.dll
+D:\SalesCom_04022015\SalesCom\POS.DAL\bin\Release\POS.DAL.pdb
+D:\SalesCom_04022015\SalesCom\POS.DAL\obj\Release\POS.DAL.dll
+D:\SalesCom_04022015\SalesCom\POS.DAL\obj\Release\POS.DAL.pdb
+E:\SalesCom Source Code\02-Nov-16\SalesCom\POS.DAL\bin\Release\POS.DAL.dll
+E:\SalesCom Source Code\02-Nov-16\SalesCom\POS.DAL\bin\Release\POS.DAL.pdb
+E:\SalesCom Source Code\02-Nov-16\SalesCom\POS.DAL\obj\Release\POS.DAL.csprojResolveAssemblyReference.cache
+E:\SalesCom Source Code\02-Nov-16\SalesCom\POS.DAL\obj\Release\POS.DAL.dll
+E:\SalesCom Source Code\02-Nov-16\SalesCom\POS.DAL\obj\Release\POS.DAL.pdb
+E:\SalesCom Source Code\23-May-17\SalesCom\POS.DAL\bin\Release\POS.DAL.dll
+E:\SalesCom Source Code\23-May-17\SalesCom\POS.DAL\bin\Release\POS.DAL.pdb
+E:\SalesCom Source Code\23-May-17\SalesCom\POS.DAL\obj\Release\POS.DAL.dll
+E:\SalesCom Source Code\23-May-17\SalesCom\POS.DAL\obj\Release\POS.DAL.pdb
+E:\SalesCom Source Code\23-May-17\SalesCom\POS.DAL\obj\Release\POS.DAL.csprojResolveAssemblyReference.cache
+F:\SalesCom Source Code\23-May-17\SalesCom\POS.DAL\bin\Release\POS.DAL.dll
+F:\SalesCom Source Code\23-May-17\SalesCom\POS.DAL\bin\Release\POS.DAL.pdb
+F:\SalesCom Source Code\23-May-17\SalesCom\POS.DAL\obj\Release\POS.DAL.csprojResolveAssemblyReference.cache
+F:\SalesCom Source Code\23-May-17\SalesCom\POS.DAL\obj\Release\POS.DAL.dll
+F:\SalesCom Source Code\23-May-17\SalesCom\POS.DAL\obj\Release\POS.DAL.pdb
+F:\SalesCom Source Code\27-01-19\SalesCom\POS.DAL\bin\Release\POS.DAL.dll
+F:\SalesCom Source Code\27-01-19\SalesCom\POS.DAL\bin\Release\POS.DAL.pdb
+F:\SalesCom Source Code\27-01-19\SalesCom\POS.DAL\obj\Release\POS.DAL.csprojResolveAssemblyReference.cache
+F:\SalesCom Source Code\27-01-19\SalesCom\POS.DAL\obj\Release\POS.DAL.dll
+F:\SalesCom Source Code\27-01-19\SalesCom\POS.DAL\obj\Release\POS.DAL.pdb
+F:\SalesCom Source Code\22-May-19\SalesCom\POS.DAL\bin\Release\POS.DAL.dll
+F:\SalesCom Source Code\22-May-19\SalesCom\POS.DAL\bin\Release\POS.DAL.pdb
+F:\SalesCom Source Code\22-May-19\SalesCom\POS.DAL\obj\Release\POS.DAL.dll
+F:\SalesCom Source Code\22-May-19\SalesCom\POS.DAL\obj\Release\POS.DAL.pdb
+F:\SalesCom Source Code\22-May-19\SalesCom\POS.DAL\obj\Release\POS.DAL.csprojAssemblyReference.cache
+F:\SalesCom Source Code\22-May-19\SalesCom\POS.DAL\obj\Release\POS.DAL.csproj.CoreCompileInputs.cache
+E:\SalesCom Source Code\22-May-19\SalesCom Main File Backup 17_11_2019\SalesCom\POS.DAL\bin\Release\POS.DAL.dll
+E:\SalesCom Source Code\22-May-19\SalesCom Main File Backup 17_11_2019\SalesCom\POS.DAL\bin\Release\POS.DAL.pdb
+E:\SalesCom Source Code\22-May-19\SalesCom Main File Backup 17_11_2019\SalesCom\POS.DAL\obj\Release\POS.DAL.csprojResolveAssemblyReference.cache
+E:\SalesCom Source Code\22-May-19\SalesCom Main File Backup 17_11_2019\SalesCom\POS.DAL\obj\Release\POS.DAL.dll
+E:\SalesCom Source Code\22-May-19\SalesCom Main File Backup 17_11_2019\SalesCom\POS.DAL\obj\Release\POS.DAL.pdb
+E:\SalesCom Source Code\22-May-19\SalesCom\POS.DAL\bin\Release\POS.DAL.dll
+E:\SalesCom Source Code\22-May-19\SalesCom\POS.DAL\bin\Release\POS.DAL.pdb
+E:\SalesCom Source Code\22-May-19\SalesCom\POS.DAL\obj\Release\POS.DAL.dll
+E:\SalesCom Source Code\22-May-19\SalesCom\POS.DAL\obj\Release\POS.DAL.pdb
+F:\Mustak\Commission\salescom_app-master\salescom_app-master\POS.DAL\bin\Release\POS.DAL.dll
+F:\Mustak\Commission\salescom_app-master\salescom_app-master\POS.DAL\bin\Release\POS.DAL.pdb
+F:\Mustak\Commission\salescom_app-master\salescom_app-master\POS.DAL\obj\Release\POS.DAL.csprojResolveAssemblyReference.cache
+F:\Mustak\Commission\salescom_app-master\salescom_app-master\POS.DAL\obj\Release\POS.DAL.dll
+F:\Mustak\Commission\salescom_app-master\salescom_app-master\POS.DAL\obj\Release\POS.DAL.pdb
+E:\SalesCom Source Code\salescom_app-master\POS.DAL\bin\Release\POS.DAL.dll
+E:\SalesCom Source Code\salescom_app-master\POS.DAL\bin\Release\POS.DAL.pdb
+E:\SalesCom Source Code\salescom_app-master\POS.DAL\obj\Release\POS.DAL.csprojResolveAssemblyReference.cache
+E:\SalesCom Source Code\salescom_app-master\POS.DAL\obj\Release\POS.DAL.dll
+E:\SalesCom Source Code\salescom_app-master\POS.DAL\obj\Release\POS.DAL.pdb
+D:\ESI second Phase Development\Development\salescom_app-master\POS.DAL\bin\Release\POS.DAL.dll
+D:\ESI second Phase Development\Development\salescom_app-master\POS.DAL\bin\Release\POS.DAL.pdb
+D:\ESI second Phase Development\Development\salescom_app-master\POS.DAL\obj\Release\POS.DAL.csprojResolveAssemblyReference.cache
+D:\ESI second Phase Development\Development\salescom_app-master\POS.DAL\obj\Release\POS.DAL.dll
+D:\ESI second Phase Development\Development\salescom_app-master\POS.DAL\obj\Release\POS.DAL.pdb
+F:\My\salescom_app new dev\POS.DAL\bin\Release\POS.DAL.dll
+F:\My\salescom_app new dev\POS.DAL\bin\Release\POS.DAL.pdb
+F:\My\salescom_app new dev\POS.DAL\obj\Release\POS.DAL.dll
+F:\My\salescom_app new dev\POS.DAL\obj\Release\POS.DAL.pdb
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app new dev\POS.DAL\bin\Release\POS.DAL.dll
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app new dev\POS.DAL\bin\Release\POS.DAL.pdb
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app new dev\POS.DAL\obj\Release\POS.DAL.dll
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app new dev\POS.DAL\obj\Release\POS.DAL.pdb
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app new dev\POS.DAL\obj\Release\POS.DAL.csprojResolveAssemblyReference.cache
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app Development for Test server\POS.DAL\bin\Release\POS.DAL.dll
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app Development for Test server\POS.DAL\bin\Release\POS.DAL.pdb
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app Development for Test server\POS.DAL\obj\Release\POS.DAL.csprojResolveAssemblyReference.cache
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app Development for Test server\POS.DAL\obj\Release\POS.DAL.dll
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app Development for Test server\POS.DAL\obj\Release\POS.DAL.pdb
+D:\1. Project Folders\Salescommission Project on 13 APR 21\Salescom_code\salescomm\POS.DAL\bin\Release\POS.DAL.dll
+D:\1. Project Folders\Salescommission Project on 13 APR 21\Salescom_code\salescomm\POS.DAL\bin\Release\POS.DAL.pdb
+D:\1. Project Folders\Salescommission Project on 13 APR 21\Salescom_code\salescomm\POS.DAL\obj\Release\POS.DAL.csprojResolveAssemblyReference.cache
+D:\1. Project Folders\Salescommission Project on 13 APR 21\Salescom_code\salescomm\POS.DAL\obj\Release\POS.DAL.dll
+D:\1. Project Folders\Salescommission Project on 13 APR 21\Salescom_code\salescomm\POS.DAL\obj\Release\POS.DAL.pdb
+F:\My\salescomm 27-7-21\salescomm\POS.DAL\bin\Release\POS.DAL.dll
+F:\My\salescomm 27-7-21\salescomm\POS.DAL\bin\Release\POS.DAL.pdb
+F:\My\salescomm 27-7-21\salescomm\POS.DAL\obj\Release\POS.DAL.dll
+F:\My\salescomm 27-7-21\salescomm\POS.DAL\obj\Release\POS.DAL.pdb
+F:\Mustak\Commission\SalesComm Solution\salescom_app\POS.DAL\bin\Release\POS.DAL.dll
+F:\Mustak\Commission\SalesComm Solution\salescom_app\POS.DAL\bin\Release\POS.DAL.pdb
+F:\Mustak\Commission\SalesComm Solution\salescom_app\POS.DAL\obj\Release\POS.DAL.csprojResolveAssemblyReference.cache
+F:\Mustak\Commission\SalesComm Solution\salescom_app\POS.DAL\obj\Release\POS.DAL.dll
+F:\Mustak\Commission\SalesComm Solution\salescom_app\POS.DAL\obj\Release\POS.DAL.pdb
+D:\Commission\Commission\SalesComm Solution\SalesComm Solution\salescom_app\POS.DAL\bin\Release\POS.DAL.dll
+D:\Commission\Commission\SalesComm Solution\SalesComm Solution\salescom_app\POS.DAL\bin\Release\POS.DAL.pdb
+D:\Commission\Commission\SalesComm Solution\SalesComm Solution\salescom_app\POS.DAL\obj\Release\POS.DAL.csprojResolveAssemblyReference.cache
+D:\Commission\Commission\SalesComm Solution\SalesComm Solution\salescom_app\POS.DAL\obj\Release\POS.DAL.dll
+D:\Commission\Commission\SalesComm Solution\SalesComm Solution\salescom_app\POS.DAL\obj\Release\POS.DAL.pdb
+E:\SalesCom\CR\NewCR\salescom_app 16_3_22\salescom_app\POS.DAL\bin\Release\POS.DAL.dll
+E:\SalesCom\CR\NewCR\salescom_app 16_3_22\salescom_app\POS.DAL\bin\Release\POS.DAL.pdb
+E:\SalesCom\CR\NewCR\salescom_app 16_3_22\salescom_app\POS.DAL\obj\Release\POS.DAL.csprojResolveAssemblyReference.cache
+E:\SalesCom\CR\NewCR\salescom_app 16_3_22\salescom_app\POS.DAL\obj\Release\POS.DAL.dll
+E:\SalesCom\CR\NewCR\salescom_app 16_3_22\salescom_app\POS.DAL\obj\Release\POS.DAL.pdb
+E:\SalesCom\Solution\SalesCom\POS.DAL\bin\Release\POS.DAL.dll
+E:\SalesCom\Solution\SalesCom\POS.DAL\bin\Release\POS.DAL.pdb
+E:\SalesCom\Solution\SalesCom\POS.DAL\obj\Release\POS.DAL.dll
+E:\SalesCom\Solution\SalesCom\POS.DAL\obj\Release\POS.DAL.pdb
+E:\SalesCom\Solution\SalesCom\POS.DAL\obj\Release\POS.DAL.csproj.AssemblyReference.cache
+E:\SalesCom\Solution\SalesCom\POS.DAL\obj\Release\POS.DAL.csproj.CoreCompileInputs.cache
+D:\SaleComMarge\SalesCom\POS.DAL\bin\Release\POS.DAL.dll
+D:\SaleComMarge\SalesCom\POS.DAL\bin\Release\POS.DAL.pdb
+D:\SaleComMarge\SalesCom\POS.DAL\obj\Release\POS.DAL.csprojResolveAssemblyReference.cache
+D:\SaleComMarge\SalesCom\POS.DAL\obj\Release\POS.DAL.dll
+D:\SaleComMarge\SalesCom\POS.DAL\obj\Release\POS.DAL.pdb
+E:\SalesCom\Solution\SaleComMarge\SalesCom\POS.DAL\bin\Release\POS.DAL.dll
+E:\SalesCom\Solution\SaleComMarge\SalesCom\POS.DAL\bin\Release\POS.DAL.pdb
+E:\SalesCom\Solution\SaleComMarge\SalesCom\POS.DAL\obj\Release\POS.DAL.csprojResolveAssemblyReference.cache
+E:\SalesCom\Solution\SaleComMarge\SalesCom\POS.DAL\obj\Release\POS.DAL.dll
+E:\SalesCom\Solution\SaleComMarge\SalesCom\POS.DAL\obj\Release\POS.DAL.pdb
+E:\SalesCom\Solution\SaleComMarge\SaleComMarge\SalesCom\POS.DAL\bin\Release\POS.DAL.dll
+E:\SalesCom\Solution\SaleComMarge\SaleComMarge\SalesCom\POS.DAL\bin\Release\POS.DAL.pdb
+E:\SalesCom\Solution\SaleComMarge\SaleComMarge\SalesCom\POS.DAL\obj\Release\POS.DAL.csprojResolveAssemblyReference.cache
+E:\SalesCom\Solution\SaleComMarge\SaleComMarge\SalesCom\POS.DAL\obj\Release\POS.DAL.dll
+E:\SalesCom\Solution\SaleComMarge\SaleComMarge\SalesCom\POS.DAL\obj\Release\POS.DAL.pdb
+D:\SalesCom\SalesCom\POS.DAL\bin\Release\POS.DAL.dll
+D:\SalesCom\SalesCom\POS.DAL\bin\Release\POS.DAL.pdb
+D:\SalesCom\SalesCom\POS.DAL\obj\Release\POS.DAL.csprojResolveAssemblyReference.cache
+D:\SalesCom\SalesCom\POS.DAL\obj\Release\POS.DAL.dll
+D:\SalesCom\SalesCom\POS.DAL\obj\Release\POS.DAL.pdb
+E:\SalesCom\Solution\Latest Salescom\SalesCom\SalesCom\POS.DAL\bin\Release\POS.DAL.dll
+E:\SalesCom\Solution\Latest Salescom\SalesCom\SalesCom\POS.DAL\bin\Release\POS.DAL.pdb
+E:\SalesCom\Solution\Latest Salescom\SalesCom\SalesCom\POS.DAL\obj\Release\POS.DAL.csprojResolveAssemblyReference.cache
+E:\SalesCom\Solution\Latest Salescom\SalesCom\SalesCom\POS.DAL\obj\Release\POS.DAL.dll
+E:\SalesCom\Solution\Latest Salescom\SalesCom\SalesCom\POS.DAL\obj\Release\POS.DAL.pdb
+D:\SalesCom\POS.DAL\bin\Release\POS.DAL.dll
+D:\SalesCom\POS.DAL\bin\Release\POS.DAL.pdb
+D:\SalesCom\POS.DAL\obj\Release\POS.DAL.csprojResolveAssemblyReference.cache
+D:\SalesCom\POS.DAL\obj\Release\POS.DAL.dll
+D:\SalesCom\POS.DAL\obj\Release\POS.DAL.pdb
+E:\SalesCom\Solution\Latest Salescom\SalesCom\Details_SalesCom\Salescom\Salescom\SalesCom\POS.DAL\bin\Release\POS.DAL.dll
+E:\SalesCom\Solution\Latest Salescom\SalesCom\Details_SalesCom\Salescom\Salescom\SalesCom\POS.DAL\bin\Release\POS.DAL.pdb
+E:\SalesCom\Solution\Latest Salescom\SalesCom\Details_SalesCom\Salescom\Salescom\SalesCom\POS.DAL\obj\Release\POS.DAL.csprojResolveAssemblyReference.cache
+E:\SalesCom\Solution\Latest Salescom\SalesCom\Details_SalesCom\Salescom\Salescom\SalesCom\POS.DAL\obj\Release\POS.DAL.dll
+E:\SalesCom\Solution\Latest Salescom\SalesCom\Details_SalesCom\Salescom\Salescom\SalesCom\POS.DAL\obj\Release\POS.DAL.pdb
+E:\SalesCom\Solution\Latest Salescom\SalesCom\Merge_SalesCom\SalesCom\POS.DAL\bin\Release\POS.DAL.dll
+E:\SalesCom\Solution\Latest Salescom\SalesCom\Merge_SalesCom\SalesCom\POS.DAL\bin\Release\POS.DAL.pdb
+E:\SalesCom\Solution\Latest Salescom\SalesCom\Merge_SalesCom\SalesCom\POS.DAL\obj\Release\POS.DAL.csprojResolveAssemblyReference.cache
+E:\SalesCom\Solution\Latest Salescom\SalesCom\Merge_SalesCom\SalesCom\POS.DAL\obj\Release\POS.DAL.dll
+E:\SalesCom\Solution\Latest Salescom\SalesCom\Merge_SalesCom\SalesCom\POS.DAL\obj\Release\POS.DAL.pdb
+E:\Salescom deployment\SalesCom_Latest\SalesCom\POS.DAL\bin\Release\POS.DAL.dll
+E:\Salescom deployment\SalesCom_Latest\SalesCom\POS.DAL\bin\Release\POS.DAL.pdb
+E:\Salescom deployment\SalesCom_Latest\SalesCom\POS.DAL\obj\Release\POS.DAL.csprojResolveAssemblyReference.cache
+E:\Salescom deployment\SalesCom_Latest\SalesCom\POS.DAL\obj\Release\POS.DAL.dll
+E:\Salescom deployment\SalesCom_Latest\SalesCom\POS.DAL\obj\Release\POS.DAL.pdb
+E:\SalesCom\POS.DAL\bin\Release\POS.DAL.dll
+E:\SalesCom\POS.DAL\bin\Release\POS.DAL.pdb
+E:\SalesCom\POS.DAL\obj\Release\POS.DAL.csprojResolveAssemblyReference.cache
+E:\SalesCom\POS.DAL\obj\Release\POS.DAL.dll
+E:\SalesCom\POS.DAL\obj\Release\POS.DAL.pdb
+E:\SalesCom\Solution\MERGE_PROJECT\SalesCom\POS.DAL\bin\Release\POS.DAL.dll
+E:\SalesCom\Solution\MERGE_PROJECT\SalesCom\POS.DAL\bin\Release\POS.DAL.pdb
+E:\SalesCom\Solution\MERGE_PROJECT\SalesCom\POS.DAL\obj\Release\POS.DAL.csprojResolveAssemblyReference.cache
+E:\SalesCom\Solution\MERGE_PROJECT\SalesCom\POS.DAL\obj\Release\POS.DAL.dll
+E:\SalesCom\Solution\MERGE_PROJECT\SalesCom\POS.DAL\obj\Release\POS.DAL.pdb
+E:\Al Mamun\Merge_Project\SalesCom\POS.DAL\bin\Release\POS.DAL.dll
+E:\Al Mamun\Merge_Project\SalesCom\POS.DAL\bin\Release\POS.DAL.pdb
+E:\Al Mamun\Merge_Project\SalesCom\POS.DAL\obj\Release\POS.DAL.csprojResolveAssemblyReference.cache
+E:\Al Mamun\Merge_Project\SalesCom\POS.DAL\obj\Release\POS.DAL.dll
+E:\Al Mamun\Merge_Project\SalesCom\POS.DAL\obj\Release\POS.DAL.pdb
+E:\Al Mamun\SalesCom_Merge_Latest_7_jun_22\POS.DAL\bin\Release\POS.DAL.dll
+E:\Al Mamun\SalesCom_Merge_Latest_7_jun_22\POS.DAL\bin\Release\POS.DAL.pdb
+E:\Al Mamun\SalesCom_Merge_Latest_7_jun_22\POS.DAL\obj\Release\POS.DAL.csprojResolveAssemblyReference.cache
+E:\Al Mamun\SalesCom_Merge_Latest_7_jun_22\POS.DAL\obj\Release\POS.DAL.dll
+E:\Al Mamun\SalesCom_Merge_Latest_7_jun_22\POS.DAL\obj\Release\POS.DAL.pdb
+E:\SalesCom\ESI Doc\Solution\SalesCom_12_06_2022\SalesCom_ESI_19_jun_22\POS.DAL\bin\Release\POS.DAL.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_12_06_2022\SalesCom_ESI_19_jun_22\POS.DAL\bin\Release\POS.DAL.pdb
+E:\SalesCom\ESI Doc\Solution\SalesCom_12_06_2022\SalesCom_ESI_19_jun_22\POS.DAL\obj\Release\POS.DAL.csprojResolveAssemblyReference.cache
+E:\SalesCom\ESI Doc\Solution\SalesCom_12_06_2022\SalesCom_ESI_19_jun_22\POS.DAL\obj\Release\POS.DAL.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_12_06_2022\SalesCom_ESI_19_jun_22\POS.DAL\obj\Release\POS.DAL.pdb
+D:\Salescom Development\Salescom esi_29_jun\SalesCom_ESI_29_jun_22\POS.DAL\bin\Release\POS.DAL.dll
+D:\Salescom Development\Salescom esi_29_jun\SalesCom_ESI_29_jun_22\POS.DAL\bin\Release\POS.DAL.pdb
+D:\Salescom Development\Salescom esi_29_jun\SalesCom_ESI_29_jun_22\POS.DAL\obj\Release\POS.DAL.csprojResolveAssemblyReference.cache
+D:\Salescom Development\Salescom esi_29_jun\SalesCom_ESI_29_jun_22\POS.DAL\obj\Release\POS.DAL.dll
+D:\Salescom Development\Salescom esi_29_jun\SalesCom_ESI_29_jun_22\POS.DAL\obj\Release\POS.DAL.pdb
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_04_Jul_22\POS.DAL\bin\Release\POS.DAL.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_04_Jul_22\POS.DAL\bin\Release\POS.DAL.pdb
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_04_Jul_22\POS.DAL\obj\Release\POS.DAL.csprojResolveAssemblyReference.cache
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_04_Jul_22\POS.DAL\obj\Release\POS.DAL.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_04_Jul_22\POS.DAL\obj\Release\POS.DAL.pdb
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_05_Jul_22\POS.DAL\bin\Release\POS.DAL.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_05_Jul_22\POS.DAL\bin\Release\POS.DAL.pdb
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_05_Jul_22\POS.DAL\obj\Release\POS.DAL.csprojResolveAssemblyReference.cache
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_05_Jul_22\POS.DAL\obj\Release\POS.DAL.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_05_Jul_22\POS.DAL\obj\Release\POS.DAL.pdb
+D:\Salescom Development\SalesCom_ESI_18_Jul_22\POS.DAL\bin\Release\POS.DAL.dll
+D:\Salescom Development\SalesCom_ESI_18_Jul_22\POS.DAL\bin\Release\POS.DAL.pdb
+D:\Salescom Development\SalesCom_ESI_18_Jul_22\POS.DAL\obj\Release\POS.DAL.dll
+D:\Salescom Development\SalesCom_ESI_18_Jul_22\POS.DAL\obj\Release\POS.DAL.pdb
+D:\SalesCom_ESI_19_Jul_22\POS.DAL\bin\Release\POS.DAL.dll
+D:\SalesCom_ESI_19_Jul_22\POS.DAL\bin\Release\POS.DAL.pdb
+D:\SalesCom_ESI_19_Jul_22\POS.DAL\obj\Release\POS.DAL.csprojResolveAssemblyReference.cache
+D:\SalesCom_ESI_19_Jul_22\POS.DAL\obj\Release\POS.DAL.dll
+D:\SalesCom_ESI_19_Jul_22\POS.DAL\obj\Release\POS.DAL.pdb

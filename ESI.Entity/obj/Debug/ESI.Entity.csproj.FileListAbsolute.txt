@@ -1,0 +1,141 @@
+E:\SalesCom Source Code\salescom_app-master\ESI.Entity\bin\Debug\ESI.Entity.dll
+E:\SalesCom Source Code\salescom_app-master\ESI.Entity\bin\Debug\ESI.Entity.pdb
+E:\SalesCom Source Code\salescom_app-master\ESI.Entity\obj\Debug\ESI.Entity.csprojResolveAssemblyReference.cache
+E:\SalesCom Source Code\salescom_app-master\ESI.Entity\obj\Debug\ESI.Entity.dll
+E:\SalesCom Source Code\salescom_app-master\ESI.Entity\obj\Debug\ESI.Entity.pdb
+D:\ESI second Phase Development\Development\salescom_app-master\ESI.Entity\bin\Debug\ESI.Entity.dll
+D:\ESI second Phase Development\Development\salescom_app-master\ESI.Entity\bin\Debug\ESI.Entity.pdb
+D:\ESI second Phase Development\Development\salescom_app-master\ESI.Entity\obj\Debug\ESI.Entity.csprojResolveAssemblyReference.cache
+D:\ESI second Phase Development\Development\salescom_app-master\ESI.Entity\obj\Debug\ESI.Entity.dll
+D:\ESI second Phase Development\Development\salescom_app-master\ESI.Entity\obj\Debug\ESI.Entity.pdb
+F:\My\salescom_app new dev\ESI.Entity\bin\Debug\ESI.Entity.dll
+F:\My\salescom_app new dev\ESI.Entity\bin\Debug\ESI.Entity.pdb
+F:\My\salescom_app new dev\ESI.Entity\obj\Debug\ESI.Entity.csprojResolveAssemblyReference.cache
+F:\My\salescom_app new dev\ESI.Entity\obj\Debug\ESI.Entity.dll
+F:\My\salescom_app new dev\ESI.Entity\obj\Debug\ESI.Entity.pdb
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app Development for Test server\ESI.Entity\bin\Debug\ESI.Entity.dll
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app Development for Test server\ESI.Entity\bin\Debug\ESI.Entity.pdb
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app Development for Test server\ESI.Entity\obj\Debug\ESI.Entity.csprojAssemblyReference.cache
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app Development for Test server\ESI.Entity\obj\Debug\ESI.Entity.csproj.CoreCompileInputs.cache
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app Development for Test server\ESI.Entity\obj\Debug\ESI.Entity.dll
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app Development for Test server\ESI.Entity\obj\Debug\ESI.Entity.pdb
+D:\1. Project Folders\Salescommission Project on 13 APR 21\Salescom_code\salescomm\ESI.Entity\bin\Debug\ESI.Entity.dll
+D:\1. Project Folders\Salescommission Project on 13 APR 21\Salescom_code\salescomm\ESI.Entity\bin\Debug\ESI.Entity.pdb
+D:\1. Project Folders\Salescommission Project on 13 APR 21\Salescom_code\salescomm\ESI.Entity\obj\Debug\ESI.Entity.csprojResolveAssemblyReference.cache
+D:\1. Project Folders\Salescommission Project on 13 APR 21\Salescom_code\salescomm\ESI.Entity\obj\Debug\ESI.Entity.dll
+D:\1. Project Folders\Salescommission Project on 13 APR 21\Salescom_code\salescomm\ESI.Entity\obj\Debug\ESI.Entity.pdb
+F:\My\salescomm 27-7-21\salescomm\ESI.Entity\bin\Debug\ESI.Entity.dll
+F:\My\salescomm 27-7-21\salescomm\ESI.Entity\bin\Debug\ESI.Entity.pdb
+F:\My\salescomm 27-7-21\salescomm\ESI.Entity\obj\Debug\ESI.Entity.dll
+F:\My\salescomm 27-7-21\salescomm\ESI.Entity\obj\Debug\ESI.Entity.pdb
+F:\Mustak\Commission\SalesComm Solution\salescom_app\ESI.Entity\bin\Debug\ESI.Entity.dll
+F:\Mustak\Commission\SalesComm Solution\salescom_app\ESI.Entity\bin\Debug\ESI.Entity.pdb
+F:\Mustak\Commission\SalesComm Solution\salescom_app\ESI.Entity\obj\Debug\ESI.Entity.csprojResolveAssemblyReference.cache
+F:\Mustak\Commission\SalesComm Solution\salescom_app\ESI.Entity\obj\Debug\ESI.Entity.dll
+F:\Mustak\Commission\SalesComm Solution\salescom_app\ESI.Entity\obj\Debug\ESI.Entity.pdb
+D:\Commission\Commission\SalesComm Solution\SalesComm Solution\salescom_app\ESI.Entity\bin\Debug\ESI.Entity.dll
+D:\Commission\Commission\SalesComm Solution\SalesComm Solution\salescom_app\ESI.Entity\bin\Debug\ESI.Entity.pdb
+D:\Commission\Commission\SalesComm Solution\SalesComm Solution\salescom_app\ESI.Entity\obj\Debug\ESI.Entity.csprojResolveAssemblyReference.cache
+D:\Commission\Commission\SalesComm Solution\SalesComm Solution\salescom_app\ESI.Entity\obj\Debug\ESI.Entity.dll
+D:\Commission\Commission\SalesComm Solution\SalesComm Solution\salescom_app\ESI.Entity\obj\Debug\ESI.Entity.pdb
+E:\SalesCom\CR\NewCR\salescom_app 16_3_22\salescom_app\ESI.Entity\bin\Debug\ESI.Entity.dll
+E:\SalesCom\CR\NewCR\salescom_app 16_3_22\salescom_app\ESI.Entity\bin\Debug\ESI.Entity.pdb
+E:\SalesCom\CR\NewCR\salescom_app 16_3_22\salescom_app\ESI.Entity\obj\Debug\ESI.Entity.csprojResolveAssemblyReference.cache
+E:\SalesCom\CR\NewCR\salescom_app 16_3_22\salescom_app\ESI.Entity\obj\Debug\ESI.Entity.dll
+E:\SalesCom\CR\NewCR\salescom_app 16_3_22\salescom_app\ESI.Entity\obj\Debug\ESI.Entity.pdb
+E:\SalesCom\Solution\SalesCom\ESI.Entity\bin\Debug\ESI.Entity.dll
+E:\SalesCom\Solution\SalesCom\ESI.Entity\bin\Debug\ESI.Entity.pdb
+E:\SalesCom\Solution\SalesCom\ESI.Entity\obj\Debug\ESI.Entity.dll
+E:\SalesCom\Solution\SalesCom\ESI.Entity\obj\Debug\ESI.Entity.pdb
+E:\SalesCom\Solution\SalesCom\ESI.Entity\obj\Debug\ESI.Entity.csproj.AssemblyReference.cache
+E:\SalesCom\Solution\SalesCom\ESI.Entity\obj\Debug\ESI.Entity.csproj.CoreCompileInputs.cache
+D:\SaleComMarge\SalesCom\ESI.Entity\bin\Debug\ESI.Entity.dll
+D:\SaleComMarge\SalesCom\ESI.Entity\bin\Debug\ESI.Entity.pdb
+D:\SaleComMarge\SalesCom\ESI.Entity\obj\Debug\ESI.Entity.csprojResolveAssemblyReference.cache
+D:\SaleComMarge\SalesCom\ESI.Entity\obj\Debug\ESI.Entity.dll
+D:\SaleComMarge\SalesCom\ESI.Entity\obj\Debug\ESI.Entity.pdb
+E:\SalesCom\Solution\SaleComMarge\SalesCom\ESI.Entity\bin\Debug\ESI.Entity.dll
+E:\SalesCom\Solution\SaleComMarge\SalesCom\ESI.Entity\bin\Debug\ESI.Entity.pdb
+E:\SalesCom\Solution\SaleComMarge\SalesCom\ESI.Entity\obj\Debug\ESI.Entity.csprojResolveAssemblyReference.cache
+E:\SalesCom\Solution\SaleComMarge\SalesCom\ESI.Entity\obj\Debug\ESI.Entity.dll
+E:\SalesCom\Solution\SaleComMarge\SalesCom\ESI.Entity\obj\Debug\ESI.Entity.pdb
+E:\SalesCom\Solution\SaleComMarge\SaleComMarge\SalesCom\ESI.Entity\bin\Debug\ESI.Entity.dll
+E:\SalesCom\Solution\SaleComMarge\SaleComMarge\SalesCom\ESI.Entity\bin\Debug\ESI.Entity.pdb
+E:\SalesCom\Solution\SaleComMarge\SaleComMarge\SalesCom\ESI.Entity\obj\Debug\ESI.Entity.csprojResolveAssemblyReference.cache
+E:\SalesCom\Solution\SaleComMarge\SaleComMarge\SalesCom\ESI.Entity\obj\Debug\ESI.Entity.dll
+E:\SalesCom\Solution\SaleComMarge\SaleComMarge\SalesCom\ESI.Entity\obj\Debug\ESI.Entity.pdb
+D:\SalesCom\SalesCom\ESI.Entity\bin\Debug\ESI.Entity.dll
+D:\SalesCom\SalesCom\ESI.Entity\bin\Debug\ESI.Entity.pdb
+D:\SalesCom\SalesCom\ESI.Entity\obj\Debug\ESI.Entity.csprojResolveAssemblyReference.cache
+D:\SalesCom\SalesCom\ESI.Entity\obj\Debug\ESI.Entity.dll
+D:\SalesCom\SalesCom\ESI.Entity\obj\Debug\ESI.Entity.pdb
+E:\SalesCom\Solution\Latest Salescom\SalesCom\SalesCom\ESI.Entity\bin\Debug\ESI.Entity.dll
+E:\SalesCom\Solution\Latest Salescom\SalesCom\SalesCom\ESI.Entity\bin\Debug\ESI.Entity.pdb
+E:\SalesCom\Solution\Latest Salescom\SalesCom\SalesCom\ESI.Entity\obj\Debug\ESI.Entity.csprojResolveAssemblyReference.cache
+E:\SalesCom\Solution\Latest Salescom\SalesCom\SalesCom\ESI.Entity\obj\Debug\ESI.Entity.dll
+E:\SalesCom\Solution\Latest Salescom\SalesCom\SalesCom\ESI.Entity\obj\Debug\ESI.Entity.pdb
+D:\SalesCom\ESI.Entity\bin\Debug\ESI.Entity.dll
+D:\SalesCom\ESI.Entity\bin\Debug\ESI.Entity.pdb
+D:\SalesCom\ESI.Entity\obj\Debug\ESI.Entity.csprojResolveAssemblyReference.cache
+D:\SalesCom\ESI.Entity\obj\Debug\ESI.Entity.dll
+D:\SalesCom\ESI.Entity\obj\Debug\ESI.Entity.pdb
+E:\Salescom deployment\SalesCom_Latest\SalesCom\ESI.Entity\bin\Debug\ESI.Entity.dll
+E:\Salescom deployment\SalesCom_Latest\SalesCom\ESI.Entity\bin\Debug\ESI.Entity.pdb
+E:\Salescom deployment\SalesCom_Latest\SalesCom\ESI.Entity\obj\Debug\ESI.Entity.csprojResolveAssemblyReference.cache
+E:\Salescom deployment\SalesCom_Latest\SalesCom\ESI.Entity\obj\Debug\ESI.Entity.dll
+E:\Salescom deployment\SalesCom_Latest\SalesCom\ESI.Entity\obj\Debug\ESI.Entity.pdb
+E:\SalesCom\ESI.Entity\bin\Debug\ESI.Entity.dll
+E:\SalesCom\ESI.Entity\bin\Debug\ESI.Entity.pdb
+E:\SalesCom\ESI.Entity\obj\Debug\ESI.Entity.csprojResolveAssemblyReference.cache
+E:\SalesCom\ESI.Entity\obj\Debug\ESI.Entity.dll
+E:\SalesCom\ESI.Entity\obj\Debug\ESI.Entity.pdb
+E:\SalesCom\Solution\MERGE_PROJECT\SalesCom\ESI.Entity\bin\Debug\ESI.Entity.dll
+E:\SalesCom\Solution\MERGE_PROJECT\SalesCom\ESI.Entity\bin\Debug\ESI.Entity.pdb
+E:\SalesCom\Solution\MERGE_PROJECT\SalesCom\ESI.Entity\obj\Debug\ESI.Entity.csprojResolveAssemblyReference.cache
+E:\SalesCom\Solution\MERGE_PROJECT\SalesCom\ESI.Entity\obj\Debug\ESI.Entity.dll
+E:\SalesCom\Solution\MERGE_PROJECT\SalesCom\ESI.Entity\obj\Debug\ESI.Entity.pdb
+E:\Al Mamun\Merge_Project\SalesCom\ESI.Entity\bin\Debug\ESI.Entity.dll
+E:\Al Mamun\Merge_Project\SalesCom\ESI.Entity\bin\Debug\ESI.Entity.pdb
+E:\Al Mamun\Merge_Project\SalesCom\ESI.Entity\obj\Debug\ESI.Entity.csprojResolveAssemblyReference.cache
+E:\Al Mamun\Merge_Project\SalesCom\ESI.Entity\obj\Debug\ESI.Entity.dll
+E:\Al Mamun\Merge_Project\SalesCom\ESI.Entity\obj\Debug\ESI.Entity.pdb
+E:\Al Mamun\SalesCom_Merge_Latest_7_jun_22\ESI.Entity\bin\Debug\ESI.Entity.dll
+E:\Al Mamun\SalesCom_Merge_Latest_7_jun_22\ESI.Entity\bin\Debug\ESI.Entity.pdb
+E:\Al Mamun\SalesCom_Merge_Latest_7_jun_22\ESI.Entity\obj\Debug\ESI.Entity.csprojResolveAssemblyReference.cache
+E:\Al Mamun\SalesCom_Merge_Latest_7_jun_22\ESI.Entity\obj\Debug\ESI.Entity.dll
+E:\Al Mamun\SalesCom_Merge_Latest_7_jun_22\ESI.Entity\obj\Debug\ESI.Entity.pdb
+E:\SalesCom\ESI Doc\Solution\SalesCom_12_06_2022\SalesCom_Merge_Latest_7_jun_22\ESI.Entity\bin\Debug\ESI.Entity.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_12_06_2022\SalesCom_Merge_Latest_7_jun_22\ESI.Entity\bin\Debug\ESI.Entity.pdb
+E:\SalesCom\ESI Doc\Solution\SalesCom_12_06_2022\SalesCom_Merge_Latest_7_jun_22\ESI.Entity\obj\Debug\ESI.Entity.csprojResolveAssemblyReference.cache
+E:\SalesCom\ESI Doc\Solution\SalesCom_12_06_2022\SalesCom_Merge_Latest_7_jun_22\ESI.Entity\obj\Debug\ESI.Entity.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_12_06_2022\SalesCom_Merge_Latest_7_jun_22\ESI.Entity\obj\Debug\ESI.Entity.pdb
+E:\SalesCom\ESI Doc\Solution\SalesCom_12_06_2022\SalesCom_ESI_19_jun_22\ESI.Entity\bin\Debug\ESI.Entity.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_12_06_2022\SalesCom_ESI_19_jun_22\ESI.Entity\bin\Debug\ESI.Entity.pdb
+E:\SalesCom\ESI Doc\Solution\SalesCom_12_06_2022\SalesCom_ESI_19_jun_22\ESI.Entity\obj\Debug\ESI.Entity.csprojResolveAssemblyReference.cache
+E:\SalesCom\ESI Doc\Solution\SalesCom_12_06_2022\SalesCom_ESI_19_jun_22\ESI.Entity\obj\Debug\ESI.Entity.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_12_06_2022\SalesCom_ESI_19_jun_22\ESI.Entity\obj\Debug\ESI.Entity.pdb
+D:\Salescom Development\Salescom esi_29_jun\SalesCom_ESI_29_jun_22\ESI.Entity\bin\Debug\ESI.Entity.dll
+D:\Salescom Development\Salescom esi_29_jun\SalesCom_ESI_29_jun_22\ESI.Entity\bin\Debug\ESI.Entity.pdb
+D:\Salescom Development\Salescom esi_29_jun\SalesCom_ESI_29_jun_22\ESI.Entity\obj\Debug\ESI.Entity.csprojResolveAssemblyReference.cache
+D:\Salescom Development\Salescom esi_29_jun\SalesCom_ESI_29_jun_22\ESI.Entity\obj\Debug\ESI.Entity.dll
+D:\Salescom Development\Salescom esi_29_jun\SalesCom_ESI_29_jun_22\ESI.Entity\obj\Debug\ESI.Entity.pdb
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_04_Jul_22\ESI.Entity\bin\Debug\ESI.Entity.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_04_Jul_22\ESI.Entity\bin\Debug\ESI.Entity.pdb
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_04_Jul_22\ESI.Entity\obj\Debug\ESI.Entity.csprojResolveAssemblyReference.cache
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_04_Jul_22\ESI.Entity\obj\Debug\ESI.Entity.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_04_Jul_22\ESI.Entity\obj\Debug\ESI.Entity.pdb
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_05_Jul_22\ESI.Entity\bin\Debug\ESI.Entity.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_05_Jul_22\ESI.Entity\bin\Debug\ESI.Entity.pdb
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_05_Jul_22\ESI.Entity\obj\Debug\ESI.Entity.csprojResolveAssemblyReference.cache
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_05_Jul_22\ESI.Entity\obj\Debug\ESI.Entity.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_05_Jul_22\ESI.Entity\obj\Debug\ESI.Entity.pdb
+D:\Salescom Development\SalesCom_ESI_18_Jul_22\ESI.Entity\bin\Debug\ESI.Entity.dll
+D:\Salescom Development\SalesCom_ESI_18_Jul_22\ESI.Entity\bin\Debug\ESI.Entity.pdb
+D:\Salescom Development\SalesCom_ESI_18_Jul_22\ESI.Entity\obj\Debug\ESI.Entity.csprojResolveAssemblyReference.cache
+D:\Salescom Development\SalesCom_ESI_18_Jul_22\ESI.Entity\obj\Debug\ESI.Entity.dll
+D:\Salescom Development\SalesCom_ESI_18_Jul_22\ESI.Entity\obj\Debug\ESI.Entity.pdb
+D:\SalesCom_ESI_19_Jul_22\ESI.Entity\bin\Debug\ESI.Entity.dll
+D:\SalesCom_ESI_19_Jul_22\ESI.Entity\bin\Debug\ESI.Entity.pdb
+D:\SalesCom_ESI_19_Jul_22\ESI.Entity\obj\Debug\ESI.Entity.csprojResolveAssemblyReference.cache
+D:\SalesCom_ESI_19_Jul_22\ESI.Entity\obj\Debug\ESI.Entity.dll
+D:\SalesCom_ESI_19_Jul_22\ESI.Entity\obj\Debug\ESI.Entity.pdb

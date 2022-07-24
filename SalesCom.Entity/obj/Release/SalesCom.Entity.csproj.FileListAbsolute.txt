@@ -1,0 +1,139 @@
+F:\My\salescom_app new dev\SalesCom.Entity\bin\Release\SalesCom.Entity.dll
+F:\My\salescom_app new dev\SalesCom.Entity\bin\Release\SalesCom.Entity.pdb
+F:\My\salescom_app new dev\SalesCom.Entity\obj\Release\SalesCom.Entity.dll
+F:\My\salescom_app new dev\SalesCom.Entity\obj\Release\SalesCom.Entity.pdb
+F:\My\salescom_app new dev\SalesCom.Entity\obj\Release\SalesCom.Entity.csprojResolveAssemblyReference.cache
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app new dev\SalesCom.Entity\bin\Release\SalesCom.Entity.dll
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app new dev\SalesCom.Entity\bin\Release\SalesCom.Entity.pdb
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app new dev\SalesCom.Entity\obj\Release\SalesCom.Entity.dll
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app new dev\SalesCom.Entity\obj\Release\SalesCom.Entity.pdb
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app Development for Test server\SalesCom.Entity\bin\Release\SalesCom.Entity.dll
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app Development for Test server\SalesCom.Entity\bin\Release\SalesCom.Entity.pdb
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app Development for Test server\SalesCom.Entity\obj\Release\SalesCom.Entity.csprojResolveAssemblyReference.cache
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app Development for Test server\SalesCom.Entity\obj\Release\SalesCom.Entity.dll
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app Development for Test server\SalesCom.Entity\obj\Release\SalesCom.Entity.pdb
+D:\1. Project Folders\Salescommission Project on 13 APR 21\Salescom_code\salescomm\SalesCom.Entity\bin\Release\SalesCom.Entity.dll
+D:\1. Project Folders\Salescommission Project on 13 APR 21\Salescom_code\salescomm\SalesCom.Entity\bin\Release\SalesCom.Entity.pdb
+D:\1. Project Folders\Salescommission Project on 13 APR 21\Salescom_code\salescomm\SalesCom.Entity\obj\Release\SalesCom.Entity.dll
+D:\1. Project Folders\Salescommission Project on 13 APR 21\Salescom_code\salescomm\SalesCom.Entity\obj\Release\SalesCom.Entity.pdb
+F:\My\salescomm 27-7-21\salescomm\SalesCom.Entity\bin\Release\SalesCom.Entity.dll
+F:\My\salescomm 27-7-21\salescomm\SalesCom.Entity\bin\Release\SalesCom.Entity.pdb
+F:\My\salescomm 27-7-21\salescomm\SalesCom.Entity\obj\Release\SalesCom.Entity.dll
+F:\My\salescomm 27-7-21\salescomm\SalesCom.Entity\obj\Release\SalesCom.Entity.pdb
+F:\Mustak\Commission\SalesComm Solution\salescom_app\SalesCom.Entity\bin\Release\SalesCom.Entity.dll
+F:\Mustak\Commission\SalesComm Solution\salescom_app\SalesCom.Entity\bin\Release\SalesCom.Entity.pdb
+F:\Mustak\Commission\SalesComm Solution\salescom_app\SalesCom.Entity\obj\Release\SalesCom.Entity.csprojResolveAssemblyReference.cache
+F:\Mustak\Commission\SalesComm Solution\salescom_app\SalesCom.Entity\obj\Release\SalesCom.Entity.dll
+F:\Mustak\Commission\SalesComm Solution\salescom_app\SalesCom.Entity\obj\Release\SalesCom.Entity.pdb
+D:\Commission\Commission\SalesComm Solution\SalesComm Solution\salescom_app\SalesCom.Entity\bin\Release\SalesCom.Entity.dll
+D:\Commission\Commission\SalesComm Solution\SalesComm Solution\salescom_app\SalesCom.Entity\bin\Release\SalesCom.Entity.pdb
+D:\Commission\Commission\SalesComm Solution\SalesComm Solution\salescom_app\SalesCom.Entity\obj\Release\SalesCom.Entity.csprojResolveAssemblyReference.cache
+D:\Commission\Commission\SalesComm Solution\SalesComm Solution\salescom_app\SalesCom.Entity\obj\Release\SalesCom.Entity.dll
+D:\Commission\Commission\SalesComm Solution\SalesComm Solution\salescom_app\SalesCom.Entity\obj\Release\SalesCom.Entity.pdb
+E:\SalesCom\CR\NewCR\salescom_app 16_3_22\salescom_app\SalesCom.Entity\bin\Release\SalesCom.Entity.dll
+E:\SalesCom\CR\NewCR\salescom_app 16_3_22\salescom_app\SalesCom.Entity\bin\Release\SalesCom.Entity.pdb
+E:\SalesCom\CR\NewCR\salescom_app 16_3_22\salescom_app\SalesCom.Entity\obj\Release\SalesCom.Entity.dll
+E:\SalesCom\CR\NewCR\salescom_app 16_3_22\salescom_app\SalesCom.Entity\obj\Release\SalesCom.Entity.pdb
+E:\SalesCom\Solution\SalesCom\SalesCom.Entity\bin\Release\SalesCom.Entity.dll
+E:\SalesCom\Solution\SalesCom\SalesCom.Entity\bin\Release\SalesCom.Entity.pdb
+E:\SalesCom\Solution\SalesCom\SalesCom.Entity\obj\Release\SalesCom.Entity.dll
+E:\SalesCom\Solution\SalesCom\SalesCom.Entity\obj\Release\SalesCom.Entity.pdb
+E:\SalesCom\Solution\SalesCom\SalesCom.Entity\obj\Release\SalesCom.Entity.csprojResolveAssemblyReference.cache
+D:\SaleComMarge\SalesCom\SalesCom.Entity\bin\Release\SalesCom.Entity.dll
+D:\SaleComMarge\SalesCom\SalesCom.Entity\bin\Release\SalesCom.Entity.pdb
+D:\SaleComMarge\SalesCom\SalesCom.Entity\obj\Release\SalesCom.Entity.csprojResolveAssemblyReference.cache
+D:\SaleComMarge\SalesCom\SalesCom.Entity\obj\Release\SalesCom.Entity.dll
+D:\SaleComMarge\SalesCom\SalesCom.Entity\obj\Release\SalesCom.Entity.pdb
+E:\SalesCom\Solution\SaleComMarge\SalesCom\SalesCom.Entity\bin\Release\SalesCom.Entity.dll
+E:\SalesCom\Solution\SaleComMarge\SalesCom\SalesCom.Entity\bin\Release\SalesCom.Entity.pdb
+E:\SalesCom\Solution\SaleComMarge\SalesCom\SalesCom.Entity\obj\Release\SalesCom.Entity.csprojResolveAssemblyReference.cache
+E:\SalesCom\Solution\SaleComMarge\SalesCom\SalesCom.Entity\obj\Release\SalesCom.Entity.dll
+E:\SalesCom\Solution\SaleComMarge\SalesCom\SalesCom.Entity\obj\Release\SalesCom.Entity.pdb
+E:\SalesCom\Solution\SaleComMarge\SaleComMarge\SalesCom\SalesCom.Entity\bin\Release\SalesCom.Entity.dll
+E:\SalesCom\Solution\SaleComMarge\SaleComMarge\SalesCom\SalesCom.Entity\bin\Release\SalesCom.Entity.pdb
+E:\SalesCom\Solution\SaleComMarge\SaleComMarge\SalesCom\SalesCom.Entity\obj\Release\SalesCom.Entity.csprojResolveAssemblyReference.cache
+E:\SalesCom\Solution\SaleComMarge\SaleComMarge\SalesCom\SalesCom.Entity\obj\Release\SalesCom.Entity.dll
+E:\SalesCom\Solution\SaleComMarge\SaleComMarge\SalesCom\SalesCom.Entity\obj\Release\SalesCom.Entity.pdb
+D:\SalesCom\SalesCom\SalesCom.Entity\bin\Release\SalesCom.Entity.dll
+D:\SalesCom\SalesCom\SalesCom.Entity\bin\Release\SalesCom.Entity.pdb
+D:\SalesCom\SalesCom\SalesCom.Entity\obj\Release\SalesCom.Entity.dll
+D:\SalesCom\SalesCom\SalesCom.Entity\obj\Release\SalesCom.Entity.pdb
+E:\SalesCom\Solution\Latest Salescom\SalesCom\SalesCom\SalesCom.Entity\bin\Release\SalesCom.Entity.dll
+E:\SalesCom\Solution\Latest Salescom\SalesCom\SalesCom\SalesCom.Entity\bin\Release\SalesCom.Entity.pdb
+E:\SalesCom\Solution\Latest Salescom\SalesCom\SalesCom\SalesCom.Entity\obj\Release\SalesCom.Entity.dll
+E:\SalesCom\Solution\Latest Salescom\SalesCom\SalesCom\SalesCom.Entity\obj\Release\SalesCom.Entity.pdb
+D:\SalesCom\SalesCom.Entity\bin\Release\SalesCom.Entity.dll
+D:\SalesCom\SalesCom.Entity\bin\Release\SalesCom.Entity.pdb
+D:\SalesCom\SalesCom.Entity\obj\Release\SalesCom.Entity.csprojResolveAssemblyReference.cache
+D:\SalesCom\SalesCom.Entity\obj\Release\SalesCom.Entity.dll
+D:\SalesCom\SalesCom.Entity\obj\Release\SalesCom.Entity.pdb
+D:\Salescom\SalesCom\SalesCom.Entity\obj\Release\SalesCom.Entity.csprojResolveAssemblyReference.cache
+E:\SalesCom\Solution\Latest Salescom\SalesCom\Details_SalesCom\Salescom\Salescom\SalesCom\SalesCom.Entity\bin\Release\SalesCom.Entity.dll
+E:\SalesCom\Solution\Latest Salescom\SalesCom\Details_SalesCom\Salescom\Salescom\SalesCom\SalesCom.Entity\bin\Release\SalesCom.Entity.pdb
+E:\SalesCom\Solution\Latest Salescom\SalesCom\Details_SalesCom\Salescom\Salescom\SalesCom\SalesCom.Entity\obj\Release\SalesCom.Entity.dll
+E:\SalesCom\Solution\Latest Salescom\SalesCom\Details_SalesCom\Salescom\Salescom\SalesCom\SalesCom.Entity\obj\Release\SalesCom.Entity.pdb
+E:\SalesCom\Solution\Latest Salescom\SalesCom\Details_SalesCom\Salescom\Salescom\SalesCom\SalesCom.Entity\obj\Release\SalesCom.Entity.csprojResolveAssemblyReference.cache
+E:\SalesCom\Solution\Latest Salescom\SalesCom\Merge_SalesCom\SalesCom\SalesCom.Entity\bin\Release\SalesCom.Entity.dll
+E:\SalesCom\Solution\Latest Salescom\SalesCom\Merge_SalesCom\SalesCom\SalesCom.Entity\bin\Release\SalesCom.Entity.pdb
+E:\SalesCom\Solution\Latest Salescom\SalesCom\Merge_SalesCom\SalesCom\SalesCom.Entity\obj\Release\SalesCom.Entity.csprojResolveAssemblyReference.cache
+E:\SalesCom\Solution\Latest Salescom\SalesCom\Merge_SalesCom\SalesCom\SalesCom.Entity\obj\Release\SalesCom.Entity.dll
+E:\SalesCom\Solution\Latest Salescom\SalesCom\Merge_SalesCom\SalesCom\SalesCom.Entity\obj\Release\SalesCom.Entity.pdb
+E:\Salescom deployment\SalesCom_Latest\SalesCom\SalesCom.Entity\bin\Release\SalesCom.Entity.dll
+E:\Salescom deployment\SalesCom_Latest\SalesCom\SalesCom.Entity\bin\Release\SalesCom.Entity.pdb
+E:\Salescom deployment\SalesCom_Latest\SalesCom\SalesCom.Entity\obj\Release\SalesCom.Entity.csprojResolveAssemblyReference.cache
+E:\Salescom deployment\SalesCom_Latest\SalesCom\SalesCom.Entity\obj\Release\SalesCom.Entity.dll
+E:\Salescom deployment\SalesCom_Latest\SalesCom\SalesCom.Entity\obj\Release\SalesCom.Entity.pdb
+E:\SalesCom\Solution\LIVE_SOLUTION\SalesCom\SalesCom.Entity\bin\Release\SalesCom.Entity.dll
+E:\SalesCom\Solution\LIVE_SOLUTION\SalesCom\SalesCom.Entity\bin\Release\SalesCom.Entity.pdb
+E:\SalesCom\Solution\LIVE_SOLUTION\SalesCom\SalesCom.Entity\obj\Release\SalesCom.Entity.csprojResolveAssemblyReference.cache
+E:\SalesCom\Solution\LIVE_SOLUTION\SalesCom\SalesCom.Entity\obj\Release\SalesCom.Entity.dll
+E:\SalesCom\Solution\LIVE_SOLUTION\SalesCom\SalesCom.Entity\obj\Release\SalesCom.Entity.pdb
+E:\SalesCom\SalesCom.Entity\bin\Release\SalesCom.Entity.dll
+E:\SalesCom\SalesCom.Entity\bin\Release\SalesCom.Entity.pdb
+E:\SalesCom\SalesCom.Entity\obj\Release\SalesCom.Entity.csprojResolveAssemblyReference.cache
+E:\SalesCom\SalesCom.Entity\obj\Release\SalesCom.Entity.dll
+E:\SalesCom\SalesCom.Entity\obj\Release\SalesCom.Entity.pdb
+E:\SalesCom\Solution\MERGE_PROJECT\SalesCom\SalesCom.Entity\bin\Release\SalesCom.Entity.dll
+E:\SalesCom\Solution\MERGE_PROJECT\SalesCom\SalesCom.Entity\bin\Release\SalesCom.Entity.pdb
+E:\SalesCom\Solution\MERGE_PROJECT\SalesCom\SalesCom.Entity\obj\Release\SalesCom.Entity.csprojResolveAssemblyReference.cache
+E:\SalesCom\Solution\MERGE_PROJECT\SalesCom\SalesCom.Entity\obj\Release\SalesCom.Entity.dll
+E:\SalesCom\Solution\MERGE_PROJECT\SalesCom\SalesCom.Entity\obj\Release\SalesCom.Entity.pdb
+E:\Al Mamun\Merge_Project\SalesCom\SalesCom.Entity\bin\Release\SalesCom.Entity.dll
+E:\Al Mamun\Merge_Project\SalesCom\SalesCom.Entity\bin\Release\SalesCom.Entity.pdb
+E:\Al Mamun\Merge_Project\SalesCom\SalesCom.Entity\obj\Release\SalesCom.Entity.csprojResolveAssemblyReference.cache
+E:\Al Mamun\Merge_Project\SalesCom\SalesCom.Entity\obj\Release\SalesCom.Entity.dll
+E:\Al Mamun\Merge_Project\SalesCom\SalesCom.Entity\obj\Release\SalesCom.Entity.pdb
+E:\Al Mamun\SalesCom_Merge_Latest_7_jun_22\SalesCom.Entity\bin\Release\SalesCom.Entity.dll
+E:\Al Mamun\SalesCom_Merge_Latest_7_jun_22\SalesCom.Entity\bin\Release\SalesCom.Entity.pdb
+E:\Al Mamun\SalesCom_Merge_Latest_7_jun_22\SalesCom.Entity\obj\Release\SalesCom.Entity.csprojResolveAssemblyReference.cache
+E:\Al Mamun\SalesCom_Merge_Latest_7_jun_22\SalesCom.Entity\obj\Release\SalesCom.Entity.dll
+E:\Al Mamun\SalesCom_Merge_Latest_7_jun_22\SalesCom.Entity\obj\Release\SalesCom.Entity.pdb
+E:\SalesCom\ESI Doc\Solution\SalesCom_12_06_2022\SalesCom_ESI_19_jun_22\SalesCom.Entity\bin\Release\SalesCom.Entity.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_12_06_2022\SalesCom_ESI_19_jun_22\SalesCom.Entity\bin\Release\SalesCom.Entity.pdb
+E:\SalesCom\ESI Doc\Solution\SalesCom_12_06_2022\SalesCom_ESI_19_jun_22\SalesCom.Entity\obj\Release\SalesCom.Entity.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_12_06_2022\SalesCom_ESI_19_jun_22\SalesCom.Entity\obj\Release\SalesCom.Entity.pdb
+E:\SalesCom\ESI Doc\Solution\SalesCom_12_06_2022\SalesCom_ESI_19_jun_22\SalesCom.Entity\obj\Release\SalesCom.Entity.csprojResolveAssemblyReference.cache
+D:\Salescom Development\Salescom esi_29_jun\SalesCom_ESI_29_jun_22\SalesCom.Entity\bin\Release\SalesCom.Entity.dll
+D:\Salescom Development\Salescom esi_29_jun\SalesCom_ESI_29_jun_22\SalesCom.Entity\bin\Release\SalesCom.Entity.pdb
+D:\Salescom Development\Salescom esi_29_jun\SalesCom_ESI_29_jun_22\SalesCom.Entity\obj\Release\SalesCom.Entity.csprojResolveAssemblyReference.cache
+D:\Salescom Development\Salescom esi_29_jun\SalesCom_ESI_29_jun_22\SalesCom.Entity\obj\Release\SalesCom.Entity.dll
+D:\Salescom Development\Salescom esi_29_jun\SalesCom_ESI_29_jun_22\SalesCom.Entity\obj\Release\SalesCom.Entity.pdb
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_04_Jul_22\SalesCom.Entity\bin\Release\SalesCom.Entity.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_04_Jul_22\SalesCom.Entity\bin\Release\SalesCom.Entity.pdb
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_04_Jul_22\SalesCom.Entity\obj\Release\SalesCom.Entity.csprojResolveAssemblyReference.cache
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_04_Jul_22\SalesCom.Entity\obj\Release\SalesCom.Entity.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_04_Jul_22\SalesCom.Entity\obj\Release\SalesCom.Entity.pdb
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_05_Jul_22\SalesCom.Entity\bin\Release\SalesCom.Entity.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_05_Jul_22\SalesCom.Entity\bin\Release\SalesCom.Entity.pdb
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_05_Jul_22\SalesCom.Entity\obj\Release\SalesCom.Entity.csprojResolveAssemblyReference.cache
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_05_Jul_22\SalesCom.Entity\obj\Release\SalesCom.Entity.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_05_Jul_22\SalesCom.Entity\obj\Release\SalesCom.Entity.pdb
+D:\Salescom Development\SalesCom_ESI_18_Jul_22\SalesCom.Entity\bin\Release\SalesCom.Entity.dll
+D:\Salescom Development\SalesCom_ESI_18_Jul_22\SalesCom.Entity\bin\Release\SalesCom.Entity.pdb
+D:\Salescom Development\SalesCom_ESI_18_Jul_22\SalesCom.Entity\obj\Release\SalesCom.Entity.dll
+D:\Salescom Development\SalesCom_ESI_18_Jul_22\SalesCom.Entity\obj\Release\SalesCom.Entity.pdb
+D:\SalesCom_ESI_19_Jul_22\SalesCom.Entity\bin\Release\SalesCom.Entity.dll
+D:\SalesCom_ESI_19_Jul_22\SalesCom.Entity\bin\Release\SalesCom.Entity.pdb
+D:\SalesCom_ESI_19_Jul_22\SalesCom.Entity\obj\Release\SalesCom.Entity.csprojResolveAssemblyReference.cache
+D:\SalesCom_ESI_19_Jul_22\SalesCom.Entity\obj\Release\SalesCom.Entity.dll
+D:\SalesCom_ESI_19_Jul_22\SalesCom.Entity\obj\Release\SalesCom.Entity.pdb

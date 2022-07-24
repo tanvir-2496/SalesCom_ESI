@@ -1,0 +1,420 @@
+D:\SalesCom_04022015\SalesCom\SalesCom.DAL\bin\Release\SalesCom.DAL.dll
+D:\SalesCom_04022015\SalesCom\SalesCom.DAL\bin\Release\SalesCom.DAL.pdb
+D:\SalesCom_04022015\SalesCom\SalesCom.DAL\bin\Release\Oracle.DataAccess.dll
+D:\SalesCom_04022015\SalesCom\SalesCom.DAL\bin\Release\SalesCom.Entity.dll
+D:\SalesCom_04022015\SalesCom\SalesCom.DAL\bin\Release\SalesCom.Entity.pdb
+D:\SalesCom_04022015\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.csprojResolveAssemblyReference.cache
+D:\SalesCom_04022015\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.dll
+D:\SalesCom_04022015\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.pdb
+E:\SalesCom Source Code\02-Nov-16\SalesCom\SalesCom.DAL\bin\Release\SalesCom.DAL.dll
+E:\SalesCom Source Code\02-Nov-16\SalesCom\SalesCom.DAL\bin\Release\SalesCom.DAL.pdb
+E:\SalesCom Source Code\02-Nov-16\SalesCom\SalesCom.DAL\bin\Release\SalesCom.Entity.dll
+E:\SalesCom Source Code\02-Nov-16\SalesCom\SalesCom.DAL\bin\Release\SalesCom.Entity.pdb
+E:\SalesCom Source Code\02-Nov-16\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.csprojResolveAssemblyReference.cache
+E:\SalesCom Source Code\02-Nov-16\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.dll
+E:\SalesCom Source Code\02-Nov-16\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.pdb
+E:\SalesCom Source Code\23-May-17\SalesCom\SalesCom.DAL\bin\Release\SalesCom.DAL.dll
+E:\SalesCom Source Code\23-May-17\SalesCom\SalesCom.DAL\bin\Release\SalesCom.DAL.pdb
+E:\SalesCom Source Code\23-May-17\SalesCom\SalesCom.DAL\bin\Release\Oracle.DataAccess.dll
+E:\SalesCom Source Code\23-May-17\SalesCom\SalesCom.DAL\bin\Release\SalesCom.Entity.dll
+E:\SalesCom Source Code\23-May-17\SalesCom\SalesCom.DAL\bin\Release\SalesCom.Entity.pdb
+E:\SalesCom Source Code\23-May-17\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.csprojResolveAssemblyReference.cache
+E:\SalesCom Source Code\23-May-17\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.dll
+E:\SalesCom Source Code\23-May-17\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.pdb
+F:\SalesCom Source Code\23-May-17\SalesCom\SalesCom.DAL\bin\Release\SalesCom.DAL.dll
+F:\SalesCom Source Code\23-May-17\SalesCom\SalesCom.DAL\bin\Release\SalesCom.DAL.pdb
+F:\SalesCom Source Code\23-May-17\SalesCom\SalesCom.DAL\bin\Release\Oracle.DataAccess.dll
+F:\SalesCom Source Code\23-May-17\SalesCom\SalesCom.DAL\bin\Release\SalesCom.Entity.dll
+F:\SalesCom Source Code\23-May-17\SalesCom\SalesCom.DAL\bin\Release\SalesCom.Entity.pdb
+F:\SalesCom Source Code\23-May-17\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.csprojResolveAssemblyReference.cache
+F:\SalesCom Source Code\23-May-17\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.dll
+F:\SalesCom Source Code\23-May-17\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.pdb
+F:\SalesCom Source Code\27-01-19\SalesCom\SalesCom.DAL\bin\Release\SalesCom.DAL.dll
+F:\SalesCom Source Code\27-01-19\SalesCom\SalesCom.DAL\bin\Release\SalesCom.DAL.pdb
+F:\SalesCom Source Code\27-01-19\SalesCom\SalesCom.DAL\bin\Release\Oracle.DataAccess.dll
+F:\SalesCom Source Code\27-01-19\SalesCom\SalesCom.DAL\bin\Release\SalesCom.Entity.dll
+F:\SalesCom Source Code\27-01-19\SalesCom\SalesCom.DAL\bin\Release\SalesCom.Entity.pdb
+F:\SalesCom Source Code\27-01-19\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.csprojResolveAssemblyReference.cache
+F:\SalesCom Source Code\27-01-19\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.dll
+F:\SalesCom Source Code\27-01-19\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.pdb
+F:\SalesCom Source Code\22-May-19\SalesCom\SalesCom.DAL\bin\Release\SalesCom.DAL.dll
+F:\SalesCom Source Code\22-May-19\SalesCom\SalesCom.DAL\bin\Release\SalesCom.DAL.pdb
+F:\SalesCom Source Code\22-May-19\SalesCom\SalesCom.DAL\bin\Release\Oracle.DataAccess.dll
+F:\SalesCom Source Code\22-May-19\SalesCom\SalesCom.DAL\bin\Release\SalesCom.Entity.dll
+F:\SalesCom Source Code\22-May-19\SalesCom\SalesCom.DAL\bin\Release\SalesCom.Entity.pdb
+F:\SalesCom Source Code\22-May-19\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.dll
+F:\SalesCom Source Code\22-May-19\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.pdb
+F:\SalesCom Source Code\22-May-19\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.csprojAssemblyReference.cache
+F:\SalesCom Source Code\22-May-19\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.csproj.CoreCompileInputs.cache
+F:\SalesCom Source Code\22-May-19\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.csproj.CopyComplete
+E:\SalesCom Source Code\22-May-19\SalesCom Main File Backup 17_11_2019\SalesCom\SalesCom.DAL\bin\Release\SalesCom.DAL.dll
+E:\SalesCom Source Code\22-May-19\SalesCom Main File Backup 17_11_2019\SalesCom\SalesCom.DAL\bin\Release\SalesCom.DAL.pdb
+E:\SalesCom Source Code\22-May-19\SalesCom Main File Backup 17_11_2019\SalesCom\SalesCom.DAL\bin\Release\Oracle.DataAccess.dll
+E:\SalesCom Source Code\22-May-19\SalesCom Main File Backup 17_11_2019\SalesCom\SalesCom.DAL\bin\Release\SalesCom.Entity.dll
+E:\SalesCom Source Code\22-May-19\SalesCom Main File Backup 17_11_2019\SalesCom\SalesCom.DAL\bin\Release\SalesCom.Entity.pdb
+E:\SalesCom Source Code\22-May-19\SalesCom Main File Backup 17_11_2019\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.csprojResolveAssemblyReference.cache
+E:\SalesCom Source Code\22-May-19\SalesCom Main File Backup 17_11_2019\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.dll
+E:\SalesCom Source Code\22-May-19\SalesCom Main File Backup 17_11_2019\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.pdb
+E:\SalesCom Source Code\22-May-19\SalesCom\SalesCom.DAL\bin\Release\SalesCom.DAL.dll
+E:\SalesCom Source Code\22-May-19\SalesCom\SalesCom.DAL\bin\Release\SalesCom.DAL.pdb
+E:\SalesCom Source Code\22-May-19\SalesCom\SalesCom.DAL\bin\Release\Oracle.DataAccess.dll
+E:\SalesCom Source Code\22-May-19\SalesCom\SalesCom.DAL\bin\Release\SalesCom.Entity.dll
+E:\SalesCom Source Code\22-May-19\SalesCom\SalesCom.DAL\bin\Release\SalesCom.Entity.pdb
+E:\SalesCom Source Code\22-May-19\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.csprojResolveAssemblyReference.cache
+E:\SalesCom Source Code\22-May-19\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.dll
+E:\SalesCom Source Code\22-May-19\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.pdb
+F:\Mustak\Commission\salescom_app-master\salescom_app-master\SalesCom.DAL\bin\Release\SalesCom.DAL.dll
+F:\Mustak\Commission\salescom_app-master\salescom_app-master\SalesCom.DAL\bin\Release\SalesCom.DAL.pdb
+F:\Mustak\Commission\salescom_app-master\salescom_app-master\SalesCom.DAL\bin\Release\SalesCom.Entity.dll
+F:\Mustak\Commission\salescom_app-master\salescom_app-master\SalesCom.DAL\bin\Release\SalesCom.Entity.pdb
+F:\Mustak\Commission\salescom_app-master\salescom_app-master\SalesCom.DAL\obj\Release\SalesCom.DAL.csprojResolveAssemblyReference.cache
+F:\Mustak\Commission\salescom_app-master\salescom_app-master\SalesCom.DAL\obj\Release\SalesCom.DAL.dll
+F:\Mustak\Commission\salescom_app-master\salescom_app-master\SalesCom.DAL\obj\Release\SalesCom.DAL.pdb
+F:\Mustak\Commission\SalesCommDevFolder\salescom_app-master\SalesCom.DAL\bin\Release\SalesCom.DAL.dll
+F:\Mustak\Commission\SalesCommDevFolder\salescom_app-master\SalesCom.DAL\bin\Release\SalesCom.DAL.pdb
+F:\Mustak\Commission\SalesCommDevFolder\salescom_app-master\SalesCom.DAL\bin\Release\Oracle.DataAccess.dll
+F:\Mustak\Commission\SalesCommDevFolder\salescom_app-master\SalesCom.DAL\bin\Release\SalesCom.Entity.dll
+F:\Mustak\Commission\SalesCommDevFolder\salescom_app-master\SalesCom.DAL\bin\Release\SalesCom.Entity.pdb
+F:\Mustak\Commission\SalesCommDevFolder\salescom_app-master\SalesCom.DAL\obj\Release\SalesCom.DAL.csprojResolveAssemblyReference.cache
+F:\Mustak\Commission\SalesCommDevFolder\salescom_app-master\SalesCom.DAL\obj\Release\SalesCom.DAL.dll
+F:\Mustak\Commission\SalesCommDevFolder\salescom_app-master\SalesCom.DAL\obj\Release\SalesCom.DAL.pdb
+E:\SalesCom Source Code\salescom_app-master\SalesCom.DAL\bin\Release\SalesCom.DAL.dll
+E:\SalesCom Source Code\salescom_app-master\SalesCom.DAL\bin\Release\SalesCom.DAL.pdb
+E:\SalesCom Source Code\salescom_app-master\SalesCom.DAL\bin\Release\Oracle.DataAccess.dll
+E:\SalesCom Source Code\salescom_app-master\SalesCom.DAL\bin\Release\SalesCom.Entity.dll
+E:\SalesCom Source Code\salescom_app-master\SalesCom.DAL\bin\Release\SalesCom.Entity.pdb
+E:\SalesCom Source Code\salescom_app-master\SalesCom.DAL\obj\Release\SalesCom.DAL.csprojResolveAssemblyReference.cache
+E:\SalesCom Source Code\salescom_app-master\SalesCom.DAL\obj\Release\SalesCom.DAL.dll
+E:\SalesCom Source Code\salescom_app-master\SalesCom.DAL\obj\Release\SalesCom.DAL.pdb
+D:\ESI second Phase Development\Development\salescom_app-master\SalesCom.DAL\bin\Release\SalesCom.DAL.dll
+D:\ESI second Phase Development\Development\salescom_app-master\SalesCom.DAL\bin\Release\SalesCom.DAL.pdb
+D:\ESI second Phase Development\Development\salescom_app-master\SalesCom.DAL\bin\Release\Oracle.DataAccess.dll
+D:\ESI second Phase Development\Development\salescom_app-master\SalesCom.DAL\bin\Release\SalesCom.Entity.dll
+D:\ESI second Phase Development\Development\salescom_app-master\SalesCom.DAL\bin\Release\SalesCom.Entity.pdb
+D:\ESI second Phase Development\Development\salescom_app-master\SalesCom.DAL\obj\Release\SalesCom.DAL.csprojResolveAssemblyReference.cache
+D:\ESI second Phase Development\Development\salescom_app-master\SalesCom.DAL\obj\Release\SalesCom.DAL.dll
+D:\ESI second Phase Development\Development\salescom_app-master\SalesCom.DAL\obj\Release\SalesCom.DAL.pdb
+F:\My\salescom_app new dev\SalesCom.DAL\bin\Release\SalesCom.DAL.dll
+F:\My\salescom_app new dev\SalesCom.DAL\bin\Release\SalesCom.DAL.pdb
+F:\My\salescom_app new dev\SalesCom.DAL\bin\Release\Oracle.DataAccess.dll
+F:\My\salescom_app new dev\SalesCom.DAL\bin\Release\SalesCom.Entity.dll
+F:\My\salescom_app new dev\SalesCom.DAL\bin\Release\SalesCom.Entity.pdb
+F:\My\salescom_app new dev\SalesCom.DAL\obj\Release\SalesCom.DAL.csprojResolveAssemblyReference.cache
+F:\My\salescom_app new dev\SalesCom.DAL\obj\Release\SalesCom.DAL.dll
+F:\My\salescom_app new dev\SalesCom.DAL\obj\Release\SalesCom.DAL.pdb
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app new dev\SalesCom.DAL\bin\Release\SalesCom.DAL.dll
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app new dev\SalesCom.DAL\bin\Release\SalesCom.DAL.pdb
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app new dev\SalesCom.DAL\bin\Release\Oracle.DataAccess.dll
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app new dev\SalesCom.DAL\bin\Release\SalesCom.Entity.dll
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app new dev\SalesCom.DAL\bin\Release\SalesCom.Entity.pdb
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app new dev\SalesCom.DAL\obj\Release\SalesCom.DAL.csprojResolveAssemblyReference.cache
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app new dev\SalesCom.DAL\obj\Release\SalesCom.DAL.dll
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app new dev\SalesCom.DAL\obj\Release\SalesCom.DAL.pdb
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app new dev\SalesCom.DAL\bin\Release\SalesCom.DAL.dll.config
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app new dev\SalesCom.DAL\bin\Release\Oracle.ManagedDataAccess.dll
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app Development for Test server\SalesCom.DAL\bin\Release\SalesCom.DAL.dll.config
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app Development for Test server\SalesCom.DAL\bin\Release\SalesCom.DAL.dll
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app Development for Test server\SalesCom.DAL\bin\Release\SalesCom.DAL.pdb
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app Development for Test server\SalesCom.DAL\bin\Release\Oracle.DataAccess.dll
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app Development for Test server\SalesCom.DAL\bin\Release\Oracle.ManagedDataAccess.dll
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app Development for Test server\SalesCom.DAL\bin\Release\SalesCom.Entity.dll
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app Development for Test server\SalesCom.DAL\bin\Release\SalesCom.Entity.pdb
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app Development for Test server\SalesCom.DAL\obj\Release\SalesCom.DAL.csprojResolveAssemblyReference.cache
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app Development for Test server\SalesCom.DAL\obj\Release\SalesCom.DAL.dll
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app Development for Test server\SalesCom.DAL\obj\Release\SalesCom.DAL.pdb
+F:\My\salescom_app Development for Test server v2\salescom_app Development for Test server\SalesCom.DAL\bin\Release\SalesCom.DAL.dll.config
+F:\My\salescom_app Development for Test server v2\salescom_app Development for Test server\SalesCom.DAL\bin\Release\SalesCom.DAL.dll
+F:\My\salescom_app Development for Test server v2\salescom_app Development for Test server\SalesCom.DAL\bin\Release\SalesCom.DAL.pdb
+F:\My\salescom_app Development for Test server v2\salescom_app Development for Test server\SalesCom.DAL\bin\Release\Oracle.DataAccess.dll
+F:\My\salescom_app Development for Test server v2\salescom_app Development for Test server\SalesCom.DAL\bin\Release\Oracle.ManagedDataAccess.dll
+F:\My\salescom_app Development for Test server v2\salescom_app Development for Test server\SalesCom.DAL\bin\Release\SalesCom.Entity.dll
+F:\My\salescom_app Development for Test server v2\salescom_app Development for Test server\SalesCom.DAL\bin\Release\SalesCom.Entity.pdb
+F:\My\salescom_app Development for Test server v2\salescom_app Development for Test server\SalesCom.DAL\obj\Release\SalesCom.DAL.csprojResolveAssemblyReference.cache
+F:\My\salescom_app Development for Test server v2\salescom_app Development for Test server\SalesCom.DAL\obj\Release\SalesCom.DAL.dll
+F:\My\salescom_app Development for Test server v2\salescom_app Development for Test server\SalesCom.DAL\obj\Release\SalesCom.DAL.pdb
+D:\1. Project Folders\Salescommission Project on 13 APR 21\Salescom_code\salescomm\SalesCom.DAL\bin\Release\SalesCom.DAL.dll.config
+D:\1. Project Folders\Salescommission Project on 13 APR 21\Salescom_code\salescomm\SalesCom.DAL\bin\Release\SalesCom.DAL.dll
+D:\1. Project Folders\Salescommission Project on 13 APR 21\Salescom_code\salescomm\SalesCom.DAL\bin\Release\SalesCom.DAL.pdb
+D:\1. Project Folders\Salescommission Project on 13 APR 21\Salescom_code\salescomm\SalesCom.DAL\bin\Release\Oracle.DataAccess.dll
+D:\1. Project Folders\Salescommission Project on 13 APR 21\Salescom_code\salescomm\SalesCom.DAL\bin\Release\Oracle.ManagedDataAccess.dll
+D:\1. Project Folders\Salescommission Project on 13 APR 21\Salescom_code\salescomm\SalesCom.DAL\bin\Release\SalesCom.Entity.dll
+D:\1. Project Folders\Salescommission Project on 13 APR 21\Salescom_code\salescomm\SalesCom.DAL\bin\Release\SalesCom.Entity.pdb
+D:\1. Project Folders\Salescommission Project on 13 APR 21\Salescom_code\salescomm\SalesCom.DAL\obj\Release\SalesCom.DAL.csprojResolveAssemblyReference.cache
+D:\1. Project Folders\Salescommission Project on 13 APR 21\Salescom_code\salescomm\SalesCom.DAL\obj\Release\SalesCom.DAL.dll
+D:\1. Project Folders\Salescommission Project on 13 APR 21\Salescom_code\salescomm\SalesCom.DAL\obj\Release\SalesCom.DAL.pdb
+F:\My\salescomm 27-7-21\salescomm\SalesCom.DAL\bin\Release\SalesCom.DAL.dll.config
+F:\My\salescomm 27-7-21\salescomm\SalesCom.DAL\bin\Release\SalesCom.DAL.dll
+F:\My\salescomm 27-7-21\salescomm\SalesCom.DAL\bin\Release\SalesCom.DAL.pdb
+F:\My\salescomm 27-7-21\salescomm\SalesCom.DAL\bin\Release\Oracle.DataAccess.dll
+F:\My\salescomm 27-7-21\salescomm\SalesCom.DAL\bin\Release\Oracle.ManagedDataAccess.dll
+F:\My\salescomm 27-7-21\salescomm\SalesCom.DAL\bin\Release\SalesCom.Entity.dll
+F:\My\salescomm 27-7-21\salescomm\SalesCom.DAL\bin\Release\SalesCom.Entity.pdb
+F:\My\salescomm 27-7-21\salescomm\SalesCom.DAL\obj\Release\SalesCom.DAL.csprojResolveAssemblyReference.cache
+F:\My\salescomm 27-7-21\salescomm\SalesCom.DAL\obj\Release\SalesCom.DAL.dll
+F:\My\salescomm 27-7-21\salescomm\SalesCom.DAL\obj\Release\SalesCom.DAL.pdb
+F:\Mustak\Commission\SalesComm Solution\salescom_app\SalesCom.DAL\bin\Release\SalesCom.DAL.dll.config
+F:\Mustak\Commission\SalesComm Solution\salescom_app\SalesCom.DAL\bin\Release\SalesCom.DAL.dll
+F:\Mustak\Commission\SalesComm Solution\salescom_app\SalesCom.DAL\bin\Release\SalesCom.DAL.pdb
+F:\Mustak\Commission\SalesComm Solution\salescom_app\SalesCom.DAL\bin\Release\Oracle.DataAccess.dll
+F:\Mustak\Commission\SalesComm Solution\salescom_app\SalesCom.DAL\bin\Release\Oracle.ManagedDataAccess.dll
+F:\Mustak\Commission\SalesComm Solution\salescom_app\SalesCom.DAL\bin\Release\SalesCom.Entity.dll
+F:\Mustak\Commission\SalesComm Solution\salescom_app\SalesCom.DAL\bin\Release\SalesCom.Entity.pdb
+F:\Mustak\Commission\SalesComm Solution\salescom_app\SalesCom.DAL\obj\Release\SalesCom.DAL.csprojResolveAssemblyReference.cache
+F:\Mustak\Commission\SalesComm Solution\salescom_app\SalesCom.DAL\obj\Release\SalesCom.DAL.dll
+F:\Mustak\Commission\SalesComm Solution\salescom_app\SalesCom.DAL\obj\Release\SalesCom.DAL.pdb
+D:\Commission\Commission\SalesComm Solution\SalesComm Solution\salescom_app\SalesCom.DAL\bin\Release\SalesCom.DAL.dll.config
+D:\Commission\Commission\SalesComm Solution\SalesComm Solution\salescom_app\SalesCom.DAL\bin\Release\SalesCom.DAL.dll
+D:\Commission\Commission\SalesComm Solution\SalesComm Solution\salescom_app\SalesCom.DAL\bin\Release\SalesCom.DAL.pdb
+D:\Commission\Commission\SalesComm Solution\SalesComm Solution\salescom_app\SalesCom.DAL\bin\Release\Oracle.DataAccess.dll
+D:\Commission\Commission\SalesComm Solution\SalesComm Solution\salescom_app\SalesCom.DAL\bin\Release\Oracle.ManagedDataAccess.dll
+D:\Commission\Commission\SalesComm Solution\SalesComm Solution\salescom_app\SalesCom.DAL\bin\Release\SalesCom.Entity.dll
+D:\Commission\Commission\SalesComm Solution\SalesComm Solution\salescom_app\SalesCom.DAL\bin\Release\SalesCom.Entity.pdb
+D:\Commission\Commission\SalesComm Solution\SalesComm Solution\salescom_app\SalesCom.DAL\obj\Release\SalesCom.DAL.csprojResolveAssemblyReference.cache
+D:\Commission\Commission\SalesComm Solution\SalesComm Solution\salescom_app\SalesCom.DAL\obj\Release\SalesCom.DAL.dll
+D:\Commission\Commission\SalesComm Solution\SalesComm Solution\salescom_app\SalesCom.DAL\obj\Release\SalesCom.DAL.pdb
+E:\SalesCom\CR\NewCR\salescom_app 16_3_22\salescom_app\SalesCom.DAL\bin\Release\SalesCom.DAL.dll.config
+E:\SalesCom\CR\NewCR\salescom_app 16_3_22\salescom_app\SalesCom.DAL\bin\Release\SalesCom.DAL.dll
+E:\SalesCom\CR\NewCR\salescom_app 16_3_22\salescom_app\SalesCom.DAL\bin\Release\SalesCom.DAL.pdb
+E:\SalesCom\CR\NewCR\salescom_app 16_3_22\salescom_app\SalesCom.DAL\bin\Release\Oracle.DataAccess.dll
+E:\SalesCom\CR\NewCR\salescom_app 16_3_22\salescom_app\SalesCom.DAL\bin\Release\Oracle.ManagedDataAccess.dll
+E:\SalesCom\CR\NewCR\salescom_app 16_3_22\salescom_app\SalesCom.DAL\bin\Release\SalesCom.Entity.dll
+E:\SalesCom\CR\NewCR\salescom_app 16_3_22\salescom_app\SalesCom.DAL\bin\Release\SalesCom.Entity.pdb
+E:\SalesCom\CR\NewCR\salescom_app 16_3_22\salescom_app\SalesCom.DAL\obj\Release\SalesCom.DAL.csprojResolveAssemblyReference.cache
+E:\SalesCom\CR\NewCR\salescom_app 16_3_22\salescom_app\SalesCom.DAL\obj\Release\SalesCom.DAL.dll
+E:\SalesCom\CR\NewCR\salescom_app 16_3_22\salescom_app\SalesCom.DAL\obj\Release\SalesCom.DAL.pdb
+E:\SalesCom\Solution\SalesCom\SalesCom.DAL\bin\Release\SalesCom.DAL.dll.config
+E:\SalesCom\Solution\SalesCom\SalesCom.DAL\bin\Release\SalesCom.DAL.dll
+E:\SalesCom\Solution\SalesCom\SalesCom.DAL\bin\Release\SalesCom.DAL.pdb
+E:\SalesCom\Solution\SalesCom\SalesCom.DAL\bin\Release\Oracle.DataAccess.dll
+E:\SalesCom\Solution\SalesCom\SalesCom.DAL\bin\Release\Oracle.ManagedDataAccess.dll
+E:\SalesCom\Solution\SalesCom\SalesCom.DAL\bin\Release\SalesCom.Entity.dll
+E:\SalesCom\Solution\SalesCom\SalesCom.DAL\bin\Release\SalesCom.Entity.pdb
+E:\SalesCom\Solution\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.dll
+E:\SalesCom\Solution\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.pdb
+E:\SalesCom\Solution\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.csprojResolveAssemblyReference.cache
+D:\SaleComMarge\SalesCom\SalesCom.DAL\bin\Release\SalesCom.DAL.dll.config
+D:\SaleComMarge\SalesCom\SalesCom.DAL\bin\Release\SalesCom.DAL.dll
+D:\SaleComMarge\SalesCom\SalesCom.DAL\bin\Release\SalesCom.DAL.pdb
+D:\SaleComMarge\SalesCom\SalesCom.DAL\bin\Release\Oracle.DataAccess.dll
+D:\SaleComMarge\SalesCom\SalesCom.DAL\bin\Release\Oracle.ManagedDataAccess.dll
+D:\SaleComMarge\SalesCom\SalesCom.DAL\bin\Release\SalesCom.Entity.dll
+D:\SaleComMarge\SalesCom\SalesCom.DAL\bin\Release\SalesCom.Entity.pdb
+D:\SaleComMarge\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.csprojResolveAssemblyReference.cache
+D:\SaleComMarge\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.dll
+D:\SaleComMarge\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.pdb
+E:\SalesCom\Solution\SaleComMarge\SalesCom\SalesCom.DAL\bin\Release\SalesCom.DAL.dll.config
+E:\SalesCom\Solution\SaleComMarge\SalesCom\SalesCom.DAL\bin\Release\SalesCom.DAL.dll
+E:\SalesCom\Solution\SaleComMarge\SalesCom\SalesCom.DAL\bin\Release\SalesCom.DAL.pdb
+E:\SalesCom\Solution\SaleComMarge\SalesCom\SalesCom.DAL\bin\Release\Oracle.DataAccess.dll
+E:\SalesCom\Solution\SaleComMarge\SalesCom\SalesCom.DAL\bin\Release\Oracle.ManagedDataAccess.dll
+E:\SalesCom\Solution\SaleComMarge\SalesCom\SalesCom.DAL\bin\Release\SalesCom.Entity.dll
+E:\SalesCom\Solution\SaleComMarge\SalesCom\SalesCom.DAL\bin\Release\SalesCom.Entity.pdb
+E:\SalesCom\Solution\SaleComMarge\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.csprojResolveAssemblyReference.cache
+E:\SalesCom\Solution\SaleComMarge\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.dll
+E:\SalesCom\Solution\SaleComMarge\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.pdb
+E:\SalesCom\Solution\SaleComMarge\SaleComMarge\SalesCom\SalesCom.DAL\bin\Release\SalesCom.DAL.dll.config
+E:\SalesCom\Solution\SaleComMarge\SaleComMarge\SalesCom\SalesCom.DAL\bin\Release\SalesCom.DAL.dll
+E:\SalesCom\Solution\SaleComMarge\SaleComMarge\SalesCom\SalesCom.DAL\bin\Release\SalesCom.DAL.pdb
+E:\SalesCom\Solution\SaleComMarge\SaleComMarge\SalesCom\SalesCom.DAL\bin\Release\Oracle.DataAccess.dll
+E:\SalesCom\Solution\SaleComMarge\SaleComMarge\SalesCom\SalesCom.DAL\bin\Release\Oracle.ManagedDataAccess.dll
+E:\SalesCom\Solution\SaleComMarge\SaleComMarge\SalesCom\SalesCom.DAL\bin\Release\SalesCom.Entity.dll
+E:\SalesCom\Solution\SaleComMarge\SaleComMarge\SalesCom\SalesCom.DAL\bin\Release\SalesCom.Entity.pdb
+E:\SalesCom\Solution\SaleComMarge\SaleComMarge\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.csprojResolveAssemblyReference.cache
+E:\SalesCom\Solution\SaleComMarge\SaleComMarge\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.dll
+E:\SalesCom\Solution\SaleComMarge\SaleComMarge\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.pdb
+D:\SalesCom\SalesCom\SalesCom.DAL\bin\Release\SalesCom.DAL.dll.config
+D:\SalesCom\SalesCom\SalesCom.DAL\bin\Release\SalesCom.DAL.dll
+D:\SalesCom\SalesCom\SalesCom.DAL\bin\Release\SalesCom.DAL.pdb
+D:\SalesCom\SalesCom\SalesCom.DAL\bin\Release\Oracle.DataAccess.dll
+D:\SalesCom\SalesCom\SalesCom.DAL\bin\Release\Oracle.ManagedDataAccess.dll
+D:\SalesCom\SalesCom\SalesCom.DAL\bin\Release\SalesCom.Entity.dll
+D:\SalesCom\SalesCom\SalesCom.DAL\bin\Release\SalesCom.Entity.pdb
+D:\SalesCom\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.csprojResolveAssemblyReference.cache
+D:\SalesCom\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.dll
+D:\SalesCom\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.pdb
+E:\SalesCom\Solution\Latest Salescom\SalesCom\SalesCom\SalesCom.DAL\bin\Release\SalesCom.DAL.dll.config
+E:\SalesCom\Solution\Latest Salescom\SalesCom\SalesCom\SalesCom.DAL\bin\Release\SalesCom.DAL.dll
+E:\SalesCom\Solution\Latest Salescom\SalesCom\SalesCom\SalesCom.DAL\bin\Release\SalesCom.DAL.pdb
+E:\SalesCom\Solution\Latest Salescom\SalesCom\SalesCom\SalesCom.DAL\bin\Release\Oracle.DataAccess.dll
+E:\SalesCom\Solution\Latest Salescom\SalesCom\SalesCom\SalesCom.DAL\bin\Release\Oracle.ManagedDataAccess.dll
+E:\SalesCom\Solution\Latest Salescom\SalesCom\SalesCom\SalesCom.DAL\bin\Release\SalesCom.Entity.dll
+E:\SalesCom\Solution\Latest Salescom\SalesCom\SalesCom\SalesCom.DAL\bin\Release\SalesCom.Entity.pdb
+E:\SalesCom\Solution\Latest Salescom\SalesCom\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.csprojResolveAssemblyReference.cache
+E:\SalesCom\Solution\Latest Salescom\SalesCom\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.dll
+E:\SalesCom\Solution\Latest Salescom\SalesCom\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.pdb
+D:\SalesCom\SalesCom.DAL\bin\Release\SalesCom.DAL.dll.config
+D:\SalesCom\SalesCom.DAL\bin\Release\SalesCom.DAL.dll
+D:\SalesCom\SalesCom.DAL\bin\Release\SalesCom.DAL.pdb
+D:\SalesCom\SalesCom.DAL\bin\Release\Oracle.DataAccess.dll
+D:\SalesCom\SalesCom.DAL\bin\Release\Oracle.ManagedDataAccess.dll
+D:\SalesCom\SalesCom.DAL\bin\Release\SalesCom.Entity.dll
+D:\SalesCom\SalesCom.DAL\bin\Release\SalesCom.Entity.pdb
+D:\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.csprojResolveAssemblyReference.cache
+D:\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.dll
+D:\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.pdb
+E:\SalesCom\Solution\Latest Salescom\SalesCom\Salescom\Salescom\SalesCom\SalesCom.DAL\bin\Release\SalesCom.DAL.dll.config
+E:\SalesCom\Solution\Latest Salescom\SalesCom\Salescom\Salescom\SalesCom\SalesCom.DAL\bin\Release\SalesCom.DAL.dll
+E:\SalesCom\Solution\Latest Salescom\SalesCom\Salescom\Salescom\SalesCom\SalesCom.DAL\bin\Release\SalesCom.DAL.pdb
+E:\SalesCom\Solution\Latest Salescom\SalesCom\Salescom\Salescom\SalesCom\SalesCom.DAL\bin\Release\Oracle.DataAccess.dll
+E:\SalesCom\Solution\Latest Salescom\SalesCom\Salescom\Salescom\SalesCom\SalesCom.DAL\bin\Release\Oracle.ManagedDataAccess.dll
+E:\SalesCom\Solution\Latest Salescom\SalesCom\Salescom\Salescom\SalesCom\SalesCom.DAL\bin\Release\SalesCom.Entity.dll
+E:\SalesCom\Solution\Latest Salescom\SalesCom\Salescom\Salescom\SalesCom\SalesCom.DAL\bin\Release\SalesCom.Entity.pdb
+E:\SalesCom\Solution\Latest Salescom\SalesCom\Salescom\Salescom\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.csprojResolveAssemblyReference.cache
+E:\SalesCom\Solution\Latest Salescom\SalesCom\Salescom\Salescom\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.dll
+E:\SalesCom\Solution\Latest Salescom\SalesCom\Salescom\Salescom\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.pdb
+E:\SalesCom\Solution\Latest Salescom\SalesCom\Details_SalesCom\Salescom\Salescom\SalesCom\SalesCom.DAL\bin\Release\SalesCom.DAL.dll.config
+E:\SalesCom\Solution\Latest Salescom\SalesCom\Details_SalesCom\Salescom\Salescom\SalesCom\SalesCom.DAL\bin\Release\SalesCom.DAL.dll
+E:\SalesCom\Solution\Latest Salescom\SalesCom\Details_SalesCom\Salescom\Salescom\SalesCom\SalesCom.DAL\bin\Release\SalesCom.DAL.pdb
+E:\SalesCom\Solution\Latest Salescom\SalesCom\Details_SalesCom\Salescom\Salescom\SalesCom\SalesCom.DAL\bin\Release\Oracle.DataAccess.dll
+E:\SalesCom\Solution\Latest Salescom\SalesCom\Details_SalesCom\Salescom\Salescom\SalesCom\SalesCom.DAL\bin\Release\Oracle.ManagedDataAccess.dll
+E:\SalesCom\Solution\Latest Salescom\SalesCom\Details_SalesCom\Salescom\Salescom\SalesCom\SalesCom.DAL\bin\Release\SalesCom.Entity.dll
+E:\SalesCom\Solution\Latest Salescom\SalesCom\Details_SalesCom\Salescom\Salescom\SalesCom\SalesCom.DAL\bin\Release\SalesCom.Entity.pdb
+E:\SalesCom\Solution\Latest Salescom\SalesCom\Details_SalesCom\Salescom\Salescom\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.csprojResolveAssemblyReference.cache
+E:\SalesCom\Solution\Latest Salescom\SalesCom\Details_SalesCom\Salescom\Salescom\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.dll
+E:\SalesCom\Solution\Latest Salescom\SalesCom\Details_SalesCom\Salescom\Salescom\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.pdb
+E:\SalesCom\Solution\Latest Salescom\SalesCom\Merge_SalesCom\SalesCom\SalesCom.DAL\bin\Release\SalesCom.DAL.dll.config
+E:\SalesCom\Solution\Latest Salescom\SalesCom\Merge_SalesCom\SalesCom\SalesCom.DAL\bin\Release\SalesCom.DAL.dll
+E:\SalesCom\Solution\Latest Salescom\SalesCom\Merge_SalesCom\SalesCom\SalesCom.DAL\bin\Release\SalesCom.DAL.pdb
+E:\SalesCom\Solution\Latest Salescom\SalesCom\Merge_SalesCom\SalesCom\SalesCom.DAL\bin\Release\Oracle.DataAccess.dll
+E:\SalesCom\Solution\Latest Salescom\SalesCom\Merge_SalesCom\SalesCom\SalesCom.DAL\bin\Release\Oracle.ManagedDataAccess.dll
+E:\SalesCom\Solution\Latest Salescom\SalesCom\Merge_SalesCom\SalesCom\SalesCom.DAL\bin\Release\SalesCom.Entity.dll
+E:\SalesCom\Solution\Latest Salescom\SalesCom\Merge_SalesCom\SalesCom\SalesCom.DAL\bin\Release\SalesCom.Entity.pdb
+E:\SalesCom\Solution\Latest Salescom\SalesCom\Merge_SalesCom\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.csprojResolveAssemblyReference.cache
+E:\SalesCom\Solution\Latest Salescom\SalesCom\Merge_SalesCom\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.dll
+E:\SalesCom\Solution\Latest Salescom\SalesCom\Merge_SalesCom\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.pdb
+E:\Salescom deployment\SalesCom_Latest\SalesCom\SalesCom.DAL\bin\Release\SalesCom.DAL.dll.config
+E:\Salescom deployment\SalesCom_Latest\SalesCom\SalesCom.DAL\bin\Release\SalesCom.DAL.dll
+E:\Salescom deployment\SalesCom_Latest\SalesCom\SalesCom.DAL\bin\Release\SalesCom.DAL.pdb
+E:\Salescom deployment\SalesCom_Latest\SalesCom\SalesCom.DAL\bin\Release\Oracle.ManagedDataAccess.dll
+E:\Salescom deployment\SalesCom_Latest\SalesCom\SalesCom.DAL\bin\Release\SalesCom.Entity.dll
+E:\Salescom deployment\SalesCom_Latest\SalesCom\SalesCom.DAL\bin\Release\SalesCom.Entity.pdb
+E:\Salescom deployment\SalesCom_Latest\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.csprojResolveAssemblyReference.cache
+E:\Salescom deployment\SalesCom_Latest\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.dll
+E:\Salescom deployment\SalesCom_Latest\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.pdb
+E:\SalesCom\Solution\LIVE_SOLUTION\SalesCom\SalesCom.DAL\bin\Release\SalesCom.DAL.dll.config
+E:\SalesCom\Solution\LIVE_SOLUTION\SalesCom\SalesCom.DAL\bin\Release\SalesCom.DAL.dll
+E:\SalesCom\Solution\LIVE_SOLUTION\SalesCom\SalesCom.DAL\bin\Release\SalesCom.DAL.pdb
+E:\SalesCom\Solution\LIVE_SOLUTION\SalesCom\SalesCom.DAL\bin\Release\Oracle.DataAccess.dll
+E:\SalesCom\Solution\LIVE_SOLUTION\SalesCom\SalesCom.DAL\bin\Release\Oracle.ManagedDataAccess.dll
+E:\SalesCom\Solution\LIVE_SOLUTION\SalesCom\SalesCom.DAL\bin\Release\SalesCom.Entity.dll
+E:\SalesCom\Solution\LIVE_SOLUTION\SalesCom\SalesCom.DAL\bin\Release\SalesCom.Entity.pdb
+E:\SalesCom\Solution\LIVE_SOLUTION\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.csprojResolveAssemblyReference.cache
+E:\SalesCom\Solution\LIVE_SOLUTION\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.dll
+E:\SalesCom\Solution\LIVE_SOLUTION\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.pdb
+E:\SalesCom\SalesCom.DAL\bin\Release\SalesCom.DAL.dll.config
+E:\SalesCom\SalesCom.DAL\bin\Release\SalesCom.DAL.dll
+E:\SalesCom\SalesCom.DAL\bin\Release\SalesCom.DAL.pdb
+E:\SalesCom\SalesCom.DAL\bin\Release\Oracle.ManagedDataAccess.dll
+E:\SalesCom\SalesCom.DAL\bin\Release\SalesCom.Entity.dll
+E:\SalesCom\SalesCom.DAL\bin\Release\SalesCom.Entity.pdb
+E:\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.csprojResolveAssemblyReference.cache
+E:\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.dll
+E:\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.pdb
+E:\SalesCom\Solution\MERGE_PROJECT\SalesCom\SalesCom.DAL\bin\Release\SalesCom.DAL.dll.config
+E:\SalesCom\Solution\MERGE_PROJECT\SalesCom\SalesCom.DAL\bin\Release\SalesCom.DAL.dll
+E:\SalesCom\Solution\MERGE_PROJECT\SalesCom\SalesCom.DAL\bin\Release\SalesCom.DAL.pdb
+E:\SalesCom\Solution\MERGE_PROJECT\SalesCom\SalesCom.DAL\bin\Release\Oracle.DataAccess.dll
+E:\SalesCom\Solution\MERGE_PROJECT\SalesCom\SalesCom.DAL\bin\Release\Oracle.ManagedDataAccess.dll
+E:\SalesCom\Solution\MERGE_PROJECT\SalesCom\SalesCom.DAL\bin\Release\SalesCom.Entity.dll
+E:\SalesCom\Solution\MERGE_PROJECT\SalesCom\SalesCom.DAL\bin\Release\SalesCom.Entity.pdb
+E:\SalesCom\Solution\MERGE_PROJECT\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.csprojResolveAssemblyReference.cache
+E:\SalesCom\Solution\MERGE_PROJECT\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.dll
+E:\SalesCom\Solution\MERGE_PROJECT\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.pdb
+E:\Al Mamun\Merge_Project\SalesCom\SalesCom.DAL\bin\Release\SalesCom.DAL.dll.config
+E:\Al Mamun\Merge_Project\SalesCom\SalesCom.DAL\bin\Release\SalesCom.DAL.dll
+E:\Al Mamun\Merge_Project\SalesCom\SalesCom.DAL\bin\Release\SalesCom.DAL.pdb
+E:\Al Mamun\Merge_Project\SalesCom\SalesCom.DAL\bin\Release\Oracle.ManagedDataAccess.dll
+E:\Al Mamun\Merge_Project\SalesCom\SalesCom.DAL\bin\Release\SalesCom.Entity.dll
+E:\Al Mamun\Merge_Project\SalesCom\SalesCom.DAL\bin\Release\SalesCom.Entity.pdb
+E:\Al Mamun\Merge_Project\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.csprojResolveAssemblyReference.cache
+E:\Al Mamun\Merge_Project\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.dll
+E:\Al Mamun\Merge_Project\SalesCom\SalesCom.DAL\obj\Release\SalesCom.DAL.pdb
+E:\Al Mamun\SalesCom_Merge_Latest_7_jun_22\SalesCom.DAL\bin\Release\SalesCom.DAL.dll.config
+E:\Al Mamun\SalesCom_Merge_Latest_7_jun_22\SalesCom.DAL\bin\Release\SalesCom.DAL.dll
+E:\Al Mamun\SalesCom_Merge_Latest_7_jun_22\SalesCom.DAL\bin\Release\SalesCom.DAL.pdb
+E:\Al Mamun\SalesCom_Merge_Latest_7_jun_22\SalesCom.DAL\bin\Release\Oracle.ManagedDataAccess.dll
+E:\Al Mamun\SalesCom_Merge_Latest_7_jun_22\SalesCom.DAL\bin\Release\SalesCom.Entity.dll
+E:\Al Mamun\SalesCom_Merge_Latest_7_jun_22\SalesCom.DAL\bin\Release\SalesCom.Entity.pdb
+E:\Al Mamun\SalesCom_Merge_Latest_7_jun_22\SalesCom.DAL\obj\Release\SalesCom.DAL.csprojResolveAssemblyReference.cache
+E:\Al Mamun\SalesCom_Merge_Latest_7_jun_22\SalesCom.DAL\obj\Release\SalesCom.DAL.dll
+E:\Al Mamun\SalesCom_Merge_Latest_7_jun_22\SalesCom.DAL\obj\Release\SalesCom.DAL.pdb
+E:\SalesCom\ESI Doc\Solution\SalesCom_12_06_2022\SalesCom_ESI_19_jun_22\SalesCom.DAL\bin\Release\SalesCom.DAL.dll.config
+E:\SalesCom\ESI Doc\Solution\SalesCom_12_06_2022\SalesCom_ESI_19_jun_22\SalesCom.DAL\bin\Release\SalesCom.DAL.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_12_06_2022\SalesCom_ESI_19_jun_22\SalesCom.DAL\bin\Release\SalesCom.DAL.pdb
+E:\SalesCom\ESI Doc\Solution\SalesCom_12_06_2022\SalesCom_ESI_19_jun_22\SalesCom.DAL\bin\Release\Oracle.DataAccess.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_12_06_2022\SalesCom_ESI_19_jun_22\SalesCom.DAL\bin\Release\Oracle.ManagedDataAccess.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_12_06_2022\SalesCom_ESI_19_jun_22\SalesCom.DAL\bin\Release\SalesCom.Entity.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_12_06_2022\SalesCom_ESI_19_jun_22\SalesCom.DAL\bin\Release\SalesCom.Entity.pdb
+E:\SalesCom\ESI Doc\Solution\SalesCom_12_06_2022\SalesCom_ESI_19_jun_22\SalesCom.DAL\obj\Release\SalesCom.DAL.csprojResolveAssemblyReference.cache
+E:\SalesCom\ESI Doc\Solution\SalesCom_12_06_2022\SalesCom_ESI_19_jun_22\SalesCom.DAL\obj\Release\SalesCom.DAL.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_12_06_2022\SalesCom_ESI_19_jun_22\SalesCom.DAL\obj\Release\SalesCom.DAL.pdb
+D:\Salescom Development\Salescom esi_29_jun\SalesCom_ESI_29_jun_22\SalesCom.DAL\bin\Release\SalesCom.DAL.dll.config
+D:\Salescom Development\Salescom esi_29_jun\SalesCom_ESI_29_jun_22\SalesCom.DAL\bin\Release\SalesCom.DAL.dll
+D:\Salescom Development\Salescom esi_29_jun\SalesCom_ESI_29_jun_22\SalesCom.DAL\bin\Release\SalesCom.DAL.pdb
+D:\Salescom Development\Salescom esi_29_jun\SalesCom_ESI_29_jun_22\SalesCom.DAL\bin\Release\Oracle.DataAccess.dll
+D:\Salescom Development\Salescom esi_29_jun\SalesCom_ESI_29_jun_22\SalesCom.DAL\bin\Release\Oracle.ManagedDataAccess.dll
+D:\Salescom Development\Salescom esi_29_jun\SalesCom_ESI_29_jun_22\SalesCom.DAL\bin\Release\SalesCom.Entity.dll
+D:\Salescom Development\Salescom esi_29_jun\SalesCom_ESI_29_jun_22\SalesCom.DAL\bin\Release\SalesCom.Entity.pdb
+D:\Salescom Development\Salescom esi_29_jun\SalesCom_ESI_29_jun_22\SalesCom.DAL\obj\Release\SalesCom.DAL.csprojResolveAssemblyReference.cache
+D:\Salescom Development\Salescom esi_29_jun\SalesCom_ESI_29_jun_22\SalesCom.DAL\obj\Release\SalesCom.DAL.dll
+D:\Salescom Development\Salescom esi_29_jun\SalesCom_ESI_29_jun_22\SalesCom.DAL\obj\Release\SalesCom.DAL.pdb
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_29_jun_22\SalesCom.DAL\bin\Release\SalesCom.DAL.dll.config
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_29_jun_22\SalesCom.DAL\bin\Release\SalesCom.DAL.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_29_jun_22\SalesCom.DAL\bin\Release\SalesCom.DAL.pdb
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_29_jun_22\SalesCom.DAL\bin\Release\Oracle.DataAccess.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_29_jun_22\SalesCom.DAL\bin\Release\Oracle.ManagedDataAccess.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_29_jun_22\SalesCom.DAL\bin\Release\SalesCom.Entity.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_29_jun_22\SalesCom.DAL\bin\Release\SalesCom.Entity.pdb
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_29_jun_22\SalesCom.DAL\obj\Release\SalesCom.DAL.csprojResolveAssemblyReference.cache
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_29_jun_22\SalesCom.DAL\obj\Release\SalesCom.DAL.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_29_jun_22\SalesCom.DAL\obj\Release\SalesCom.DAL.pdb
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_04_Jul_22\SalesCom.DAL\bin\Release\SalesCom.DAL.dll.config
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_04_Jul_22\SalesCom.DAL\bin\Release\SalesCom.DAL.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_04_Jul_22\SalesCom.DAL\bin\Release\SalesCom.DAL.pdb
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_04_Jul_22\SalesCom.DAL\bin\Release\Oracle.DataAccess.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_04_Jul_22\SalesCom.DAL\bin\Release\Oracle.ManagedDataAccess.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_04_Jul_22\SalesCom.DAL\bin\Release\SalesCom.Entity.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_04_Jul_22\SalesCom.DAL\bin\Release\SalesCom.Entity.pdb
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_04_Jul_22\SalesCom.DAL\obj\Release\SalesCom.DAL.csprojResolveAssemblyReference.cache
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_04_Jul_22\SalesCom.DAL\obj\Release\SalesCom.DAL.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_04_Jul_22\SalesCom.DAL\obj\Release\SalesCom.DAL.pdb
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_05_Jul_22\SalesCom.DAL\bin\Release\SalesCom.DAL.dll.config
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_05_Jul_22\SalesCom.DAL\bin\Release\SalesCom.DAL.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_05_Jul_22\SalesCom.DAL\bin\Release\SalesCom.DAL.pdb
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_05_Jul_22\SalesCom.DAL\bin\Release\Oracle.DataAccess.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_05_Jul_22\SalesCom.DAL\bin\Release\Oracle.ManagedDataAccess.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_05_Jul_22\SalesCom.DAL\bin\Release\SalesCom.Entity.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_05_Jul_22\SalesCom.DAL\bin\Release\SalesCom.Entity.pdb
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_05_Jul_22\SalesCom.DAL\obj\Release\SalesCom.DAL.csprojResolveAssemblyReference.cache
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_05_Jul_22\SalesCom.DAL\obj\Release\SalesCom.DAL.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_05_Jul_22\SalesCom.DAL\obj\Release\SalesCom.DAL.pdb
+D:\Salescom Development\SalesCom_ESI_18_Jul_22\SalesCom.DAL\bin\Release\SalesCom.DAL.dll.config
+D:\Salescom Development\SalesCom_ESI_18_Jul_22\SalesCom.DAL\bin\Release\SalesCom.DAL.dll
+D:\Salescom Development\SalesCom_ESI_18_Jul_22\SalesCom.DAL\bin\Release\SalesCom.DAL.pdb
+D:\Salescom Development\SalesCom_ESI_18_Jul_22\SalesCom.DAL\bin\Release\Oracle.DataAccess.dll
+D:\Salescom Development\SalesCom_ESI_18_Jul_22\SalesCom.DAL\bin\Release\Oracle.ManagedDataAccess.dll
+D:\Salescom Development\SalesCom_ESI_18_Jul_22\SalesCom.DAL\bin\Release\SalesCom.Entity.dll
+D:\Salescom Development\SalesCom_ESI_18_Jul_22\SalesCom.DAL\bin\Release\SalesCom.Entity.pdb
+D:\Salescom Development\SalesCom_ESI_18_Jul_22\SalesCom.DAL\obj\Release\SalesCom.DAL.csprojResolveAssemblyReference.cache
+D:\Salescom Development\SalesCom_ESI_18_Jul_22\SalesCom.DAL\obj\Release\SalesCom.DAL.dll
+D:\Salescom Development\SalesCom_ESI_18_Jul_22\SalesCom.DAL\obj\Release\SalesCom.DAL.pdb
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_18_Jul_22\SalesCom_ESI_18_Jul_22\SalesCom.DAL\bin\Release\SalesCom.DAL.dll.config
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_18_Jul_22\SalesCom_ESI_18_Jul_22\SalesCom.DAL\bin\Release\SalesCom.DAL.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_18_Jul_22\SalesCom_ESI_18_Jul_22\SalesCom.DAL\bin\Release\SalesCom.DAL.pdb
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_18_Jul_22\SalesCom_ESI_18_Jul_22\SalesCom.DAL\bin\Release\Oracle.DataAccess.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_18_Jul_22\SalesCom_ESI_18_Jul_22\SalesCom.DAL\bin\Release\Oracle.ManagedDataAccess.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_18_Jul_22\SalesCom_ESI_18_Jul_22\SalesCom.DAL\bin\Release\SalesCom.Entity.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_18_Jul_22\SalesCom_ESI_18_Jul_22\SalesCom.DAL\bin\Release\SalesCom.Entity.pdb
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_18_Jul_22\SalesCom_ESI_18_Jul_22\SalesCom.DAL\obj\Release\SalesCom.DAL.csprojResolveAssemblyReference.cache
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_18_Jul_22\SalesCom_ESI_18_Jul_22\SalesCom.DAL\obj\Release\SalesCom.DAL.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_18_Jul_22\SalesCom_ESI_18_Jul_22\SalesCom.DAL\obj\Release\SalesCom.DAL.pdb
+D:\SalesCom_ESI_19_Jul_22\SalesCom.DAL\bin\Release\SalesCom.DAL.dll.config
+D:\SalesCom_ESI_19_Jul_22\SalesCom.DAL\bin\Release\SalesCom.DAL.dll
+D:\SalesCom_ESI_19_Jul_22\SalesCom.DAL\bin\Release\SalesCom.DAL.pdb
+D:\SalesCom_ESI_19_Jul_22\SalesCom.DAL\bin\Release\Oracle.DataAccess.dll
+D:\SalesCom_ESI_19_Jul_22\SalesCom.DAL\bin\Release\Oracle.ManagedDataAccess.dll
+D:\SalesCom_ESI_19_Jul_22\SalesCom.DAL\bin\Release\SalesCom.Entity.dll
+D:\SalesCom_ESI_19_Jul_22\SalesCom.DAL\bin\Release\SalesCom.Entity.pdb
+D:\SalesCom_ESI_19_Jul_22\SalesCom.DAL\obj\Release\SalesCom.DAL.csprojResolveAssemblyReference.cache
+D:\SalesCom_ESI_19_Jul_22\SalesCom.DAL\obj\Release\SalesCom.DAL.dll
+D:\SalesCom_ESI_19_Jul_22\SalesCom.DAL\obj\Release\SalesCom.DAL.pdb

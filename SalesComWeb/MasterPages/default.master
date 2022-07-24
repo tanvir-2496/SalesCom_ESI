@@ -1,0 +1,135 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="default.master.cs" Inherits="MasterPages_default" %>
+
+<%@ Register Assembly="DevExpress.Web.ASPxMenu.v6.2" Namespace="DevExpress.Web.ASPxMenu" TagPrefix="dxm" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title>.. Commission Management v.1.0 ..</title>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+    <link rel="icon" type="image/gif" href="../images/favicon.ico" />
+    <script type="text/javascript" src="../Scripts/jquery.js"></script>
+     <script type="text/javascript" src="../Scripts/thickbox.js"></script>
+    <script type="text/javascript" src="../Scripts/ui.core.js"></script>
+    <script type="text/javascript" src="../Scripts/ui.draggable.js"></script>
+    <script type="text/javascript" src="../Scripts/validation.js"></script>
+    <script type="text/javascript" src="../Scripts/utility.js"></script>
+    <script type="text/javascript" src="../Scripts/scrollabletable.js"></script>
+    <script type="text/javascript" src="../Scripts/AutoComplete.js"></script>
+    <script src="../AutoComplete/Scripts/jquery.autocomplete.js" type="text/javascript"></script>
+    <script type="text/javascript" src="Scripts/jquery.treeview.js"></script>
+    <script src="../AutoComplete/Scripts/jquery.bgiframe.min.js" type="text/javascript"></script>
+    <script type="text/javascript" src="../Scripts/ui.dialog.js"></script>
+    <script type="text/javascript" src="../Scripts/jscrollable.js"></script>
+
+    <script type="text/javascript">
+
+        function clear() {
+            $("body > div:first").remove();
+            $("head >Style:last").remove();
+            ModifyLeftpanel();
+        }
+
+
+        function adjustModal(heightVal) {
+            $('#TB_window').dialog('option', 'height', heightVal);
+
+        }
+    </script>
+
+    <!--[if gte IE 9]>
+  <style type="text/css">
+    .gradient {
+       filter: none;
+    }
+  </style>
+<![endif]-->
+
+</head>
+<body onload="clear()">
+    <form id="form1" runat="server">
+        <asp:ScriptManager ID="sm" runat="server" EnablePageMethods="True" AsyncPostBackTimeout="200000"></asp:ScriptManager>
+        <asp:UpdateProgress ID="UpdateProgress1" runat="server">
+            <ProgressTemplate>
+                <div id="divLoading">
+                    <img src="images/loading.gif?80172489074" alt="loading" />
+                </div>
+            </ProgressTemplate>
+        </asp:UpdateProgress>
+        <table style="width: 100%; height: 100%" cellpadding="0" cellspacing="0" border="0">
+            <colgroup>
+                <col />
+                <col style="width: 150px" />
+            </colgroup>
+            <tr>
+                <td style="height: 50px">
+                    <span class="banglalink">banglalink</span>&nbsp;<span class="dms">|</span>
+                    <span class="dms">Commission Management </span>
+                </td>
+                <td align="right">
+                    <div style="padding-right: 20px; color: #999999; font-weight: bold;"><%= LoginInfo.Current.UserName %> </div>
+                    <% try {%>
+                    <div style="padding-right: 20px; color: #999999; font-weight: bold;"><%= LoginInfo.Current.CenterName %> </div>
+                    <% }
+                       catch (Exception ex)
+                       {
+                           string errormessage = ex.Message;
+                       } %>
+                    <div style="padding-right: 39px; color: #0026ff; font-weight: bold;">
+                        <asp:Label ID="lblConnectionType" runat="server"></asp:Label>
+                    </div>
+
+
+                </td>
+            </tr>
+
+            <tr>
+                <td style="color: #0026ff; font-weight: bold;">
+                    <asp:Label ID="lblSlnPath" runat="server"></asp:Label>
+                </td>
+            </tr>
+            <tr style="background-color: #F37821;">
+                <td>
+
+                    <%--ASPxMenu2--%>
+                    <dxm:ASPxMenu ID="ASPxMenu1" Height="30px" runat="server" AllowSelectItem="True"
+                        ShowPopOutImages="True"
+                        SeparatorColor="#5386CB" SeparatorHeight="10px" AutoSeparators="RootOnly"
+                        DataSourceID="menuSitemap1" OnPreRender="ASPxMenu2_PreRender" BorderRight-BorderStyle="Ridge">
+                    </dxm:ASPxMenu>
+
+                    <asp:SiteMapDataSource ID="menuSitemap1" runat="server" ShowStartingNode="false" />
+
+
+                </td>
+                <td><span id="userPanel"><a id="logout" href="logout.aspx">Logout</a></span>
+                </td>
+            </tr>
+            <tr>
+                <td class="sitemap">
+                    <asp:SiteMapPath ID="SiteMapPath1" runat="server" SkinID="NavigationSkinID">
+                    </asp:SiteMapPath>
+
+                </td>
+
+                <td></td>
+
+            </tr>
+
+            <tr id="masterContainer">
+                <td colspan="2" style="border: solid 1px #FCDCC5; vertical-align: text-top;">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" width="100%" height="20" align="center" valign="middle" bgcolor="#E2E2E2" class="footertext" style="border-left: darkgray 1px solid; border-right: darkgray 1px solid; background-color: whitesmoke; border-top: darkgray 1px solid; border-bottom: darkgray 1px solid;">&copy; banglalink 2014
+                </td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>

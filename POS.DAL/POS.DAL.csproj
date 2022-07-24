@@ -1,0 +1,304 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{69653C2A-E7CD-4F9A-B711-6CB32797FCA4}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>POS.DAL</RootNamespace>
+    <AssemblyName>POS.DAL</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.OracleClient" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Serialization">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BLL\CenterBLL.cs" />
+    <Compile Include="BLL\RightInfoBLL.cs" />
+    <Compile Include="BLL\RoleGroupBLL.cs" />
+    <Compile Include="BLL\RoleInfoBLL.cs" />
+    <Compile Include="BLL\RoleRightBLL.cs" />
+    <Compile Include="BLL\UserCenterBLL.cs" />
+    <Compile Include="BLL\UserGroupBLL.cs" />
+    <Compile Include="BLL\UserInfoBLL.cs" />
+    <Compile Include="BLL\UserLoginLogBLL.cs" />
+    <Compile Include="BLL\UserMasterRoleBLL.cs" />
+    <Compile Include="BLL\UserRightGroupBLL.cs" />
+    <Compile Include="BLL\UserRoleBLL.cs" />
+    <Content Include="BLL\Utility.cs" />
+    <Compile Include="CenterDAL.cs" />
+    <Compile Include="DTO\AltChannelBalance.cs" />
+    <Compile Include="DTO\AlternativeChannel.cs" />
+    <Compile Include="DTO\AltBalanceTransferMaster.cs" />
+    <Compile Include="DTO\AltBalanceTransferChild.cs" />
+    <Compile Include="DTO\CommissionDetails.cs" />
+    <Compile Include="DTO\CommissionMaster.cs" />
+    <Compile Include="DTO\CommissionName.cs" />
+    <Compile Include="DTO\CommissionType.cs" />
+    <Compile Include="DTO\MappingDistMobileChild.cs" />
+    <Compile Include="DTO\MappingDistMobileMaster.cs" />
+    <Compile Include="DTO\ReturnVatChallan.cs" />
+    <Compile Include="DTO\UserLoginLog.cs" />
+    <Compile Include="DTO\WarehouseDistributor.cs" />
+    <Compile Include="DTO\ReturnPrice.cs" />
+    <Compile Include="DTO\ValidationType.cs" />
+    <Compile Include="DTO\ReturnProductDetails.cs" />
+    <Compile Include="DTO\ReturnProduct.cs" />
+    <Compile Include="DTO\AdjustPrice.cs" />
+    <Compile Include="DTO\ProductPrice.cs" />
+    <Compile Include="DTO\PriceAdjustmentDetails.cs" />
+    <Compile Include="DTO\PriceAdjustment.cs" />
+    <Compile Include="DTO\ProductPriceCode.cs" />
+    <Compile Include="DTO\BalanceTransfer.cs" />
+    <Compile Include="DTO\DistributorBalance.cs" />
+    <Compile Include="DTO\BSPMigrMessage.cs" />
+    <Compile Include="DTO\BspMigMessage.cs" />
+    <Compile Include="DTO\RFMainTransactionAcc.cs" />
+    <Compile Include="DTO\DistributorTransaction.cs" />
+    <Compile Include="DTO\DistributorAccount.cs" />
+    <Compile Include="DTO\ProductVatChallan.cs" />
+    <Compile Include="DTO\SIMType.cs" />
+    <Compile Include="DTO\TeleSMSActivation.cs" />
+    <Compile Include="DTO\DistributorCreditLimit.cs" />
+    <Compile Include="DTO\AccountTransactionOrder.cs" />
+    <Compile Include="DTO\AccountType.cs" />
+    <Compile Include="DTO\BlockingSIM.cs" />
+    <Compile Include="DTO\DMSInventorySync.cs" />
+    <Compile Include="DTO\MFSEnableSIM.cs" />
+    <Compile Include="DTO\PayableReceivableChild.cs" />
+    <Compile Include="DTO\PayableReceivableExcel.cs" />
+    <Compile Include="DTO\PayableReceivableMaster.cs" />
+    <Compile Include="DTO\TransactionType.cs" />
+    <Compile Include="DTO\UserwiseCenter.cs" />
+    <Compile Include="DTO\WriteOffChild.cs" />
+    <Compile Include="DTO\WriteOffMaster.cs" />
+    <Compile Include="DTO\WriteOffReceiveChild.cs" />
+    <Compile Include="DTO\WriteOffReceiveMaster.cs" />
+    <Compile Include="DTO\InventoryData.cs" />
+    <Compile Include="RoleGroupDAL.cs" />
+    <Compile Include="RoleRightDAL.cs" />
+    <Compile Include="UserLoginLogDAL.cs" />
+    <Compile Include="UserMasterRoleDAL.cs" />
+    <Compile Include="DTO\BankAccountCenter.cs" />
+    <Compile Include="DTO\AttachCenter.cs" />
+    <Compile Include="DTO\BankRecord.cs" />
+    <Compile Include="DTO\UserMasterRole.cs" />
+    <Compile Include="DTO\SIMDetails.cs" />
+    <Compile Include="DTO\Dealer.cs" />
+    <Compile Include="DTO\SIMNO.cs" />
+    <Compile Include="DTO\CorporateSales.cs" />
+    <Compile Include="DTO\Thana.cs" />
+    <Compile Include="ImportFromExcel.cs" />
+    <Compile Include="ImportFromExcelDAL.cs" />
+    <Compile Include="UserwiseCenterDAL.cs" />
+    <Compile Include="DTO\WHRETURNCHILD.cs" />
+    <Compile Include="DTO\WHRETURNMASTER.cs" />
+    <Compile Include="DTO\Package.cs" />
+    <Compile Include="DTO\PackagePromotion.cs" />
+    <Compile Include="DTO\Exitorderchild.cs" />
+    <Compile Include="DTO\Exitordermaster.cs" />
+    <Compile Include="DTO\ProductDelivery.cs" />
+    <Compile Include="DTO\Supplier.cs" />
+    <Compile Include="DTO\SupplierReceivechild.cs" />
+    <Compile Include="DTO\SupplierReceivemaster.cs" />
+    <Compile Include="DTO\UserWarehouse.cs" />
+    <Compile Include="DTO\WHPRODUCTIONCHILD.cs" />
+    <Compile Include="DTO\WHPRODUCTIONMASTER.cs" />
+    <Compile Include="DTO\Adjustment.cs" />
+    <Compile Include="DTO\BufferChild.cs" />
+    <Compile Include="DTO\BufferMaster.cs" />
+    <Compile Include="DTO\WarehouseCenterStore.cs" />
+    <Compile Include="DTO\DisposeChild.cs" />
+    <Compile Include="DTO\DisposeMaster.cs" />
+    <Compile Include="DTO\Inventory.cs" />
+    <Compile Include="DTO\InventorySerials.cs" />
+    <Compile Include="DTO\ProductFamily.cs" />
+    <Compile Include="DTO\Credit.cs" />
+    <Compile Include="DTO\SalesIssueChild.cs" />
+    <Compile Include="DTO\SalesIssueMaster.cs" />
+    <Compile Include="DTO\SalesReturnChild.cs" />
+    <Compile Include="DTO\SalesReturnMaster.cs" />
+    <Compile Include="DTO\TransferChild.cs" />
+    <Compile Include="DTO\TransferMaster.cs" />
+    <Compile Include="DTO\TransferReceiveChild.cs" />
+    <Compile Include="DTO\TransferReceiveMaster.cs" />
+    <Compile Include="DTO\BankAccount.cs" />
+    <Compile Include="DTO\Region.cs" />
+    <Compile Include="DTO\CreditNote.cs" />
+    <Compile Include="DTO\CreditNoteDetails.cs" />
+    <Compile Include="DTO\Delivery.cs" />
+    <Compile Include="DTO\DeliveryDetail.cs" />
+    <Compile Include="DTO\ReturnInvoice.cs" />
+    <Compile Include="DTO\ReturnInvoicePriceBreakup.cs" />
+    <Compile Include="DTO\Reason.cs" />
+    <Compile Include="DTO\Return.cs" />
+    <Compile Include="DTO\ReturnDetail.cs" />
+    <Compile Include="DTO\ReturnInvoiceDetail.cs" />
+    <Compile Include="DTO\ShopReturnToWHDetail.cs" />
+    <Compile Include="DTO\ShopReturnToWH.cs" />
+    <Compile Include="DTO\InventoryTransaction.cs" />
+    <Compile Include="DTO\InventoryTransactionDetail.cs" />
+    <Compile Include="DTO\Invoice.cs" />
+    <Compile Include="DTO\InvoiceDetail.cs" />
+    <Compile Include="DTO\InvoicePriceBreakup.cs" />
+    <Compile Include="DTO\ShopOpeningClosing.cs" />
+    <Compile Include="DTO\ShopReceiveFromWHDetail.cs" />
+    <Compile Include="DTO\ShopReceiveFromWH.cs" />
+    <Compile Include="DTO\TellerCashTransfer.cs" />
+    <Compile Include="DTO\TellerOpeningAndClosing.cs" />
+    <Compile Include="DTO\Warehouse.cs" />
+    <Compile Include="DTO\InventoryTransactionRef.cs" />
+    <Compile Include="DTO\RFDetails.cs" />
+    <Compile Include="DBTransaction.cs" />
+    <Compile Include="DTO\AdjustmentType.cs" />
+    <Compile Include="DTO\Bank.cs" />
+    <Compile Include="DTO\Center.cs" />
+    <Compile Include="DTO\CenterType.cs" />
+    <Compile Include="DTO\Channel.cs" />
+    <Compile Include="DTO\ChannelType.cs" />
+    <Compile Include="DTO\Collection.cs" />
+    <Compile Include="DTO\CollectionMode.cs" />
+    <Compile Include="DTO\COLLECTIONTYPE.cs" />
+    <Compile Include="DTO\CenterSubType.cs" />
+    <Compile Include="DTO\Customer.cs" />
+    <Compile Include="DTO\CustomerType.cs" />
+    <Compile Include="DTO\Distributor.cs" />
+    <Compile Include="DTO\RFRaiserChannel.cs" />
+    <Compile Include="DTO\Location.cs" />
+    <Compile Include="DTO\LocationType.cs" />
+    <Compile Include="DTO\PriceBreakups.cs" />
+    <Compile Include="DTO\Product.cs" />
+    <Compile Include="DTO\ProductCategory.cs" />
+    <Compile Include="DTO\ProductPriceBreakupDetail.cs" />
+    <Compile Include="DTO\ProductPriceBreakups.cs" />
+    <Compile Include="DTO\ProductPricingDetail.cs" />
+    <Compile Include="DTO\ProductPricingMaster.cs" />
+    <Compile Include="DTO\ProductSubCategory.cs" />
+    <Compile Include="DTO\PromotionCycles.cs" />
+    <Compile Include="DTO\Promotions.cs" />
+    <Compile Include="DTO\RFMain.cs" />
+    <Compile Include="DTO\RFRaiser.cs" />
+    <Compile Include="DTO\RightInfo.cs" />
+    <Compile Include="DTO\RoleGroup.cs" />
+    <Compile Include="DTO\RoleInfo.cs" />
+    <Compile Include="DTO\RoleRight.cs" />
+    <Compile Include="DTO\SalesPerson.cs" />
+    <Compile Include="DTO\ShopCalender.cs" />
+    <Compile Include="DTO\ShopChannel.cs" />
+    <Compile Include="DTO\SHOPWISECOLLECTIONMODE.cs" />
+    <Compile Include="DTO\SHOPWISECOLLECTIONTYPE.cs" />
+    <Compile Include="DTO\Store.cs" />
+    <Compile Include="DTO\Teller.cs" />
+    <Compile Include="DTO\User.cs" />
+    <Compile Include="DTO\UserCenter.cs" />
+    <Compile Include="DTO\UserGroup.cs" />
+    <Compile Include="DTO\UserInfo.cs" />
+    <Compile Include="DTO\UserRightGroup.cs" />
+    <Compile Include="DTO\UserRole.cs" />
+    <Compile Include="DTO\UserTeller.cs" />
+    <Compile Include="DTO\VatChalan.cs" />
+    <Compile Include="OracleProcedure.cs" />
+    <Compile Include="RightInfoDAL.cs" />
+    <Compile Include="RoleInfoDAL.cs" />
+    <Compile Include="DTO\TellerBalance.cs" />
+    <Compile Include="UserCenterDAL.cs" />
+    <Compile Include="UserGroupDAL.cs" />
+    <Compile Include="UserInfoDAL.cs" />
+    <Compile Include="UserRightGroupDAL.cs" />
+    <Compile Include="UserRoleDAL.cs" />
+    <Compile Include="Utility.cs" />
+    <Compile Include="dllOracle.cs" />
+    <Compile Include="IdllOracle.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

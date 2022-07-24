@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C363D2BE-90BA-452C-BAF1-329DDA72CAD4}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SalesCom.DAL</RootNamespace>
+    <AssemblyName>SalesCom.DAL</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Oracle.DataAccess, Version=4.112.3.0, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Test Server oracle Datamanaged\Oracle.DataAccess.dll</HintPath>
+    </Reference>
+    <Reference Include="Oracle.ManagedDataAccess, Version=4.122.19.1, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=MSIL">
+      <HintPath>..\packages\Oracle.ManagedDataAccess.19.11.0\lib\net40\Oracle.ManagedDataAccess.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.OracleClient" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ActivityDAL.cs" />
+    <Compile Include="AdHocReportDAL.cs" />
+    <Compile Include="ApprovalFlowDAL.cs" />
+    <Compile Include="ApprovalLevel20DAL.cs" />
+    <Compile Include="ApprovalLevelDAL.cs" />
+    <Compile Include="CampaignDenoDriveDAL.cs" />
+    <Compile Include="CdpDbTransaction.cs" />
+    <Compile Include="CDPOracleProcedure.cs" />
+    <Compile Include="CdpReportDAL.cs" />
+    <Compile Include="ChannelDAL.cs" />
+    <Compile Include="ChannelEventBatchDAL.cs" />
+    <Compile Include="ChannelEventDAL.cs" />
+    <Compile Include="ChannelTypeDAL.cs" />
+    <Compile Include="ClaimApprovalProcessDAL.cs" />
+    <Compile Include="CommissionClaimDAL.cs" />
+    <Compile Include="CommissionCycleDAL.cs" />
+    <Compile Include="CommissionCycleReportsDAL.cs" />
+    <Compile Include="CommissionDetailExportDAL.cs" />
+    <Compile Include="CommissionReportAllDAL.cs" />
+    <Compile Include="commission_approval_dal.cs" />
+    <Compile Include="DailyDenoCampaignDAL.cs" />
+    <Compile Include="DenoCampaignDAL.cs" />
+    <Compile Include="DenoDriveDAL.cs" />
+    <Compile Include="DenoDriveTargetUploadDAL.cs" />
+    <Compile Include="DenoReportApprovalDAL.cs" />
+    <Compile Include="DisburseApprovalProcessDAL.cs" />
+    <Compile Include="DisburseReportListDAL.cs" />
+    <Compile Include="DailyDenoDriveTargetUploadDAL.cs" />
+    <Compile Include="HeadWiseWithheldListDAL.cs" />
+    <Compile Include="InitiateClaimDAL.cs" />
+    <Compile Include="InitiateDisburseDAL.cs" />
+    <Compile Include="Modality.cs" />
+    <Compile Include="RedisburseApprovalProcessDAL.cs" />
+    <Compile Include="ReportApprovalDAL.cs" />
+    <Compile Include="CommissionReportDAL.cs" />
+    <Compile Include="CommissionReportSegmentsDAL.cs" />
+    <Compile Include="CommonDAL.cs" />
+    <Compile Include="AmountTypeDAL.cs" />
+    <Compile Include="CommissionTypeDAL.cs" />
+    <Compile Include="CommissionReportEventsDAL.cs" />
+    <Compile Include="CommissionReportTargetsDAL.cs" />
+    <Compile Include="ChannelWithdrwalDAL.cs" />
+    <Compile Include="AdHocPendingApprovalDAL.cs" />
+    <Compile Include="DigitalApprovalDAL.cs" />
+    <Compile Include="EventExDAL.cs" />
+    <Compile Include="EventRuleApprovalDAL.cs" />
+    <Compile Include="EventRuleExDAL.cs" />
+    <Compile Include="ProductChannelDAL.cs" />
+    <Compile Include="ProductDetailsDAL.cs" />
+    <Compile Include="ExcludedProductDAL.cs" />
+    <Compile Include="ReportCycleMappingDAL.cs" />
+    <Compile Include="ReportGenTypeDAL.cs" />
+    <Compile Include="ReportPreExeConfigDAL.cs" />
+    <Compile Include="ReportTypeDAL.cs" />
+    <Compile Include="ReportViewDAL.cs" />
+    <Compile Include="PendingApproval_NewDAL.cs" />
+    <Compile Include="ImportExcelToDataBaseDAL.cs" />
+    <Compile Include="LevelCollectionDAL.cs" />
+    <Compile Include="LevelUser20DAL.cs" />
+    <Compile Include="LevelUserDAL.cs" />
+    <Compile Include="ModalityReportContentDAL.cs" />
+    <Compile Include="PendingApprovalDAL.cs" />
+    <Compile Include="PendingApprovalWithStatusDAL.cs" />
+    <Compile Include="ReportWiseRedisburseInitiationDAL.cs" />
+    <Compile Include="ReportWiseWithheldListDAL.cs" />
+    <Compile Include="SPendingApprovalDAL.cs" />
+    <Compile Include="PendingApprovalSummaryViewDAL.cs" />
+    <Compile Include="RuleGroupDAL.cs" />
+    <Compile Include="ListProcessStageDAL.cs" />
+    <Compile Include="SegmentDAL.cs" />
+    <Compile Include="EventRuleDAL.cs" />
+    <Compile Include="EventValidationDAL.cs" />
+    <Compile Include="DBTransaction.cs" />
+    <Compile Include="dllOracle.cs" />
+    <Compile Include="EventDAL.cs" />
+    <Compile Include="EventTypeDAL.cs" />
+    <Compile Include="OracleProcedure.cs" />
+    <Compile Include="PeriodDAL.cs" />
+    <Compile Include="PeriodTypeDAL.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SegmentTypeDAL.cs" />
+    <Compile Include="ThresholdDAL.cs" />
+    <Compile Include="ValidationRuleDAL.cs" />
+    <Compile Include="Utility.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SalesCom.Entity\SalesCom.Entity.csproj">
+      <Project>{6dec7713-3363-4ba7-9c24-5f7121604871}</Project>
+      <Name>SalesCom.Entity</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

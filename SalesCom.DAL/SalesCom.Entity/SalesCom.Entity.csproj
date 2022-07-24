@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6DEC7713-3363-4BA7-9C24-5F7121604871}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SalesCom.Entity</RootNamespace>
+    <AssemblyName>SalesCom.Entity</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ActivityEnt.cs" />
+    <Compile Include="AdHocPendingApprovalEnt.cs" />
+    <Compile Include="AdHocReportEnt.cs" />
+    <Compile Include="ApprovalFlowEnt.cs" />
+    <Compile Include="ApprovalLevel20Ent.cs" />
+    <Compile Include="ApprovalLevelEnt.cs" />
+    <Compile Include="CdpReportEntity.cs" />
+    <Compile Include="CdpReportListEntity.cs" />
+    <Compile Include="ChannelEnt.cs" />
+    <Compile Include="ChannelEventBatchEnt.cs" />
+    <Compile Include="ChannelEventEnt.cs" />
+    <Compile Include="ChannelEventImportEnt.cs" />
+    <Compile Include="ChannelTypeEnt.cs" />
+    <Compile Include="ChannelWithdrawalEnt.cs" />
+    <Compile Include="ClaimApprovalProcessEnt.cs" />
+    <Compile Include="ClaimMismatchEnt.cs" />
+    <Compile Include="CommentsCycleEnt.cs" />
+    <Compile Include="CommissionClaimEnt.cs" />
+    <Compile Include="CommissionCycleEnt.cs" />
+    <Compile Include="CommissionCycleReportsEnt.cs" />
+    <Compile Include="CommissionReportAllEnt.cs" />
+    <Compile Include="CommissionReportEnt.cs" />
+    <Compile Include="AmountTypeEnt.cs" />
+    <Compile Include="commission_approval_ent.cs" />
+    <Compile Include="DisburseApprovalProcessEnt.cs" />
+    <Compile Include="DisburseReportListEnt.cs" />
+    <Compile Include="HeadWiseWithheldListEnt.cs" />
+    <Compile Include="InitiateClaimEnt.cs" />
+    <Compile Include="InitiateDisburseEnt.cs" />
+    <Compile Include="RedisburseApprovalProcessEnt.cs" />
+    <Compile Include="ReportApprovalEnt.cs" />
+    <Compile Include="CommissionReportSegmentsEnt.cs" />
+    <Compile Include="CommissionReportTargetsEnt.cs" />
+    <Compile Include="CommissionTypeEnt.cs" />
+    <Compile Include="CommissionReportEventsEnt.cs" />
+    <Compile Include="ErrorMessageEnt.cs" />
+    <Compile Include="EventApprovalActivityEnt.cs" />
+    <Compile Include="EventExEnt.cs" />
+    <Compile Include="EventExLogEnt.cs" />
+    <Compile Include="EventRuleApprovalEnt.cs" />
+    <Compile Include="EventRuleExEnt.cs" />
+    <Compile Include="ExcludedProductEnt.cs" />
+    <Compile Include="LevelCollectionEnt.cs" />
+    <Compile Include="LevelUser20Ent.cs" />
+    <Compile Include="LevelUserEnt.cs" />
+    <Compile Include="ModalityReportContentEnt.cs" />
+    <Compile Include="PendingApprovalEnt.cs" />
+    <Compile Include="PendingApprovalSummaryViewEnt.cs" />
+    <Compile Include="PendingApproval_NewEnt.cs" />
+    <Compile Include="ProductChannelEnt.cs" />
+    <Compile Include="ProductDetailsEnt.cs" />
+    <Compile Include="ReportCycleMappingEnt.cs" />
+    <Compile Include="ReportGenTypeEnt.cs" />
+    <Compile Include="ReportPreExeConfigEnt.cs" />
+    <Compile Include="ReportTypeEnt.cs" />
+    <Compile Include="ReportViewEnt.cs" />
+    <Compile Include="ReportWiseDisburseInitiationEnt.cs" />
+    <Compile Include="ReportWiseWithheldListEnt.cs" />
+    <Compile Include="SPendingApprovalEnt.cs" />
+    <Compile Include="RuleGroupEnt.cs" />
+    <Compile Include="SegmentEnt.cs" />
+    <Compile Include="EventRuleEnt.cs" />
+    <Compile Include="EventValidationEnt.cs" />
+    <Compile Include="EventEnt.cs" />
+    <Compile Include="EventTypeEnt.cs" />
+    <Compile Include="PeriodEnt.cs" />
+    <Compile Include="PeriodTypeEnt.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SegmentTypeEnt.cs" />
+    <Compile Include="SetupProcessEnt.cs" />
+    <Compile Include="SetupStageEnt.cs" />
+    <Compile Include="SetupUserEnt.cs" />
+    <Compile Include="StageUserAssignmentViewEnt.cs" />
+    <Compile Include="ThresholdEnt.cs" />
+    <Compile Include="ValidationRuleEnt.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

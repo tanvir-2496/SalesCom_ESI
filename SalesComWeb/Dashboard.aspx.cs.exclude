@@ -1,0 +1,248 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Configuration;
+using System.Data;
+using System.Linq;
+using System.Data.OracleClient;
+using ESI.Entity;
+using ESI.DAL;
+using ESI.Entity.ViewModel;
+
+public partial class Dashboard : System.Web.UI.Page
+{
+    protected void Page_Load(object sender, EventArgs e)
+    {
+        if (!this.Page.IsPostBack)
+        {
+            ddlYear.DataSource = Common.GenrateYear();
+            ddlYear.DataBind();
+            //Common.PopulateRegionalHead(ddlRegionalHead, LoginInfo.Current.UserId);
+
+
+            int year = DateTime.Now.Year;
+            int quarter = 0;
+            int month = DateTime.Now.Month;
+
+            var y = ddlYear.Items.FindByText(year.ToString());
+            if (y != null)
+                y.Selected = true;
+            quarter = DateTime.Now.Month % 3 == 0 ? DateTime.Now.Month / 3 : DateTime.Now.Month / 3 + 1;
+          //  quarter = 3;
+            var q = ddlQuarter.Items.FindByValue(quarter.ToString());
+            if (q != null)
+                q.Selected = true;
+            DropDownLoad();
+            int userId = LoginInfo.Current.UserId;
+            int selfEmployeeId = UserMappDAL.GetEmployeeByUserId(userId).EMPLOYEENO.Length > 0 ? Convert.ToInt32(UserMappDAL.GetEmployeeByUserId(userId).EMPLOYEENO) : 0;
+            string designationName = ESI_ReportDAL.GetUserDesignation(selfEmployeeId);
+            int designation = 0;
+            if (designationName == "Cluster Director")
+            {
+                designation = (int)Designation.Cluster_Director;
+            }
+            if (designationName == "Sales & Distribution Director")
+            {
+                designation = (int)Designation.Sales_Distribution_Director;
+            }
+            if (designationName == "Chief Commercial Officer")
+            {
+                designation = (int)Designation.Chief_Commercial_Officer;
+            }
+            deshboard(year, quarter, month, designation, selfEmployeeId);
+
+        }
+
+    }
+    protected void DropDownLoad()
+    {
+        int userId = LoginInfo.Current.UserId;
+        //int employeeId = 13198;
+        int employeeId = UserMappDAL.GetEmployeeByUserId(userId).EMPLOYEENO.Length > 0 ? Convert.ToInt32(UserMappDAL.GetEmployeeByUserId(userId).EMPLOYEENO) : 0;
+        #region  Regional Head
+        int RegionalHeadList = Common.PopulateRegionalHead(ddlRegionalHead, employeeId);
+        if (RegionalHeadList < 1)
+        {
+            Div_RegionalHead.Attributes["style"] = "display: none;";
+        }
+        else
+        {
+            Div_RegionalHead.Attributes["style"] = "";
+        }
+        #endregion
+
+        #region ClusterDirectors
+        int ClusterDirector = Common.PopulateHoDnDirectorRoles(ddlHoDnDirectorRoles, employeeId);
+        if (ClusterDirector < 1)
+        {
+            Div_HoDnDirectorRoles.Attributes["style"] = "display: none;";
+        }
+        else
+        {
+            Div_HoDnDirectorRoles.Attributes["style"] = "";
+        }
+        #endregion
+        #region CXO_Role
+        int CXO_Role = Common.PopulateCXODirectorRoles(ddl_CXO_Role, employeeId);
+        if (CXO_Role < 1)
+        {
+            lbl_ddl_CXO_Role.Attributes["style"] = "display: none;";
+        }
+        else
+        {
+            lbl_ddl_CXO_Role.Attributes["style"] = "";
+        }
+        #endregion
+    }
+
+    protected void ddl_CXO_RoleSelectedIndexChanged(object sender, EventArgs e)//ToDo
+    {
+        int year = Convert.ToInt32(ddlYear.SelectedValue);
+        int month = 0;
+        int quarter = Convert.ToInt32(ddlQuarter.SelectedValue);
+        int EmployeeId = ddl_CXO_Role.SelectedIndex > 0 ? Convert.ToInt32(ddl_CXO_Role.SelectedValue) : 0;
+        int userId = LoginInfo.Current.UserId;
+        int selfFmployeeId = UserMappDAL.GetEmployeeByUserId(userId).EMPLOYEENO.Length > 0 ? Convert.ToInt32(UserMappDAL.GetEmployeeByUserId(userId).EMPLOYEENO) : 0;
+
+        if (quarter < 1)
+        {
+            month = DateTime.Now.Month;
+        }
+        if (EmployeeId > 0)
+        {
+            deshboard(year, quarter, month, (int)Designation.Sales_Distribution_Director, EmployeeId);
+        }
+        else
+        {
+            deshboard(year, quarter, month, (int)Designation.Chief_Commercial_Officer, selfFmployeeId);
+        }
+    }
+    protected void ddl_RegionalHeadSelectedIndexChanged(object sender, EventArgs e)
+    {
+        int year = Convert.ToInt32(ddlYear.SelectedValue);
+        int month = 0;
+        int quarter = Convert.ToInt32(ddlQuarter.SelectedValue);
+        int EmployeeId = ddlRegionalHead.SelectedIndex > 0 ? Convert.ToInt32(ddlRegionalHead.SelectedValue) : 0;
+        int userId = LoginInfo.Current.UserId;
+        int selfFmployeeId = UserMappDAL.GetEmployeeByUserId(userId).EMPLOYEENO.Length > 0 ? Convert.ToInt32(UserMappDAL.GetEmployeeByUserId(userId).EMPLOYEENO) : 0;
+
+        if (quarter < 1)
+        {
+            month = DateTime.Now.Month;
+        }
+        if (EmployeeId > 0)
+        {
+            deshboard(year, quarter, month, (int)Designation.Regional_Head, EmployeeId);
+        }
+        else
+        {
+            deshboard(year, quarter, month, (int)Designation.Cluster_Director, selfFmployeeId);
+        }
+    }
+    protected void ddl_HoDnDirectorRolesSelectedIndexChanged(object sender, EventArgs e)
+    {
+        int year = Convert.ToInt32(ddlYear.SelectedValue);
+        int month = 0;
+        int quarter = Convert.ToInt32(ddlQuarter.SelectedValue);
+        int EmployeeId = ddlHoDnDirectorRoles.SelectedIndex > 0 ? Convert.ToInt32(ddlHoDnDirectorRoles.SelectedValue) : 0;
+        int userId = LoginInfo.Current.UserId;
+        int selfEmployeeId = UserMappDAL.GetEmployeeByUserId(userId).EMPLOYEENO.Length > 0 ? Convert.ToInt32(UserMappDAL.GetEmployeeByUserId(userId).EMPLOYEENO) : 0;
+        if (quarter < 1)
+        {
+            month = DateTime.Now.Month;
+        }
+        if (EmployeeId > 0)
+        {
+            deshboard(year, quarter, month, (int)Designation.Cluster_Director, EmployeeId);
+        }
+        else
+        {
+            deshboard(year, quarter, month, (int)Designation.Sales_Distribution_Director, selfEmployeeId);
+        }
+
+    }
+    public void deshboard(int year, int quarter, int month, int designation, int employeeId)
+    {
+        List<KPIvsAchievementForHigherEnt> report = new List<KPIvsAchievementForHigherEnt>();
+        if (designation == (int)Designation.Cluster_Director)
+        {
+            report = ESI_ReportDAL.KPIvsAchievementForCD(employeeId, year, quarter);
+        }
+        else if (designation == (int)Designation.Regional_Head)
+        {
+            report = ESI_ReportDAL.KPIvsAchievementForRH(employeeId, year, quarter);
+        }
+        else if (designation == (int)Designation.Sales_Distribution_Director)
+        {
+            report = ESI_ReportDAL.KPIvsAchievementForDirective(employeeId, year, quarter);
+        }
+        else if (designation == (int)Designation.Chief_Commercial_Officer)
+        {
+            report = ESI_ReportDAL.KPIvsAchievementForCCO(employeeId, year, quarter);
+        }
+
+        lv.DataSource = report;
+        lv.DataBind();
+
+        #region Chart Start
+        if (report.Count <= 0)
+        {
+            KPIChart.Visible = false;
+            KPIChart.Controls.Clear();
+        }
+        else
+        {
+            KPIChart.Visible = true;
+            KPIChart.Titles.Clear();
+        }
+        KPIChart.ChartAreas["KPIName"].AxisX.Interval = 1;
+        KPIChart.DataSource = report;
+        KPIChart.Series[0].XValueMember = "KPIName";
+        KPIChart.Series[0].YValueMembers = "TotalQuarterAchievement";
+        KPIChart.DataBind();
+        #endregion
+    }
+    protected void ddl_SelectedIndexChanged(object sender, EventArgs e)
+    {
+        int year = Convert.ToInt32(ddlYear.SelectedValue);
+        int month = 0;
+        int quarter = Convert.ToInt32(ddlQuarter.SelectedValue);
+        int EmployeeId = ddlRegionalHead.SelectedIndex > 0 ? Convert.ToInt32(ddlRegionalHead.SelectedValue) : 0;
+        int userId = LoginInfo.Current.UserId;
+        int selfFmployeeId = UserMappDAL.GetEmployeeByUserId(userId).EMPLOYEENO.Length > 0 ? Convert.ToInt32(UserMappDAL.GetEmployeeByUserId(userId).EMPLOYEENO) : 0;
+
+        if (quarter < 1)
+        {
+            month = DateTime.Now.Month;
+        }
+        string designationName = ESI_ReportDAL.GetUserDesignation(selfFmployeeId);
+        int designation = 0;
+        if (designationName == "Cluster Director")
+        {
+            designation = (int)Designation.Cluster_Director;
+        }
+        if (designationName == "Sales & Distribution Director")
+        {
+            designation = (int)Designation.Sales_Distribution_Director;
+        }
+        if (designationName == "Chief Commercial Officer")
+        {
+            designation = (int)Designation.Chief_Commercial_Officer;
+        }
+        if (EmployeeId > 0)
+        {
+            deshboard(year, quarter, month, designation, EmployeeId);
+        }
+        else
+        {
+            deshboard(year, quarter, month, designation, selfFmployeeId);
+        }
+    }
+
+    public enum Designation
+    {
+        Cluster_Director = 1,
+        Regional_Head,
+        Sales_Distribution_Director,
+        Chief_Commercial_Officer
+    }
+}

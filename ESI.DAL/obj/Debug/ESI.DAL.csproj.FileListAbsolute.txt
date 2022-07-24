@@ -1,0 +1,525 @@
+E:\Project\BSI\ESI.DAL\bin\Debug\ESI.DAL.dll
+E:\Project\BSI\ESI.DAL\bin\Debug\ESI.DAL.pdb
+E:\Project\BSI\ESI.DAL\bin\Debug\ESI.Entity.dll
+E:\Project\BSI\ESI.DAL\bin\Debug\Oracle.DataAccess.dll
+E:\Project\BSI\ESI.DAL\bin\Debug\SalesCom.DAL.dll
+E:\Project\BSI\ESI.DAL\bin\Debug\SalesCom.Entity.dll
+E:\Project\BSI\ESI.DAL\bin\Debug\ESI.Entity.pdb
+E:\Project\BSI\ESI.DAL\bin\Debug\SalesCom.DAL.pdb
+E:\Project\BSI\ESI.DAL\bin\Debug\SalesCom.Entity.pdb
+E:\Project\BSI\ESI.DAL\obj\Debug\ESI.DAL.csprojResolveAssemblyReference.cache
+E:\Project\BSI\ESI.DAL\obj\Debug\ESI.DAL.dll
+E:\Project\BSI\ESI.DAL\obj\Debug\ESI.DAL.pdb
+E:\Project\salescom_app\ESI.DAL\bin\Debug\ESI.DAL.dll
+E:\Project\salescom_app\ESI.DAL\bin\Debug\ESI.DAL.pdb
+E:\Project\salescom_app\ESI.DAL\bin\Debug\ESI.Entity.dll
+E:\Project\salescom_app\ESI.DAL\bin\Debug\Newtonsoft.Json.dll
+E:\Project\salescom_app\ESI.DAL\bin\Debug\SalesCom.DAL.dll
+E:\Project\salescom_app\ESI.DAL\bin\Debug\SalesCom.Entity.dll
+E:\Project\salescom_app\ESI.DAL\bin\Debug\ESI.Entity.pdb
+E:\Project\salescom_app\ESI.DAL\bin\Debug\SalesCom.DAL.pdb
+E:\Project\salescom_app\ESI.DAL\bin\Debug\SalesCom.Entity.pdb
+E:\Project\salescom_app\ESI.DAL\bin\Debug\Newtonsoft.Json.xml
+E:\Project\salescom_app\ESI.DAL\obj\Debug\ESI.DAL.csprojResolveAssemblyReference.cache
+E:\Project\salescom_app\ESI.DAL\obj\Debug\ESI.DAL.dll
+E:\Project\salescom_app\ESI.DAL\obj\Debug\ESI.DAL.pdb
+E:\SalesCom Source Code\22-May-19\SalesCom\ESI.DAL\bin\Debug\ESI.DAL.dll
+E:\SalesCom Source Code\22-May-19\SalesCom\ESI.DAL\bin\Debug\ESI.DAL.pdb
+E:\SalesCom Source Code\22-May-19\SalesCom\ESI.DAL\bin\Debug\ESI.Entity.dll
+E:\SalesCom Source Code\22-May-19\SalesCom\ESI.DAL\bin\Debug\Newtonsoft.Json.dll
+E:\SalesCom Source Code\22-May-19\SalesCom\ESI.DAL\bin\Debug\Oracle.DataAccess.dll
+E:\SalesCom Source Code\22-May-19\SalesCom\ESI.DAL\bin\Debug\SalesCom.DAL.dll
+E:\SalesCom Source Code\22-May-19\SalesCom\ESI.DAL\bin\Debug\SalesCom.Entity.dll
+E:\SalesCom Source Code\22-May-19\SalesCom\ESI.DAL\bin\Debug\ESI.Entity.pdb
+E:\SalesCom Source Code\22-May-19\SalesCom\ESI.DAL\bin\Debug\SalesCom.DAL.pdb
+E:\SalesCom Source Code\22-May-19\SalesCom\ESI.DAL\bin\Debug\SalesCom.Entity.pdb
+E:\SalesCom Source Code\22-May-19\SalesCom\ESI.DAL\bin\Debug\Newtonsoft.Json.xml
+E:\SalesCom Source Code\22-May-19\SalesCom\ESI.DAL\obj\Debug\ESI.DAL.csprojResolveAssemblyReference.cache
+E:\SalesCom Source Code\22-May-19\SalesCom\ESI.DAL\obj\Debug\ESI.DAL.dll
+E:\SalesCom Source Code\22-May-19\SalesCom\ESI.DAL\obj\Debug\ESI.DAL.pdb
+F:\Mustak\Commission\salescom_app-master\salescom_app-master\ESI.DAL\bin\Debug\ESI.DAL.dll
+F:\Mustak\Commission\salescom_app-master\salescom_app-master\ESI.DAL\bin\Debug\ESI.DAL.pdb
+F:\Mustak\Commission\salescom_app-master\salescom_app-master\ESI.DAL\bin\Debug\ESI.Entity.dll
+F:\Mustak\Commission\salescom_app-master\salescom_app-master\ESI.DAL\bin\Debug\Newtonsoft.Json.dll
+F:\Mustak\Commission\salescom_app-master\salescom_app-master\ESI.DAL\bin\Debug\SalesCom.DAL.dll
+F:\Mustak\Commission\salescom_app-master\salescom_app-master\ESI.DAL\bin\Debug\SalesCom.Entity.dll
+F:\Mustak\Commission\salescom_app-master\salescom_app-master\ESI.DAL\bin\Debug\ESI.Entity.pdb
+F:\Mustak\Commission\salescom_app-master\salescom_app-master\ESI.DAL\bin\Debug\SalesCom.DAL.pdb
+F:\Mustak\Commission\salescom_app-master\salescom_app-master\ESI.DAL\bin\Debug\SalesCom.Entity.pdb
+F:\Mustak\Commission\salescom_app-master\salescom_app-master\ESI.DAL\bin\Debug\Newtonsoft.Json.xml
+F:\Mustak\Commission\salescom_app-master\salescom_app-master\ESI.DAL\obj\Debug\ESI.DAL.csprojResolveAssemblyReference.cache
+F:\Mustak\Commission\salescom_app-master\salescom_app-master\ESI.DAL\obj\Debug\ESI.DAL.dll
+F:\Mustak\Commission\salescom_app-master\salescom_app-master\ESI.DAL\obj\Debug\ESI.DAL.pdb
+F:\Mustak\Commission\SalesCommDevFolder\salescom_app-master\ESI.DAL\bin\Debug\ESI.DAL.dll
+F:\Mustak\Commission\SalesCommDevFolder\salescom_app-master\ESI.DAL\bin\Debug\ESI.DAL.pdb
+F:\Mustak\Commission\SalesCommDevFolder\salescom_app-master\ESI.DAL\bin\Debug\ESI.Entity.dll
+F:\Mustak\Commission\SalesCommDevFolder\salescom_app-master\ESI.DAL\bin\Debug\Newtonsoft.Json.dll
+F:\Mustak\Commission\SalesCommDevFolder\salescom_app-master\ESI.DAL\bin\Debug\Oracle.DataAccess.dll
+F:\Mustak\Commission\SalesCommDevFolder\salescom_app-master\ESI.DAL\bin\Debug\SalesCom.DAL.dll
+F:\Mustak\Commission\SalesCommDevFolder\salescom_app-master\ESI.DAL\bin\Debug\SalesCom.Entity.dll
+F:\Mustak\Commission\SalesCommDevFolder\salescom_app-master\ESI.DAL\bin\Debug\ESI.Entity.pdb
+F:\Mustak\Commission\SalesCommDevFolder\salescom_app-master\ESI.DAL\bin\Debug\SalesCom.DAL.pdb
+F:\Mustak\Commission\SalesCommDevFolder\salescom_app-master\ESI.DAL\bin\Debug\SalesCom.Entity.pdb
+F:\Mustak\Commission\SalesCommDevFolder\salescom_app-master\ESI.DAL\bin\Debug\Newtonsoft.Json.xml
+F:\Mustak\Commission\SalesCommDevFolder\salescom_app-master\ESI.DAL\obj\Debug\ESI.DAL.csprojResolveAssemblyReference.cache
+F:\Mustak\Commission\SalesCommDevFolder\salescom_app-master\ESI.DAL\obj\Debug\ESI.DAL.dll
+F:\Mustak\Commission\SalesCommDevFolder\salescom_app-master\ESI.DAL\obj\Debug\ESI.DAL.pdb
+F:\Mustak\Commission\SalesComm Solution\salescom_app-master\ESI.DAL\bin\Debug\ESI.DAL.dll
+F:\Mustak\Commission\SalesComm Solution\salescom_app-master\ESI.DAL\bin\Debug\ESI.DAL.pdb
+F:\Mustak\Commission\SalesComm Solution\salescom_app-master\ESI.DAL\bin\Debug\ESI.Entity.dll
+F:\Mustak\Commission\SalesComm Solution\salescom_app-master\ESI.DAL\bin\Debug\Newtonsoft.Json.dll
+F:\Mustak\Commission\SalesComm Solution\salescom_app-master\ESI.DAL\bin\Debug\Oracle.DataAccess.dll
+F:\Mustak\Commission\SalesComm Solution\salescom_app-master\ESI.DAL\bin\Debug\SalesCom.DAL.dll
+F:\Mustak\Commission\SalesComm Solution\salescom_app-master\ESI.DAL\bin\Debug\SalesCom.Entity.dll
+F:\Mustak\Commission\SalesComm Solution\salescom_app-master\ESI.DAL\bin\Debug\ESI.Entity.pdb
+F:\Mustak\Commission\SalesComm Solution\salescom_app-master\ESI.DAL\bin\Debug\SalesCom.DAL.pdb
+F:\Mustak\Commission\SalesComm Solution\salescom_app-master\ESI.DAL\bin\Debug\SalesCom.Entity.pdb
+F:\Mustak\Commission\SalesComm Solution\salescom_app-master\ESI.DAL\bin\Debug\Newtonsoft.Json.xml
+F:\Mustak\Commission\SalesComm Solution\salescom_app-master\ESI.DAL\obj\Debug\ESI.DAL.csprojResolveAssemblyReference.cache
+F:\Mustak\Commission\SalesComm Solution\salescom_app-master\ESI.DAL\obj\Debug\ESI.DAL.dll
+F:\Mustak\Commission\SalesComm Solution\salescom_app-master\ESI.DAL\obj\Debug\ESI.DAL.pdb
+E:\SalesCom Source Code\salescom_app-master\ESI.DAL\bin\Debug\ESI.DAL.dll
+E:\SalesCom Source Code\salescom_app-master\ESI.DAL\bin\Debug\ESI.DAL.pdb
+E:\SalesCom Source Code\salescom_app-master\ESI.DAL\bin\Debug\ESI.Entity.dll
+E:\SalesCom Source Code\salescom_app-master\ESI.DAL\bin\Debug\Newtonsoft.Json.dll
+E:\SalesCom Source Code\salescom_app-master\ESI.DAL\bin\Debug\Oracle.DataAccess.dll
+E:\SalesCom Source Code\salescom_app-master\ESI.DAL\bin\Debug\SalesCom.DAL.dll
+E:\SalesCom Source Code\salescom_app-master\ESI.DAL\bin\Debug\SalesCom.Entity.dll
+E:\SalesCom Source Code\salescom_app-master\ESI.DAL\bin\Debug\ESI.Entity.pdb
+E:\SalesCom Source Code\salescom_app-master\ESI.DAL\bin\Debug\SalesCom.DAL.pdb
+E:\SalesCom Source Code\salescom_app-master\ESI.DAL\bin\Debug\SalesCom.Entity.pdb
+E:\SalesCom Source Code\salescom_app-master\ESI.DAL\bin\Debug\Newtonsoft.Json.xml
+E:\SalesCom Source Code\salescom_app-master\ESI.DAL\obj\Debug\ESI.DAL.csprojResolveAssemblyReference.cache
+E:\SalesCom Source Code\salescom_app-master\ESI.DAL\obj\Debug\ESI.DAL.dll
+E:\SalesCom Source Code\salescom_app-master\ESI.DAL\obj\Debug\ESI.DAL.pdb
+D:\ESI second Phase Development\Development\salescom_app-master\ESI.DAL\bin\Debug\ESI.DAL.dll
+D:\ESI second Phase Development\Development\salescom_app-master\ESI.DAL\bin\Debug\ESI.DAL.pdb
+D:\ESI second Phase Development\Development\salescom_app-master\ESI.DAL\bin\Debug\ESI.Entity.dll
+D:\ESI second Phase Development\Development\salescom_app-master\ESI.DAL\bin\Debug\Newtonsoft.Json.dll
+D:\ESI second Phase Development\Development\salescom_app-master\ESI.DAL\bin\Debug\Oracle.DataAccess.dll
+D:\ESI second Phase Development\Development\salescom_app-master\ESI.DAL\bin\Debug\SalesCom.DAL.dll
+D:\ESI second Phase Development\Development\salescom_app-master\ESI.DAL\bin\Debug\SalesCom.Entity.dll
+D:\ESI second Phase Development\Development\salescom_app-master\ESI.DAL\bin\Debug\ESI.Entity.pdb
+D:\ESI second Phase Development\Development\salescom_app-master\ESI.DAL\bin\Debug\SalesCom.DAL.pdb
+D:\ESI second Phase Development\Development\salescom_app-master\ESI.DAL\bin\Debug\SalesCom.Entity.pdb
+D:\ESI second Phase Development\Development\salescom_app-master\ESI.DAL\bin\Debug\Newtonsoft.Json.xml
+D:\ESI second Phase Development\Development\salescom_app-master\ESI.DAL\obj\Debug\ESI.DAL.csprojResolveAssemblyReference.cache
+D:\ESI second Phase Development\Development\salescom_app-master\ESI.DAL\obj\Debug\ESI.DAL.dll
+D:\ESI second Phase Development\Development\salescom_app-master\ESI.DAL\obj\Debug\ESI.DAL.pdb
+F:\My\salescom_app new dev\ESI.DAL\bin\Debug\ESI.DAL.dll
+F:\My\salescom_app new dev\ESI.DAL\bin\Debug\ESI.DAL.pdb
+F:\My\salescom_app new dev\ESI.DAL\bin\Debug\ESI.Entity.dll
+F:\My\salescom_app new dev\ESI.DAL\bin\Debug\Newtonsoft.Json.dll
+F:\My\salescom_app new dev\ESI.DAL\bin\Debug\Oracle.DataAccess.dll
+F:\My\salescom_app new dev\ESI.DAL\bin\Debug\SalesCom.DAL.dll
+F:\My\salescom_app new dev\ESI.DAL\bin\Debug\SalesCom.Entity.dll
+F:\My\salescom_app new dev\ESI.DAL\bin\Debug\ESI.Entity.pdb
+F:\My\salescom_app new dev\ESI.DAL\bin\Debug\SalesCom.DAL.pdb
+F:\My\salescom_app new dev\ESI.DAL\bin\Debug\SalesCom.Entity.pdb
+F:\My\salescom_app new dev\ESI.DAL\bin\Debug\Newtonsoft.Json.xml
+F:\My\salescom_app new dev\ESI.DAL\obj\Debug\ESI.DAL.csprojResolveAssemblyReference.cache
+F:\My\salescom_app new dev\ESI.DAL\obj\Debug\ESI.DAL.dll
+F:\My\salescom_app new dev\ESI.DAL\obj\Debug\ESI.DAL.pdb
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app Development for Test server\ESI.DAL\bin\Debug\ESI.DAL.dll
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app Development for Test server\ESI.DAL\bin\Debug\ESI.DAL.pdb
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app Development for Test server\ESI.DAL\bin\Debug\ESI.Entity.dll
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app Development for Test server\ESI.DAL\bin\Debug\Newtonsoft.Json.dll
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app Development for Test server\ESI.DAL\bin\Debug\Oracle.DataAccess.dll
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app Development for Test server\ESI.DAL\bin\Debug\SalesCom.DAL.dll
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app Development for Test server\ESI.DAL\bin\Debug\SalesCom.Entity.dll
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app Development for Test server\ESI.DAL\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app Development for Test server\ESI.DAL\bin\Debug\ESI.Entity.pdb
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app Development for Test server\ESI.DAL\bin\Debug\SalesCom.DAL.pdb
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app Development for Test server\ESI.DAL\bin\Debug\SalesCom.DAL.dll.config
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app Development for Test server\ESI.DAL\bin\Debug\SalesCom.Entity.pdb
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app Development for Test server\ESI.DAL\bin\Debug\Newtonsoft.Json.xml
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app Development for Test server\ESI.DAL\obj\Debug\ESI.DAL.csprojAssemblyReference.cache
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app Development for Test server\ESI.DAL\obj\Debug\ESI.DAL.csproj.CoreCompileInputs.cache
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app Development for Test server\ESI.DAL\obj\Debug\ESI.DAL.csproj.CopyComplete
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app Development for Test server\ESI.DAL\obj\Debug\ESI.DAL.dll
+D:\2. Support Folder\SaleCom Develop By Mahmud\BL git project repository\From mustak\salescom_app Development for Test server\ESI.DAL\obj\Debug\ESI.DAL.pdb
+F:\My\Salescom_app_deno_camp_git\salescomm\ESI.DAL\bin\Debug\ESI.DAL.dll
+F:\My\Salescom_app_deno_camp_git\salescomm\ESI.DAL\bin\Debug\ESI.DAL.pdb
+F:\My\Salescom_app_deno_camp_git\salescomm\ESI.DAL\bin\Debug\ESI.Entity.dll
+F:\My\Salescom_app_deno_camp_git\salescomm\ESI.DAL\bin\Debug\Newtonsoft.Json.dll
+F:\My\Salescom_app_deno_camp_git\salescomm\ESI.DAL\bin\Debug\Oracle.DataAccess.dll
+F:\My\Salescom_app_deno_camp_git\salescomm\ESI.DAL\bin\Debug\SalesCom.DAL.dll
+F:\My\Salescom_app_deno_camp_git\salescomm\ESI.DAL\bin\Debug\SalesCom.Entity.dll
+F:\My\Salescom_app_deno_camp_git\salescomm\ESI.DAL\bin\Debug\Oracle.ManagedDataAccess.dll
+F:\My\Salescom_app_deno_camp_git\salescomm\ESI.DAL\bin\Debug\ESI.Entity.pdb
+F:\My\Salescom_app_deno_camp_git\salescomm\ESI.DAL\bin\Debug\SalesCom.DAL.pdb
+F:\My\Salescom_app_deno_camp_git\salescomm\ESI.DAL\bin\Debug\SalesCom.Entity.pdb
+F:\My\Salescom_app_deno_camp_git\salescomm\ESI.DAL\bin\Debug\Newtonsoft.Json.xml
+F:\My\Salescom_app_deno_camp_git\salescomm\ESI.DAL\obj\Debug\ESI.DAL.csprojResolveAssemblyReference.cache
+F:\My\Salescom_app_deno_camp_git\salescomm\ESI.DAL\obj\Debug\ESI.DAL.dll
+F:\My\Salescom_app_deno_camp_git\salescomm\ESI.DAL\obj\Debug\ESI.DAL.pdb
+D:\1. Project Folders\Salescommission Project on 13 APR 21\Salescom_code\salescomm\ESI.DAL\bin\Debug\ESI.DAL.dll
+D:\1. Project Folders\Salescommission Project on 13 APR 21\Salescom_code\salescomm\ESI.DAL\bin\Debug\ESI.DAL.pdb
+D:\1. Project Folders\Salescommission Project on 13 APR 21\Salescom_code\salescomm\ESI.DAL\bin\Debug\ESI.Entity.dll
+D:\1. Project Folders\Salescommission Project on 13 APR 21\Salescom_code\salescomm\ESI.DAL\bin\Debug\Newtonsoft.Json.dll
+D:\1. Project Folders\Salescommission Project on 13 APR 21\Salescom_code\salescomm\ESI.DAL\bin\Debug\Oracle.DataAccess.dll
+D:\1. Project Folders\Salescommission Project on 13 APR 21\Salescom_code\salescomm\ESI.DAL\bin\Debug\SalesCom.DAL.dll
+D:\1. Project Folders\Salescommission Project on 13 APR 21\Salescom_code\salescomm\ESI.DAL\bin\Debug\SalesCom.Entity.dll
+D:\1. Project Folders\Salescommission Project on 13 APR 21\Salescom_code\salescomm\ESI.DAL\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\1. Project Folders\Salescommission Project on 13 APR 21\Salescom_code\salescomm\ESI.DAL\bin\Debug\ESI.Entity.pdb
+D:\1. Project Folders\Salescommission Project on 13 APR 21\Salescom_code\salescomm\ESI.DAL\bin\Debug\SalesCom.DAL.pdb
+D:\1. Project Folders\Salescommission Project on 13 APR 21\Salescom_code\salescomm\ESI.DAL\bin\Debug\SalesCom.Entity.pdb
+D:\1. Project Folders\Salescommission Project on 13 APR 21\Salescom_code\salescomm\ESI.DAL\bin\Debug\Newtonsoft.Json.xml
+D:\1. Project Folders\Salescommission Project on 13 APR 21\Salescom_code\salescomm\ESI.DAL\obj\Debug\ESI.DAL.csprojResolveAssemblyReference.cache
+D:\1. Project Folders\Salescommission Project on 13 APR 21\Salescom_code\salescomm\ESI.DAL\obj\Debug\ESI.DAL.dll
+D:\1. Project Folders\Salescommission Project on 13 APR 21\Salescom_code\salescomm\ESI.DAL\obj\Debug\ESI.DAL.pdb
+F:\My\salescomm 27-7-21\salescomm\ESI.DAL\bin\Debug\ESI.DAL.dll
+F:\My\salescomm 27-7-21\salescomm\ESI.DAL\bin\Debug\ESI.DAL.pdb
+F:\My\salescomm 27-7-21\salescomm\ESI.DAL\bin\Debug\ESI.Entity.dll
+F:\My\salescomm 27-7-21\salescomm\ESI.DAL\bin\Debug\Newtonsoft.Json.dll
+F:\My\salescomm 27-7-21\salescomm\ESI.DAL\bin\Debug\Oracle.DataAccess.dll
+F:\My\salescomm 27-7-21\salescomm\ESI.DAL\bin\Debug\SalesCom.DAL.dll
+F:\My\salescomm 27-7-21\salescomm\ESI.DAL\bin\Debug\SalesCom.Entity.dll
+F:\My\salescomm 27-7-21\salescomm\ESI.DAL\bin\Debug\Oracle.ManagedDataAccess.dll
+F:\My\salescomm 27-7-21\salescomm\ESI.DAL\bin\Debug\ESI.Entity.pdb
+F:\My\salescomm 27-7-21\salescomm\ESI.DAL\bin\Debug\SalesCom.DAL.pdb
+F:\My\salescomm 27-7-21\salescomm\ESI.DAL\bin\Debug\SalesCom.Entity.pdb
+F:\My\salescomm 27-7-21\salescomm\ESI.DAL\bin\Debug\Newtonsoft.Json.xml
+F:\My\salescomm 27-7-21\salescomm\ESI.DAL\obj\Debug\ESI.DAL.csprojResolveAssemblyReference.cache
+F:\My\salescomm 27-7-21\salescomm\ESI.DAL\obj\Debug\ESI.DAL.dll
+F:\My\salescomm 27-7-21\salescomm\ESI.DAL\obj\Debug\ESI.DAL.pdb
+F:\Mustak\Commission\SalesComm Solution\salescom_app\ESI.DAL\bin\Debug\ESI.DAL.dll
+F:\Mustak\Commission\SalesComm Solution\salescom_app\ESI.DAL\bin\Debug\ESI.DAL.pdb
+F:\Mustak\Commission\SalesComm Solution\salescom_app\ESI.DAL\bin\Debug\ESI.Entity.dll
+F:\Mustak\Commission\SalesComm Solution\salescom_app\ESI.DAL\bin\Debug\Newtonsoft.Json.dll
+F:\Mustak\Commission\SalesComm Solution\salescom_app\ESI.DAL\bin\Debug\Oracle.DataAccess.dll
+F:\Mustak\Commission\SalesComm Solution\salescom_app\ESI.DAL\bin\Debug\SalesCom.DAL.dll
+F:\Mustak\Commission\SalesComm Solution\salescom_app\ESI.DAL\bin\Debug\SalesCom.Entity.dll
+F:\Mustak\Commission\SalesComm Solution\salescom_app\ESI.DAL\bin\Debug\Oracle.ManagedDataAccess.dll
+F:\Mustak\Commission\SalesComm Solution\salescom_app\ESI.DAL\bin\Debug\ESI.Entity.pdb
+F:\Mustak\Commission\SalesComm Solution\salescom_app\ESI.DAL\bin\Debug\SalesCom.DAL.pdb
+F:\Mustak\Commission\SalesComm Solution\salescom_app\ESI.DAL\bin\Debug\SalesCom.Entity.pdb
+F:\Mustak\Commission\SalesComm Solution\salescom_app\ESI.DAL\bin\Debug\Newtonsoft.Json.xml
+F:\Mustak\Commission\SalesComm Solution\salescom_app\ESI.DAL\obj\Debug\ESI.DAL.csprojResolveAssemblyReference.cache
+F:\Mustak\Commission\SalesComm Solution\salescom_app\ESI.DAL\obj\Debug\ESI.DAL.dll
+F:\Mustak\Commission\SalesComm Solution\salescom_app\ESI.DAL\obj\Debug\ESI.DAL.pdb
+D:\Commission\Commission\SalesComm Solution\SalesComm Solution\salescom_app\ESI.DAL\bin\Debug\ESI.DAL.dll
+D:\Commission\Commission\SalesComm Solution\SalesComm Solution\salescom_app\ESI.DAL\bin\Debug\ESI.DAL.pdb
+D:\Commission\Commission\SalesComm Solution\SalesComm Solution\salescom_app\ESI.DAL\bin\Debug\ESI.Entity.dll
+D:\Commission\Commission\SalesComm Solution\SalesComm Solution\salescom_app\ESI.DAL\bin\Debug\Newtonsoft.Json.dll
+D:\Commission\Commission\SalesComm Solution\SalesComm Solution\salescom_app\ESI.DAL\bin\Debug\Oracle.DataAccess.dll
+D:\Commission\Commission\SalesComm Solution\SalesComm Solution\salescom_app\ESI.DAL\bin\Debug\SalesCom.DAL.dll
+D:\Commission\Commission\SalesComm Solution\SalesComm Solution\salescom_app\ESI.DAL\bin\Debug\SalesCom.Entity.dll
+D:\Commission\Commission\SalesComm Solution\SalesComm Solution\salescom_app\ESI.DAL\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Commission\Commission\SalesComm Solution\SalesComm Solution\salescom_app\ESI.DAL\bin\Debug\ESI.Entity.pdb
+D:\Commission\Commission\SalesComm Solution\SalesComm Solution\salescom_app\ESI.DAL\bin\Debug\SalesCom.DAL.pdb
+D:\Commission\Commission\SalesComm Solution\SalesComm Solution\salescom_app\ESI.DAL\bin\Debug\SalesCom.Entity.pdb
+D:\Commission\Commission\SalesComm Solution\SalesComm Solution\salescom_app\ESI.DAL\bin\Debug\Newtonsoft.Json.xml
+D:\Commission\Commission\SalesComm Solution\SalesComm Solution\salescom_app\ESI.DAL\obj\Debug\ESI.DAL.csprojResolveAssemblyReference.cache
+D:\Commission\Commission\SalesComm Solution\SalesComm Solution\salescom_app\ESI.DAL\obj\Debug\ESI.DAL.dll
+D:\Commission\Commission\SalesComm Solution\SalesComm Solution\salescom_app\ESI.DAL\obj\Debug\ESI.DAL.pdb
+E:\SalesCom\CR\NewCR\salescom_app 16_3_22\salescom_app\ESI.DAL\bin\Debug\ESI.DAL.dll
+E:\SalesCom\CR\NewCR\salescom_app 16_3_22\salescom_app\ESI.DAL\bin\Debug\ESI.DAL.pdb
+E:\SalesCom\CR\NewCR\salescom_app 16_3_22\salescom_app\ESI.DAL\bin\Debug\ESI.Entity.dll
+E:\SalesCom\CR\NewCR\salescom_app 16_3_22\salescom_app\ESI.DAL\bin\Debug\Newtonsoft.Json.dll
+E:\SalesCom\CR\NewCR\salescom_app 16_3_22\salescom_app\ESI.DAL\bin\Debug\Oracle.DataAccess.dll
+E:\SalesCom\CR\NewCR\salescom_app 16_3_22\salescom_app\ESI.DAL\bin\Debug\SalesCom.DAL.dll
+E:\SalesCom\CR\NewCR\salescom_app 16_3_22\salescom_app\ESI.DAL\bin\Debug\SalesCom.Entity.dll
+E:\SalesCom\CR\NewCR\salescom_app 16_3_22\salescom_app\ESI.DAL\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\SalesCom\CR\NewCR\salescom_app 16_3_22\salescom_app\ESI.DAL\bin\Debug\ESI.Entity.pdb
+E:\SalesCom\CR\NewCR\salescom_app 16_3_22\salescom_app\ESI.DAL\bin\Debug\SalesCom.DAL.pdb
+E:\SalesCom\CR\NewCR\salescom_app 16_3_22\salescom_app\ESI.DAL\bin\Debug\SalesCom.Entity.pdb
+E:\SalesCom\CR\NewCR\salescom_app 16_3_22\salescom_app\ESI.DAL\bin\Debug\Newtonsoft.Json.xml
+E:\SalesCom\CR\NewCR\salescom_app 16_3_22\salescom_app\ESI.DAL\obj\Debug\ESI.DAL.csprojResolveAssemblyReference.cache
+E:\SalesCom\CR\NewCR\salescom_app 16_3_22\salescom_app\ESI.DAL\obj\Debug\ESI.DAL.dll
+E:\SalesCom\CR\NewCR\salescom_app 16_3_22\salescom_app\ESI.DAL\obj\Debug\ESI.DAL.pdb
+E:\SalesCom\Solution\SalesCom\ESI.DAL\bin\Debug\ESI.DAL.dll
+E:\SalesCom\Solution\SalesCom\ESI.DAL\bin\Debug\ESI.DAL.pdb
+E:\SalesCom\Solution\SalesCom\ESI.DAL\bin\Debug\ESI.Entity.dll
+E:\SalesCom\Solution\SalesCom\ESI.DAL\bin\Debug\Newtonsoft.Json.dll
+E:\SalesCom\Solution\SalesCom\ESI.DAL\bin\Debug\Oracle.DataAccess.dll
+E:\SalesCom\Solution\SalesCom\ESI.DAL\bin\Debug\SalesCom.DAL.dll
+E:\SalesCom\Solution\SalesCom\ESI.DAL\bin\Debug\SalesCom.Entity.dll
+E:\SalesCom\Solution\SalesCom\ESI.DAL\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\SalesCom\Solution\SalesCom\ESI.DAL\bin\Debug\ESI.Entity.pdb
+E:\SalesCom\Solution\SalesCom\ESI.DAL\bin\Debug\SalesCom.DAL.pdb
+E:\SalesCom\Solution\SalesCom\ESI.DAL\bin\Debug\SalesCom.Entity.pdb
+E:\SalesCom\Solution\SalesCom\ESI.DAL\bin\Debug\Newtonsoft.Json.xml
+E:\SalesCom\Solution\SalesCom\ESI.DAL\obj\Debug\ESI.DAL.dll
+E:\SalesCom\Solution\SalesCom\ESI.DAL\obj\Debug\ESI.DAL.pdb
+E:\SalesCom\Solution\SalesCom\ESI.DAL\obj\Debug\ESI.DAL.csprojResolveAssemblyReference.cache
+D:\SaleComMarge\SalesCom\ESI.DAL\bin\Debug\ESI.DAL.dll
+D:\SaleComMarge\SalesCom\ESI.DAL\bin\Debug\ESI.DAL.pdb
+D:\SaleComMarge\SalesCom\ESI.DAL\bin\Debug\ESI.Entity.dll
+D:\SaleComMarge\SalesCom\ESI.DAL\bin\Debug\Newtonsoft.Json.dll
+D:\SaleComMarge\SalesCom\ESI.DAL\bin\Debug\SalesCom.DAL.dll
+D:\SaleComMarge\SalesCom\ESI.DAL\bin\Debug\SalesCom.Entity.dll
+D:\SaleComMarge\SalesCom\ESI.DAL\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\SaleComMarge\SalesCom\ESI.DAL\bin\Debug\ESI.Entity.pdb
+D:\SaleComMarge\SalesCom\ESI.DAL\bin\Debug\SalesCom.DAL.pdb
+D:\SaleComMarge\SalesCom\ESI.DAL\bin\Debug\SalesCom.Entity.pdb
+D:\SaleComMarge\SalesCom\ESI.DAL\bin\Debug\Newtonsoft.Json.xml
+D:\SaleComMarge\SalesCom\ESI.DAL\obj\Debug\ESI.DAL.csprojResolveAssemblyReference.cache
+D:\SaleComMarge\SalesCom\ESI.DAL\obj\Debug\ESI.DAL.dll
+D:\SaleComMarge\SalesCom\ESI.DAL\obj\Debug\ESI.DAL.pdb
+E:\SalesCom\Solution\SaleComMarge\SalesCom\ESI.DAL\bin\Debug\ESI.DAL.dll
+E:\SalesCom\Solution\SaleComMarge\SalesCom\ESI.DAL\bin\Debug\ESI.DAL.pdb
+E:\SalesCom\Solution\SaleComMarge\SalesCom\ESI.DAL\bin\Debug\ESI.Entity.dll
+E:\SalesCom\Solution\SaleComMarge\SalesCom\ESI.DAL\bin\Debug\Newtonsoft.Json.dll
+E:\SalesCom\Solution\SaleComMarge\SalesCom\ESI.DAL\bin\Debug\SalesCom.DAL.dll
+E:\SalesCom\Solution\SaleComMarge\SalesCom\ESI.DAL\bin\Debug\SalesCom.Entity.dll
+E:\SalesCom\Solution\SaleComMarge\SalesCom\ESI.DAL\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\SalesCom\Solution\SaleComMarge\SalesCom\ESI.DAL\bin\Debug\ESI.Entity.pdb
+E:\SalesCom\Solution\SaleComMarge\SalesCom\ESI.DAL\bin\Debug\SalesCom.DAL.pdb
+E:\SalesCom\Solution\SaleComMarge\SalesCom\ESI.DAL\bin\Debug\SalesCom.Entity.pdb
+E:\SalesCom\Solution\SaleComMarge\SalesCom\ESI.DAL\bin\Debug\Newtonsoft.Json.xml
+E:\SalesCom\Solution\SaleComMarge\SalesCom\ESI.DAL\obj\Debug\ESI.DAL.csprojResolveAssemblyReference.cache
+E:\SalesCom\Solution\SaleComMarge\SalesCom\ESI.DAL\obj\Debug\ESI.DAL.dll
+E:\SalesCom\Solution\SaleComMarge\SalesCom\ESI.DAL\obj\Debug\ESI.DAL.pdb
+E:\SalesCom\Solution\SaleComMarge\SaleComMarge\SalesCom\ESI.DAL\bin\Debug\ESI.DAL.dll
+E:\SalesCom\Solution\SaleComMarge\SaleComMarge\SalesCom\ESI.DAL\bin\Debug\ESI.DAL.pdb
+E:\SalesCom\Solution\SaleComMarge\SaleComMarge\SalesCom\ESI.DAL\bin\Debug\ESI.Entity.dll
+E:\SalesCom\Solution\SaleComMarge\SaleComMarge\SalesCom\ESI.DAL\bin\Debug\Newtonsoft.Json.dll
+E:\SalesCom\Solution\SaleComMarge\SaleComMarge\SalesCom\ESI.DAL\bin\Debug\SalesCom.DAL.dll
+E:\SalesCom\Solution\SaleComMarge\SaleComMarge\SalesCom\ESI.DAL\bin\Debug\SalesCom.Entity.dll
+E:\SalesCom\Solution\SaleComMarge\SaleComMarge\SalesCom\ESI.DAL\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\SalesCom\Solution\SaleComMarge\SaleComMarge\SalesCom\ESI.DAL\bin\Debug\ESI.Entity.pdb
+E:\SalesCom\Solution\SaleComMarge\SaleComMarge\SalesCom\ESI.DAL\bin\Debug\SalesCom.DAL.pdb
+E:\SalesCom\Solution\SaleComMarge\SaleComMarge\SalesCom\ESI.DAL\bin\Debug\SalesCom.Entity.pdb
+E:\SalesCom\Solution\SaleComMarge\SaleComMarge\SalesCom\ESI.DAL\bin\Debug\Newtonsoft.Json.xml
+E:\SalesCom\Solution\SaleComMarge\SaleComMarge\SalesCom\ESI.DAL\obj\Debug\ESI.DAL.csprojResolveAssemblyReference.cache
+E:\SalesCom\Solution\SaleComMarge\SaleComMarge\SalesCom\ESI.DAL\obj\Debug\ESI.DAL.dll
+E:\SalesCom\Solution\SaleComMarge\SaleComMarge\SalesCom\ESI.DAL\obj\Debug\ESI.DAL.pdb
+D:\SalesCom\SalesCom\ESI.DAL\bin\Debug\ESI.DAL.dll
+D:\SalesCom\SalesCom\ESI.DAL\bin\Debug\ESI.DAL.pdb
+D:\SalesCom\SalesCom\ESI.DAL\bin\Debug\ESI.Entity.dll
+D:\SalesCom\SalesCom\ESI.DAL\bin\Debug\Newtonsoft.Json.dll
+D:\SalesCom\SalesCom\ESI.DAL\bin\Debug\SalesCom.DAL.dll
+D:\SalesCom\SalesCom\ESI.DAL\bin\Debug\SalesCom.Entity.dll
+D:\SalesCom\SalesCom\ESI.DAL\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\SalesCom\SalesCom\ESI.DAL\bin\Debug\ESI.Entity.pdb
+D:\SalesCom\SalesCom\ESI.DAL\bin\Debug\SalesCom.DAL.pdb
+D:\SalesCom\SalesCom\ESI.DAL\bin\Debug\SalesCom.Entity.pdb
+D:\SalesCom\SalesCom\ESI.DAL\bin\Debug\Newtonsoft.Json.xml
+D:\SalesCom\SalesCom\ESI.DAL\obj\Debug\ESI.DAL.csprojResolveAssemblyReference.cache
+D:\SalesCom\SalesCom\ESI.DAL\obj\Debug\ESI.DAL.dll
+D:\SalesCom\SalesCom\ESI.DAL\obj\Debug\ESI.DAL.pdb
+E:\SalesCom\Solution\Latest Salescom\SalesCom\SalesCom\ESI.DAL\bin\Debug\ESI.DAL.dll
+E:\SalesCom\Solution\Latest Salescom\SalesCom\SalesCom\ESI.DAL\bin\Debug\ESI.DAL.pdb
+E:\SalesCom\Solution\Latest Salescom\SalesCom\SalesCom\ESI.DAL\bin\Debug\ESI.Entity.dll
+E:\SalesCom\Solution\Latest Salescom\SalesCom\SalesCom\ESI.DAL\bin\Debug\Newtonsoft.Json.dll
+E:\SalesCom\Solution\Latest Salescom\SalesCom\SalesCom\ESI.DAL\bin\Debug\SalesCom.DAL.dll
+E:\SalesCom\Solution\Latest Salescom\SalesCom\SalesCom\ESI.DAL\bin\Debug\SalesCom.Entity.dll
+E:\SalesCom\Solution\Latest Salescom\SalesCom\SalesCom\ESI.DAL\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\SalesCom\Solution\Latest Salescom\SalesCom\SalesCom\ESI.DAL\bin\Debug\ESI.Entity.pdb
+E:\SalesCom\Solution\Latest Salescom\SalesCom\SalesCom\ESI.DAL\bin\Debug\SalesCom.DAL.pdb
+E:\SalesCom\Solution\Latest Salescom\SalesCom\SalesCom\ESI.DAL\bin\Debug\SalesCom.Entity.pdb
+E:\SalesCom\Solution\Latest Salescom\SalesCom\SalesCom\ESI.DAL\bin\Debug\Newtonsoft.Json.xml
+E:\SalesCom\Solution\Latest Salescom\SalesCom\SalesCom\ESI.DAL\obj\Debug\ESI.DAL.csprojResolveAssemblyReference.cache
+E:\SalesCom\Solution\Latest Salescom\SalesCom\SalesCom\ESI.DAL\obj\Debug\ESI.DAL.dll
+E:\SalesCom\Solution\Latest Salescom\SalesCom\SalesCom\ESI.DAL\obj\Debug\ESI.DAL.pdb
+D:\SalesCom\ESI.DAL\bin\Debug\ESI.DAL.dll
+D:\SalesCom\ESI.DAL\bin\Debug\ESI.DAL.pdb
+D:\SalesCom\ESI.DAL\bin\Debug\ESI.Entity.dll
+D:\SalesCom\ESI.DAL\bin\Debug\Newtonsoft.Json.dll
+D:\SalesCom\ESI.DAL\bin\Debug\SalesCom.DAL.dll
+D:\SalesCom\ESI.DAL\bin\Debug\SalesCom.Entity.dll
+D:\SalesCom\ESI.DAL\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\SalesCom\ESI.DAL\bin\Debug\ESI.Entity.pdb
+D:\SalesCom\ESI.DAL\bin\Debug\SalesCom.DAL.pdb
+D:\SalesCom\ESI.DAL\bin\Debug\SalesCom.Entity.pdb
+D:\SalesCom\ESI.DAL\bin\Debug\Newtonsoft.Json.xml
+D:\SalesCom\ESI.DAL\obj\Debug\ESI.DAL.csprojResolveAssemblyReference.cache
+D:\SalesCom\ESI.DAL\obj\Debug\ESI.DAL.dll
+D:\SalesCom\ESI.DAL\obj\Debug\ESI.DAL.pdb
+E:\Salescom deployment\SalesCom_Latest\SalesCom\ESI.DAL\bin\Debug\ESI.DAL.dll
+E:\Salescom deployment\SalesCom_Latest\SalesCom\ESI.DAL\bin\Debug\ESI.DAL.pdb
+E:\Salescom deployment\SalesCom_Latest\SalesCom\ESI.DAL\bin\Debug\ESI.Entity.dll
+E:\Salescom deployment\SalesCom_Latest\SalesCom\ESI.DAL\bin\Debug\Newtonsoft.Json.dll
+E:\Salescom deployment\SalesCom_Latest\SalesCom\ESI.DAL\bin\Debug\SalesCom.DAL.dll
+E:\Salescom deployment\SalesCom_Latest\SalesCom\ESI.DAL\bin\Debug\SalesCom.Entity.dll
+E:\Salescom deployment\SalesCom_Latest\SalesCom\ESI.DAL\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\Salescom deployment\SalesCom_Latest\SalesCom\ESI.DAL\bin\Debug\ESI.Entity.pdb
+E:\Salescom deployment\SalesCom_Latest\SalesCom\ESI.DAL\bin\Debug\SalesCom.DAL.pdb
+E:\Salescom deployment\SalesCom_Latest\SalesCom\ESI.DAL\bin\Debug\SalesCom.Entity.pdb
+E:\Salescom deployment\SalesCom_Latest\SalesCom\ESI.DAL\bin\Debug\Newtonsoft.Json.xml
+E:\Salescom deployment\SalesCom_Latest\SalesCom\ESI.DAL\obj\Debug\ESI.DAL.csprojResolveAssemblyReference.cache
+E:\Salescom deployment\SalesCom_Latest\SalesCom\ESI.DAL\obj\Debug\ESI.DAL.dll
+E:\Salescom deployment\SalesCom_Latest\SalesCom\ESI.DAL\obj\Debug\ESI.DAL.pdb
+E:\SalesCom\ESI.DAL\bin\Debug\ESI.DAL.dll
+E:\SalesCom\ESI.DAL\bin\Debug\ESI.DAL.pdb
+E:\SalesCom\ESI.DAL\bin\Debug\ESI.Entity.dll
+E:\SalesCom\ESI.DAL\bin\Debug\Newtonsoft.Json.dll
+E:\SalesCom\ESI.DAL\bin\Debug\SalesCom.DAL.dll
+E:\SalesCom\ESI.DAL\bin\Debug\SalesCom.Entity.dll
+E:\SalesCom\ESI.DAL\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\SalesCom\ESI.DAL\bin\Debug\ESI.Entity.pdb
+E:\SalesCom\ESI.DAL\bin\Debug\SalesCom.DAL.pdb
+E:\SalesCom\ESI.DAL\bin\Debug\SalesCom.Entity.pdb
+E:\SalesCom\ESI.DAL\bin\Debug\Newtonsoft.Json.xml
+E:\SalesCom\ESI.DAL\obj\Debug\ESI.DAL.csprojResolveAssemblyReference.cache
+E:\SalesCom\ESI.DAL\obj\Debug\ESI.DAL.dll
+E:\SalesCom\ESI.DAL\obj\Debug\ESI.DAL.pdb
+E:\SalesCom\Solution\MERGE_PROJECT\SalesCom\ESI.DAL\bin\Debug\ESI.DAL.dll
+E:\SalesCom\Solution\MERGE_PROJECT\SalesCom\ESI.DAL\bin\Debug\ESI.DAL.pdb
+E:\SalesCom\Solution\MERGE_PROJECT\SalesCom\ESI.DAL\bin\Debug\ESI.Entity.dll
+E:\SalesCom\Solution\MERGE_PROJECT\SalesCom\ESI.DAL\bin\Debug\Newtonsoft.Json.dll
+E:\SalesCom\Solution\MERGE_PROJECT\SalesCom\ESI.DAL\bin\Debug\SalesCom.DAL.dll
+E:\SalesCom\Solution\MERGE_PROJECT\SalesCom\ESI.DAL\bin\Debug\SalesCom.Entity.dll
+E:\SalesCom\Solution\MERGE_PROJECT\SalesCom\ESI.DAL\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\SalesCom\Solution\MERGE_PROJECT\SalesCom\ESI.DAL\bin\Debug\ESI.Entity.pdb
+E:\SalesCom\Solution\MERGE_PROJECT\SalesCom\ESI.DAL\bin\Debug\SalesCom.DAL.pdb
+E:\SalesCom\Solution\MERGE_PROJECT\SalesCom\ESI.DAL\bin\Debug\SalesCom.Entity.pdb
+E:\SalesCom\Solution\MERGE_PROJECT\SalesCom\ESI.DAL\bin\Debug\Newtonsoft.Json.xml
+E:\SalesCom\Solution\MERGE_PROJECT\SalesCom\ESI.DAL\obj\Debug\ESI.DAL.csprojResolveAssemblyReference.cache
+E:\SalesCom\Solution\MERGE_PROJECT\SalesCom\ESI.DAL\obj\Debug\ESI.DAL.dll
+E:\SalesCom\Solution\MERGE_PROJECT\SalesCom\ESI.DAL\obj\Debug\ESI.DAL.pdb
+E:\Al Mamun\Merge_Project\SalesCom\ESI.DAL\bin\Debug\ESI.DAL.dll
+E:\Al Mamun\Merge_Project\SalesCom\ESI.DAL\bin\Debug\ESI.DAL.pdb
+E:\Al Mamun\Merge_Project\SalesCom\ESI.DAL\bin\Debug\ESI.Entity.dll
+E:\Al Mamun\Merge_Project\SalesCom\ESI.DAL\bin\Debug\Newtonsoft.Json.dll
+E:\Al Mamun\Merge_Project\SalesCom\ESI.DAL\bin\Debug\SalesCom.DAL.dll
+E:\Al Mamun\Merge_Project\SalesCom\ESI.DAL\bin\Debug\SalesCom.Entity.dll
+E:\Al Mamun\Merge_Project\SalesCom\ESI.DAL\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\Al Mamun\Merge_Project\SalesCom\ESI.DAL\bin\Debug\ESI.Entity.pdb
+E:\Al Mamun\Merge_Project\SalesCom\ESI.DAL\bin\Debug\SalesCom.DAL.pdb
+E:\Al Mamun\Merge_Project\SalesCom\ESI.DAL\bin\Debug\SalesCom.Entity.pdb
+E:\Al Mamun\Merge_Project\SalesCom\ESI.DAL\bin\Debug\Newtonsoft.Json.xml
+E:\Al Mamun\Merge_Project\SalesCom\ESI.DAL\obj\Debug\ESI.DAL.csprojResolveAssemblyReference.cache
+E:\Al Mamun\Merge_Project\SalesCom\ESI.DAL\obj\Debug\ESI.DAL.dll
+E:\Al Mamun\Merge_Project\SalesCom\ESI.DAL\obj\Debug\ESI.DAL.pdb
+E:\Al Mamun\SalesCom_Merge_Latest_7_jun_22\ESI.DAL\bin\Debug\ESI.DAL.dll
+E:\Al Mamun\SalesCom_Merge_Latest_7_jun_22\ESI.DAL\bin\Debug\ESI.DAL.pdb
+E:\Al Mamun\SalesCom_Merge_Latest_7_jun_22\ESI.DAL\bin\Debug\ESI.Entity.dll
+E:\Al Mamun\SalesCom_Merge_Latest_7_jun_22\ESI.DAL\bin\Debug\Newtonsoft.Json.dll
+E:\Al Mamun\SalesCom_Merge_Latest_7_jun_22\ESI.DAL\bin\Debug\SalesCom.DAL.dll
+E:\Al Mamun\SalesCom_Merge_Latest_7_jun_22\ESI.DAL\bin\Debug\SalesCom.Entity.dll
+E:\Al Mamun\SalesCom_Merge_Latest_7_jun_22\ESI.DAL\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\Al Mamun\SalesCom_Merge_Latest_7_jun_22\ESI.DAL\bin\Debug\ESI.Entity.pdb
+E:\Al Mamun\SalesCom_Merge_Latest_7_jun_22\ESI.DAL\bin\Debug\SalesCom.DAL.pdb
+E:\Al Mamun\SalesCom_Merge_Latest_7_jun_22\ESI.DAL\bin\Debug\SalesCom.Entity.pdb
+E:\Al Mamun\SalesCom_Merge_Latest_7_jun_22\ESI.DAL\bin\Debug\Newtonsoft.Json.xml
+E:\Al Mamun\SalesCom_Merge_Latest_7_jun_22\ESI.DAL\obj\Debug\ESI.DAL.csprojResolveAssemblyReference.cache
+E:\Al Mamun\SalesCom_Merge_Latest_7_jun_22\ESI.DAL\obj\Debug\ESI.DAL.dll
+E:\Al Mamun\SalesCom_Merge_Latest_7_jun_22\ESI.DAL\obj\Debug\ESI.DAL.pdb
+E:\SalesCom\ESI Doc\Solution\SalesCom_12_06_2022\SalesCom_Merge_Latest_7_jun_22\ESI.DAL\bin\Debug\ESI.DAL.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_12_06_2022\SalesCom_Merge_Latest_7_jun_22\ESI.DAL\bin\Debug\ESI.DAL.pdb
+E:\SalesCom\ESI Doc\Solution\SalesCom_12_06_2022\SalesCom_Merge_Latest_7_jun_22\ESI.DAL\bin\Debug\ESI.Entity.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_12_06_2022\SalesCom_Merge_Latest_7_jun_22\ESI.DAL\bin\Debug\Newtonsoft.Json.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_12_06_2022\SalesCom_Merge_Latest_7_jun_22\ESI.DAL\bin\Debug\SalesCom.DAL.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_12_06_2022\SalesCom_Merge_Latest_7_jun_22\ESI.DAL\bin\Debug\SalesCom.Entity.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_12_06_2022\SalesCom_Merge_Latest_7_jun_22\ESI.DAL\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_12_06_2022\SalesCom_Merge_Latest_7_jun_22\ESI.DAL\bin\Debug\ESI.Entity.pdb
+E:\SalesCom\ESI Doc\Solution\SalesCom_12_06_2022\SalesCom_Merge_Latest_7_jun_22\ESI.DAL\bin\Debug\SalesCom.DAL.pdb
+E:\SalesCom\ESI Doc\Solution\SalesCom_12_06_2022\SalesCom_Merge_Latest_7_jun_22\ESI.DAL\bin\Debug\SalesCom.Entity.pdb
+E:\SalesCom\ESI Doc\Solution\SalesCom_12_06_2022\SalesCom_Merge_Latest_7_jun_22\ESI.DAL\bin\Debug\Newtonsoft.Json.xml
+E:\SalesCom\ESI Doc\Solution\SalesCom_12_06_2022\SalesCom_Merge_Latest_7_jun_22\ESI.DAL\obj\Debug\ESI.DAL.csprojResolveAssemblyReference.cache
+E:\SalesCom\ESI Doc\Solution\SalesCom_12_06_2022\SalesCom_Merge_Latest_7_jun_22\ESI.DAL\obj\Debug\ESI.DAL.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_12_06_2022\SalesCom_Merge_Latest_7_jun_22\ESI.DAL\obj\Debug\ESI.DAL.pdb
+E:\SalesCom\ESI Doc\Solution\SalesCom_12_06_2022\SalesCom_ESI_19_jun_22\ESI.DAL\bin\Debug\ESI.DAL.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_12_06_2022\SalesCom_ESI_19_jun_22\ESI.DAL\bin\Debug\ESI.DAL.pdb
+E:\SalesCom\ESI Doc\Solution\SalesCom_12_06_2022\SalesCom_ESI_19_jun_22\ESI.DAL\bin\Debug\ESI.Entity.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_12_06_2022\SalesCom_ESI_19_jun_22\ESI.DAL\bin\Debug\Newtonsoft.Json.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_12_06_2022\SalesCom_ESI_19_jun_22\ESI.DAL\bin\Debug\SalesCom.DAL.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_12_06_2022\SalesCom_ESI_19_jun_22\ESI.DAL\bin\Debug\SalesCom.Entity.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_12_06_2022\SalesCom_ESI_19_jun_22\ESI.DAL\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_12_06_2022\SalesCom_ESI_19_jun_22\ESI.DAL\bin\Debug\ESI.Entity.pdb
+E:\SalesCom\ESI Doc\Solution\SalesCom_12_06_2022\SalesCom_ESI_19_jun_22\ESI.DAL\bin\Debug\SalesCom.DAL.pdb
+E:\SalesCom\ESI Doc\Solution\SalesCom_12_06_2022\SalesCom_ESI_19_jun_22\ESI.DAL\bin\Debug\SalesCom.Entity.pdb
+E:\SalesCom\ESI Doc\Solution\SalesCom_12_06_2022\SalesCom_ESI_19_jun_22\ESI.DAL\bin\Debug\Newtonsoft.Json.xml
+E:\SalesCom\ESI Doc\Solution\SalesCom_12_06_2022\SalesCom_ESI_19_jun_22\ESI.DAL\obj\Debug\ESI.DAL.csprojResolveAssemblyReference.cache
+E:\SalesCom\ESI Doc\Solution\SalesCom_12_06_2022\SalesCom_ESI_19_jun_22\ESI.DAL\obj\Debug\ESI.DAL.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_12_06_2022\SalesCom_ESI_19_jun_22\ESI.DAL\obj\Debug\ESI.DAL.pdb
+D:\Salescom Development\Salescom esi_29_jun\SalesCom_ESI_29_jun_22\ESI.DAL\bin\Debug\ESI.DAL.dll
+D:\Salescom Development\Salescom esi_29_jun\SalesCom_ESI_29_jun_22\ESI.DAL\bin\Debug\ESI.DAL.pdb
+D:\Salescom Development\Salescom esi_29_jun\SalesCom_ESI_29_jun_22\ESI.DAL\bin\Debug\ESI.Entity.dll
+D:\Salescom Development\Salescom esi_29_jun\SalesCom_ESI_29_jun_22\ESI.DAL\bin\Debug\Newtonsoft.Json.dll
+D:\Salescom Development\Salescom esi_29_jun\SalesCom_ESI_29_jun_22\ESI.DAL\bin\Debug\SalesCom.DAL.dll
+D:\Salescom Development\Salescom esi_29_jun\SalesCom_ESI_29_jun_22\ESI.DAL\bin\Debug\SalesCom.Entity.dll
+D:\Salescom Development\Salescom esi_29_jun\SalesCom_ESI_29_jun_22\ESI.DAL\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Salescom Development\Salescom esi_29_jun\SalesCom_ESI_29_jun_22\ESI.DAL\bin\Debug\ESI.Entity.pdb
+D:\Salescom Development\Salescom esi_29_jun\SalesCom_ESI_29_jun_22\ESI.DAL\bin\Debug\SalesCom.DAL.pdb
+D:\Salescom Development\Salescom esi_29_jun\SalesCom_ESI_29_jun_22\ESI.DAL\bin\Debug\SalesCom.Entity.pdb
+D:\Salescom Development\Salescom esi_29_jun\SalesCom_ESI_29_jun_22\ESI.DAL\bin\Debug\Newtonsoft.Json.xml
+D:\Salescom Development\Salescom esi_29_jun\SalesCom_ESI_29_jun_22\ESI.DAL\obj\Debug\ESI.DAL.csprojResolveAssemblyReference.cache
+D:\Salescom Development\Salescom esi_29_jun\SalesCom_ESI_29_jun_22\ESI.DAL\obj\Debug\ESI.DAL.dll
+D:\Salescom Development\Salescom esi_29_jun\SalesCom_ESI_29_jun_22\ESI.DAL\obj\Debug\ESI.DAL.pdb
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_29_jun_22\ESI.DAL\bin\Debug\ESI.DAL.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_29_jun_22\ESI.DAL\bin\Debug\ESI.DAL.pdb
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_29_jun_22\ESI.DAL\bin\Debug\ESI.Entity.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_29_jun_22\ESI.DAL\bin\Debug\Newtonsoft.Json.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_29_jun_22\ESI.DAL\bin\Debug\SalesCom.DAL.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_29_jun_22\ESI.DAL\bin\Debug\SalesCom.Entity.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_29_jun_22\ESI.DAL\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_29_jun_22\ESI.DAL\bin\Debug\ESI.Entity.pdb
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_29_jun_22\ESI.DAL\bin\Debug\SalesCom.DAL.pdb
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_29_jun_22\ESI.DAL\bin\Debug\SalesCom.Entity.pdb
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_29_jun_22\ESI.DAL\bin\Debug\Newtonsoft.Json.xml
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_29_jun_22\ESI.DAL\obj\Debug\ESI.DAL.csprojResolveAssemblyReference.cache
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_29_jun_22\ESI.DAL\obj\Debug\ESI.DAL.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_29_jun_22\ESI.DAL\obj\Debug\ESI.DAL.pdb
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_04_Jul_22\ESI.DAL\bin\Debug\ESI.DAL.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_04_Jul_22\ESI.DAL\bin\Debug\ESI.DAL.pdb
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_04_Jul_22\ESI.DAL\bin\Debug\ESI.Entity.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_04_Jul_22\ESI.DAL\bin\Debug\Newtonsoft.Json.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_04_Jul_22\ESI.DAL\bin\Debug\SalesCom.DAL.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_04_Jul_22\ESI.DAL\bin\Debug\SalesCom.Entity.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_04_Jul_22\ESI.DAL\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_04_Jul_22\ESI.DAL\bin\Debug\ESI.Entity.pdb
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_04_Jul_22\ESI.DAL\bin\Debug\SalesCom.DAL.pdb
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_04_Jul_22\ESI.DAL\bin\Debug\SalesCom.Entity.pdb
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_04_Jul_22\ESI.DAL\bin\Debug\Newtonsoft.Json.xml
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_04_Jul_22\ESI.DAL\obj\Debug\ESI.DAL.csprojResolveAssemblyReference.cache
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_04_Jul_22\ESI.DAL\obj\Debug\ESI.DAL.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_04_Jul_22\ESI.DAL\obj\Debug\ESI.DAL.pdb
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_05_Jul_22\ESI.DAL\bin\Debug\ESI.DAL.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_05_Jul_22\ESI.DAL\bin\Debug\ESI.DAL.pdb
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_05_Jul_22\ESI.DAL\bin\Debug\ESI.Entity.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_05_Jul_22\ESI.DAL\bin\Debug\Newtonsoft.Json.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_05_Jul_22\ESI.DAL\bin\Debug\SalesCom.DAL.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_05_Jul_22\ESI.DAL\bin\Debug\SalesCom.Entity.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_05_Jul_22\ESI.DAL\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_05_Jul_22\ESI.DAL\bin\Debug\ESI.Entity.pdb
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_05_Jul_22\ESI.DAL\bin\Debug\SalesCom.DAL.pdb
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_05_Jul_22\ESI.DAL\bin\Debug\SalesCom.Entity.pdb
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_05_Jul_22\ESI.DAL\bin\Debug\Newtonsoft.Json.xml
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_05_Jul_22\ESI.DAL\obj\Debug\ESI.DAL.csprojResolveAssemblyReference.cache
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_05_Jul_22\ESI.DAL\obj\Debug\ESI.DAL.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_05_Jul_22\ESI.DAL\obj\Debug\ESI.DAL.pdb
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_07_Jul_22\ESI.DAL\bin\Debug\ESI.DAL.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_07_Jul_22\ESI.DAL\bin\Debug\ESI.DAL.pdb
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_07_Jul_22\ESI.DAL\bin\Debug\ESI.Entity.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_07_Jul_22\ESI.DAL\bin\Debug\Newtonsoft.Json.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_07_Jul_22\ESI.DAL\bin\Debug\SalesCom.DAL.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_07_Jul_22\ESI.DAL\bin\Debug\SalesCom.Entity.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_07_Jul_22\ESI.DAL\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_07_Jul_22\ESI.DAL\bin\Debug\ESI.Entity.pdb
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_07_Jul_22\ESI.DAL\bin\Debug\SalesCom.DAL.pdb
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_07_Jul_22\ESI.DAL\bin\Debug\SalesCom.Entity.pdb
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_07_Jul_22\ESI.DAL\bin\Debug\Newtonsoft.Json.xml
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_07_Jul_22\ESI.DAL\obj\Debug\ESI.DAL.csprojResolveAssemblyReference.cache
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_07_Jul_22\ESI.DAL\obj\Debug\ESI.DAL.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_07_Jul_22\ESI.DAL\obj\Debug\ESI.DAL.pdb
+D:\Salescom Development\SalesCom_ESI_18_Jul_22\ESI.DAL\bin\Debug\ESI.DAL.dll
+D:\Salescom Development\SalesCom_ESI_18_Jul_22\ESI.DAL\bin\Debug\ESI.DAL.pdb
+D:\Salescom Development\SalesCom_ESI_18_Jul_22\ESI.DAL\bin\Debug\ESI.Entity.dll
+D:\Salescom Development\SalesCom_ESI_18_Jul_22\ESI.DAL\bin\Debug\Newtonsoft.Json.dll
+D:\Salescom Development\SalesCom_ESI_18_Jul_22\ESI.DAL\bin\Debug\SalesCom.DAL.dll
+D:\Salescom Development\SalesCom_ESI_18_Jul_22\ESI.DAL\bin\Debug\SalesCom.Entity.dll
+D:\Salescom Development\SalesCom_ESI_18_Jul_22\ESI.DAL\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Salescom Development\SalesCom_ESI_18_Jul_22\ESI.DAL\bin\Debug\ESI.Entity.pdb
+D:\Salescom Development\SalesCom_ESI_18_Jul_22\ESI.DAL\bin\Debug\SalesCom.DAL.pdb
+D:\Salescom Development\SalesCom_ESI_18_Jul_22\ESI.DAL\bin\Debug\SalesCom.Entity.pdb
+D:\Salescom Development\SalesCom_ESI_18_Jul_22\ESI.DAL\bin\Debug\Newtonsoft.Json.xml
+D:\Salescom Development\SalesCom_ESI_18_Jul_22\ESI.DAL\obj\Debug\ESI.DAL.csprojResolveAssemblyReference.cache
+D:\Salescom Development\SalesCom_ESI_18_Jul_22\ESI.DAL\obj\Debug\ESI.DAL.dll
+D:\Salescom Development\SalesCom_ESI_18_Jul_22\ESI.DAL\obj\Debug\ESI.DAL.pdb
+D:\SalesCom_ESI_19_Jul_22\ESI.DAL\bin\Debug\ESI.DAL.dll
+D:\SalesCom_ESI_19_Jul_22\ESI.DAL\bin\Debug\ESI.DAL.pdb
+D:\SalesCom_ESI_19_Jul_22\ESI.DAL\bin\Debug\ESI.Entity.dll
+D:\SalesCom_ESI_19_Jul_22\ESI.DAL\bin\Debug\Newtonsoft.Json.dll
+D:\SalesCom_ESI_19_Jul_22\ESI.DAL\bin\Debug\SalesCom.DAL.dll
+D:\SalesCom_ESI_19_Jul_22\ESI.DAL\bin\Debug\SalesCom.Entity.dll
+D:\SalesCom_ESI_19_Jul_22\ESI.DAL\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\SalesCom_ESI_19_Jul_22\ESI.DAL\bin\Debug\ESI.Entity.pdb
+D:\SalesCom_ESI_19_Jul_22\ESI.DAL\bin\Debug\SalesCom.DAL.pdb
+D:\SalesCom_ESI_19_Jul_22\ESI.DAL\bin\Debug\SalesCom.Entity.pdb
+D:\SalesCom_ESI_19_Jul_22\ESI.DAL\bin\Debug\Newtonsoft.Json.xml
+D:\SalesCom_ESI_19_Jul_22\ESI.DAL\obj\Debug\ESI.DAL.csprojResolveAssemblyReference.cache
+D:\SalesCom_ESI_19_Jul_22\ESI.DAL\obj\Debug\ESI.DAL.dll
+D:\SalesCom_ESI_19_Jul_22\ESI.DAL\obj\Debug\ESI.DAL.pdb

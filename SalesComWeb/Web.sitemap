@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="" title=""  description="">
+
+    <siteMapNode url="" title="Setup"  description="">
+      <siteMapNode url="KpiConfigure.aspx" title="ESI KPI Configure"  description="" />
+      <siteMapNode url="KPIReplicateConfigure.aspx" title="ESI KPI Replicate"  description="" />
+      <siteMapNode url="TargetUpload.aspx" title="ESI Target Upload"  description="" />
+      <siteMapNode url="KPITargetReplicate.aspx" title="ESI KPI Target Replicate"  description="" />
+      <siteMapNode url="SetupChannelMapping.aspx" title="ESI Channel Mapping"  description="" />
+      <siteMapNode url="SetupManualData.aspx" title="ESI Manual Data Upload"  description="" />
+	  
+      <siteMapNode url="RetailerTermination.aspx" title="Retailer Termination"  description="" />
+      <siteMapNode url="ReportPreExeConfig.aspx" title="Report Configuration"  description="" />
+
+      <siteMapNode url="SetupReportApproval.aspx" title="SR Upload"  description="" />
+      <siteMapNode url="SetupReportReplication.aspx" title="Report Clone"  description="" />
+
+      <!--<siteMapNode url="" title="Report Setup &amp; Approval Process ">
+        <siteMapNode url="SetupReportApproval.aspx" title="Report Setup &amp; View"  description="" />
+        
+      </siteMapNode>-->
+
+      <!--<siteMapNode url="" title="Ad-Hoc Report" description="">
+    
+
+      </siteMapNode>-->
+      <siteMapNode url="SetupAdHocReport.aspx" title="Daily Report"  description="" />
+      <siteMapNode url="SetupCommissionReport.aspx" title="Regular &amp; Ad-hoc Report"  description="" />
+      <siteMapNode url="" title="Event Setup" description="">
+        <siteMapNode url="SetupEventType.aspx" title="Event Type"  description="" />
+        <siteMapNode url="SetupEvent.aspx" title="Event"  description="" />
+        <siteMapNode url="SetupProductChannel.aspx" title="Event Procedure"  description="" />
+        <siteMapNode url="SetupEventRule.aspx" title="Event Rule"  description="" />
+      </siteMapNode>
+
+      <siteMapNode url="ReportCycleMapping.aspx" title="Report Cycle Mapping"  description="" />
+
+
+      <siteMapNode url="SetupActivity.aspx" title="Activity"  description="" />
+
+      <siteMapNode url="SetupSimValidationRule.aspx" title="SIM Validation Rule"  description="" />
+
+
+
+      <!--<siteMapNode url="SetupCommissionCycle.aspx" title="Commission Cycle"  description="" />-->
+
+
+      <!--<siteMapNode url="" title="Modality Approval"  description="">
+        <siteMapNode url="SetupEventRuleEx.aspx" title="Event Rule"  description="" />
+        <siteMapNode url="SetupEventRuleExApproval.aspx" title="Event Rule Approval"  description="" />
+      </siteMapNode>-->
+
+      <!--<siteMapNode url="" title="Period Setup" description="">
+        -->
+      <!--<siteMapNode url="SetupPeriodType.aspx" title="Period Type"  description="" />-->
+      <!--
+        <siteMapNode url="SetupPeriod.aspx" title="Period"  description="" />
+      </siteMapNode>-->
+
+      <siteMapNode url="SetupChannelType.aspx" title="Channel Type"  description="" />
+
+
+      <siteMapNode url="" title="Segment" description="">
+        <siteMapNode url="SetupSegmentType.aspx" title="Segment Type"  description="" />
+        <siteMapNode url="SetupSegment.aspx" title="Segment"  description="" />
+        <siteMapNode url="SetupCommissionReportSegments.aspx" title="Commssion Report Segments"  description="" />
+      </siteMapNode>
+
+
+      <siteMapNode url="ViewCommissionReportTarget.aspx" title="Commission Target"  description="" />
+
+      <!--<siteMapNode url="SetupExcludedProduct.aspx" title="Excluded Products"  description="" />-->
+
+      <!--<siteMapNode url="" title="Others" description="">
+        <siteMapNode url="SetupChannel.aspx" title="Channel"  description="" />
+        <siteMapNode url="SetupChannelEventBatch.aspx" title="Channel Event Batch"  description="" />
+        <siteMapNode url="ImportExcelToDataBase.aspx" title="SAF Import Excel"  description="" />
+        <siteMapNode url="SetupModalityReportContent.aspx" title="Modality Report Content"  description="" />
+        <siteMapNode url="ViewChannelEventImportData.aspx" title="Import Channel Event"  description="" />
+        <siteMapNode url="ViewChannelWithdrawal.aspx" title="Channel Withdrawal"  description="" />
+      </siteMapNode>-->
+    
+    <siteMapNode url="SetupDailyDenoCampain.aspx" title="Daily Deno Campaign Setup"  description="" />
+
+    <siteMapNode url="CampaignDenoDriveSetup.aspx" title="Campaign Deno Drive Setup"  description="" />
+
+    <siteMapNode url="DetailSetup.aspx" title="Detail Setup"  description="" />
+
+
+      
+    <!--<siteMapNode url="DailyDenoDriveTargetUpload.aspx" title="Daily Deno Target Upload"  description="" />-->
+    
+    </siteMapNode>
+	
+	<siteMapNode url="" title="Dashboard"  description="">
+
+      <siteMapNode url="OwnDashboard.aspx" title="Own Dashboard"  description="" />
+      <siteMapNode url="HierarchyWiseDashboard.aspx" title="Hierarchy Wise Dashboard" description="" />
+    </siteMapNode>
+
+    <siteMapNode url="" title="Approval Process"  description="">
+
+      <siteMapNode url="" title="Approval Setup">
+        <siteMapNode url="SetupApprovalFlow.aspx" title="Approval Flow"  description="" />
+        <siteMapNode url="SetupApprovalLevel20.aspx" title="Approval Level"  description="" />
+        <siteMapNode url="SetupLevelUser20.aspx" title="Approval Level User"  description="" />
+      </siteMapNode>
+
+
+      <siteMapNode url="DenoApprovalPendingList.aspx" title="Deno Approval"  description="" />
+      <siteMapNode url="SetupReportApprovalProcess.aspx" title="SR Approval"  description="" />
+      <siteMapNode url="PendingApproval.aspx" title="Regular &amp; Ad-hoc Report Approval"  description="" />
+      <siteMapNode url="AdHocPendingApproval.aspx" title="Daily Report Approval"  description="" />
+      <!--<siteMapNode url="SetupCommissionClaim.aspx" title="Commission Claim"  description="" />-->
+	  <siteMapNode url="KPIApproval.aspx" title="ESI KPI Approval"  description="" />
+      <siteMapNode url="TargetApproval.aspx" title="ESI Target Approval"  description="" />
+	  <siteMapNode url="ReportApproval.aspx" title="ESI Report Approval"  description="" />
+    </siteMapNode>
+
+
+
+    <siteMapNode url="" title="Report"  description="">
+      <siteMapNode url="ReportView.aspx" title="Regular &amp; Ad-hoc Report"  description="" />
+      <siteMapNode url="DetailDownload.aspx" title="Detail Download"  description="" />
+      <siteMapNode url="AdHocReportView.aspx" title="Daily Report"  description="" />
+      <siteMapNode url="AdHocSummaryReport.aspx" title="Daily Report Summary"  description="" />
+      <siteMapNode url="ReportViewProvision.aspx" title="Provision Report"  description="" />
+      <siteMapNode url="DisburseReportList.aspx" title="Disburse Report"  description="" />
+      <siteMapNode url="HeadWiseWithheldList.aspx" title="Withheld Report" description=""/>
+	  <siteMapNode url="KPIReportView.aspx" title="ESI Report" description=""/>
+      <siteMapNode url="KPIDetailReportView.aspx" title="ESI Detail Report" description=""/>
+	  <siteMapNode url="CdpReport.aspx" title="Commission Disburse Method"  description="" />
+    </siteMapNode>
+
+    <siteMapNode url="" title="Claim &amp; Disburse">
+
+      <siteMapNode url="" title="Claim">
+        <siteMapNode url="InitiateClaimApproval.aspx" title="Claim Initiation"  description="" />
+        <siteMapNode url="ClaimApprovalProcess.aspx" title="Claim Approval Process"  description="" />
+      </siteMapNode>
+
+      <siteMapNode url="" title="Disburse">
+        <siteMapNode url="InitiateDisburseApproval.aspx" title="Disburse Initiation"  description="" />
+        <siteMapNode url="DisburseApprovalProcess.aspx" title="Disburse Approval Process"  description="" />
+        <siteMapNode url="" title="Re-Disburse">
+          <siteMapNode url="ReportWiseWithheldList.aspx" title="Re-Disburse Initiation"  description="" />
+          <siteMapNode url="RedisburseApprovalProcess.aspx" title="Re-Disburse Approval Process"  description="" />
+        </siteMapNode>
+      </siteMapNode>
+
+    </siteMapNode>
+
+  </siteMapNode>
+
+
+
+
+
+
+
+
+
+
+
+</siteMap>

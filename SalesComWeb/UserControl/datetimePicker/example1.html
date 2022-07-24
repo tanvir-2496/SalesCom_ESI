@@ -1,0 +1,41 @@
+﻿
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd">
+<html>
+<head>
+	<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=utf-8">
+    	<script type="text/javascript" src="file_js/zapatec.js"></script>
+        <script type="text/javascript" src="file_js/calendar.js"></script>
+		<script type="text/javascript" src="file_js/calendar-en.js"></script>
+	<style>
+		body {
+			width: 760px;
+		}
+	</style>
+
+	<!-- Theme css -->
+	<link href="themes/aqua.css" rel="stylesheet" type="text/css">
+
+<!--	<link rel="SHORTCUT ICON" href="http://www.zapatec.com/website/main/favicon.ico"> -->
+
+
+
+</head>
+<body>
+<b>Date:</b>
+<input type="text" name="date1" id="sel1" size="30" >
+<input type="reset" value=" ... " id='button1'>
+
+		<script type="text/javascript">
+		var cal = new Zapatec.Calendar.setup({
+
+		inputField:"sel1",
+		ifFormat:"%Y/%m/%d",
+		button:"button1",
+		showsTime:false
+
+		});
+
+	</script>
+</body>
+</html>

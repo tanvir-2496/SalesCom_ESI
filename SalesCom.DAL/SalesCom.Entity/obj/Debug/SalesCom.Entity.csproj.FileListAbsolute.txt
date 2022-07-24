@@ -1,0 +1,15 @@
+D:\SalesCom\SalesCom.Entity\bin\Debug\SalesCom.Entity.dll
+D:\SalesCom\SalesCom.Entity\bin\Debug\SalesCom.Entity.pdb
+D:\SalesCom\SalesCom.Entity\obj\Debug\SalesCom.Entity.dll
+D:\SalesCom\SalesCom.Entity\obj\Debug\SalesCom.Entity.pdb
+D:\SalesCom\SalesCom.Entity\obj\Debug\SalesCom.Entity.csprojResolveAssemblyReference.cache
+E:\03022015\SalesCom\SalesCom.Entity\bin\Debug\SalesCom.Entity.dll
+E:\03022015\SalesCom\SalesCom.Entity\bin\Debug\SalesCom.Entity.pdb
+E:\03022015\SalesCom\SalesCom.Entity\obj\Debug\SalesCom.Entity.csprojResolveAssemblyReference.cache
+E:\03022015\SalesCom\SalesCom.Entity\obj\Debug\SalesCom.Entity.dll
+E:\03022015\SalesCom\SalesCom.Entity\obj\Debug\SalesCom.Entity.pdb
+D:\SalesCom_04022015\SalesCom\SalesCom.Entity\bin\Debug\SalesCom.Entity.dll
+D:\SalesCom_04022015\SalesCom\SalesCom.Entity\bin\Debug\SalesCom.Entity.pdb
+D:\SalesCom_04022015\SalesCom\SalesCom.Entity\obj\Debug\SalesCom.Entity.dll
+D:\SalesCom_04022015\SalesCom\SalesCom.Entity\obj\Debug\SalesCom.Entity.pdb
+D:\SalesCom_04022015\SalesCom\SalesCom.Entity\obj\Debug\SalesCom.Entity.csprojResolveAssemblyReference.cache

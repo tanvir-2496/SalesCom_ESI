@@ -1,0 +1,299 @@
+CREATE TABLE ESISALESGROUP
+( sales_group_id number(10) NOT NULL,
+  sales_group_name varchar2(200) NOT NULL,  
+  created_by VARCHAR2(50),
+  created_date DATE,
+  updated_by VARCHAR(50),
+  updated_date DATE,
+  CONSTRAINT sales_group_pk PRIMARY KEY (sales_group_id)
+);
+
+CREATE TABLE ESISALESCHANNEL  
+( sales_channel_id number(10) NOT NULL,
+  sales_channel_name varchar2(200) NOT NULL,    
+  sales_group_id number(3) NOT NULL, 
+  created_by VARCHAR2(50),
+  created_date DATE,
+  updated_by VARCHAR(50),
+  updated_date DATE,
+  CONSTRAINT sales_channel_pk PRIMARY KEY (sales_channel_id),
+  CONSTRAINT sales_channel1_fk FOREIGN KEY (sales_group_id) REFERENCES ESISALESGROUP (sales_group_id)  
+);
+
+CREATE TABLE ESIKPI  
+( kpi_id number(10) NOT NULL,  
+  kpi_name varchar2(200) NOT NULL,  
+  sales_group_id number(3),
+  kpi_type number(3),
+  is_active number(1,0),
+  is_source_manual number(1,0),
+  manual_source VARCHAR2(50),
+  created_by VARCHAR2(50),
+  created_date DATE,
+  updated_by VARCHAR(50),
+  updated_date DATE,
+  CONSTRAINT tbl_kpi_pk PRIMARY KEY (kpi_id),
+  CONSTRAINT id_sales_group_id_fk FOREIGN KEY (sales_group_id) REFERENCES ESISALESGROUP (sales_group_id)
+);
+
+CREATE TABLE ESIKPIMAPPING  
+( kpi_mapping_id number(10) NOT NULL,  
+  kpi_id number(3),
+  sub_kpi_id number(3),
+  created_by VARCHAR2(50),
+  created_date DATE,
+  updated_by VARCHAR(50),
+  updated_date DATE,
+  CONSTRAINT tbl_kpi_mapping_pk PRIMARY KEY (kpi_mapping_id),
+  CONSTRAINT kpi_id_kpi_id_fk FOREIGN KEY (kpi_id) REFERENCES ESIKPI (kpi_id),
+  CONSTRAINT kpi_id_sub_kpi_id_fk FOREIGN KEY (sub_kpi_id) REFERENCES ESIKPI (kpi_id)
+);
+
+CREATE TABLE ESIKPICONDITION 
+( condition_id number(10) NOT NULL,  
+  condition_name varchar2(200) NOT NULL, 
+  procedure_name VARCHAR2(50),
+  is_report_field number(1,0),
+  is_active number(1,0),
+  created_by VARCHAR2(50),
+  created_date DATE,
+  updated_by VARCHAR(50),
+  updated_date DATE,
+  CONSTRAINT kpi_condition_pk PRIMARY KEY (condition_id) 
+);
+
+CREATE TABLE ESIKPICONDITIONMAPPING  
+( condition_mapping_id number(10) NOT NULL,  
+  kpi_id number(3),
+  condition_id number(3),
+  created_by VARCHAR2(50),
+  created_date DATE,
+  updated_by VARCHAR(50),
+  updated_date DATE,
+  CONSTRAINT kpi_condition_mapping_pk PRIMARY KEY (condition_mapping_id),
+  CONSTRAINT id_kpi_id_fk FOREIGN KEY (kpi_id) REFERENCES ESIKPI (kpi_id),
+  CONSTRAINT id_condition_id_fk FOREIGN KEY (condition_id) REFERENCES ESIKPICONDITION (condition_id)
+);
+
+CREATE TABLE ESIREPORTCYCLE  
+( 
+  report_cycle_id number(10) NOT NULL,  
+  year NUMBER(4),
+  quarter NUMBER(2),
+  sales_channel_id number(5),
+  mature_date DATE,
+  created_by VARCHAR2(50),
+  created_date DATE,
+  updated_by VARCHAR(50),
+  updated_date DATE,
+  CONSTRAINT ESI_report_cycle_pk PRIMARY KEY (report_cycle_id),
+  CONSTRAINT id_sales_channel_id_fk FOREIGN KEY (sales_channel_id) REFERENCES ESISALESCHANNEL (sales_channel_id)
+);
+
+CREATE TABLE ESIKPICONFIGURATION 
+( kpi_config_id number(10) NOT NULL,  
+  year number(4),
+  quarter number(2),
+  month number(2),
+  sales_channel_id number(5),
+  kpi_id number(5),
+  parent_kpi_id number(5),
+  report_cycle_id number(5),
+  is_last_level number(1,0),
+  incentive_payout varchar(250),
+  weightage number(5),
+  created_by VARCHAR2(50),
+  created_date DATE,
+  updated_by VARCHAR(50),
+  updated_date DATE,
+  CONSTRAINT kpi_configuration_pk PRIMARY KEY (kpi_config_id),
+  CONSTRAINT config_sales_channel_id_fk FOREIGN KEY (sales_channel_id) REFERENCES ESISALESCHANNEL (sales_channel_id),
+  CONSTRAINT config_kpi_id_fk FOREIGN KEY (kpi_id) REFERENCES ESIKPI (kpi_id),
+  CONSTRAINT parent_kpi_id_fk FOREIGN KEY (parent_kpi_id) REFERENCES ESIKPI (kpi_id),
+  CONSTRAINT config_report_cycle_id_fk FOREIGN KEY (report_cycle_id) REFERENCES ESIREPORTCYCLE (report_cycle_id)
+);
+
+CREATE TABLE ESIKPICONDITIONCONFIG 
+( kpi_condition_config_id number(10) NOT NULL,  
+  kpi_configuration_id number(5),
+  condition_id number(5),
+  amount number(10),
+  countable number(10),
+  percentage number(7,4),
+  day1 number(3),
+  day2 number(3),
+  mature_date DATE,
+  created_by VARCHAR2(50),
+  created_date DATE,
+  updated_by VARCHAR(50),
+  updated_date DATE,
+  CONSTRAINT condition_config_pk PRIMARY KEY (kpi_condition_config_id),
+  CONSTRAINT condition_config1_fk FOREIGN KEY (kpi_configuration_id) REFERENCES ESIKPICONFIGURATION (kpi_config_id),
+  CONSTRAINT condition_config2_fk FOREIGN KEY (condition_id) REFERENCES ESIKPICONDITION (condition_id)
+);
+
+CREATE TABLE ESITARGETCONFIG 
+( target_config_id number(10) NOT NULL,  
+  kpi_configuration_id number(5),
+  channel_id varchar2(50),
+  target number(7,4),
+  created_by VARCHAR2(50),
+  created_date DATE,
+  updated_by VARCHAR(50),
+  updated_date DATE,
+  CONSTRAINT target_config_pk PRIMARY KEY (target_config_id),
+  CONSTRAINT target_config1_fk FOREIGN KEY (kpi_configuration_id) REFERENCES ESIKPICONFIGURATION (kpi_config_id)
+);
+
+CREATE TABLE ESITARGETCONFIGLOG
+( target_config_log_id number(10) NOT NULL,  
+  kpi_configuration_id number(5),
+  channel_id varchar2(50),
+  target number(7,4),
+  created_by VARCHAR2(50),
+  created_date DATE,
+  updated_by VARCHAR(50),
+  updated_date DATE,
+  CONSTRAINT target_config_log_pk PRIMARY KEY (target_config_log_id),
+  CONSTRAINT target_config_log1_fk FOREIGN KEY (kpi_configuration_id) REFERENCES ESIKPICONFIGURATION (kpi_config_id)
+);
+
+
+CREATE TABLE ESIFLOW 
+(
+  FLOW_ID NUMBER(5, 0) NOT NULL 
+, FLOW_NAME VARCHAR2(50 BYTE) 
+, NEXT_FLOW_CODE NUMBER(5, 0) 
+, FLOW_TYPE NUMBER(1, 0) 
+, CREATED_BY VARCHAR2(50 BYTE) 
+, CREATED_DATE DATE 
+, UPDATED_BY VARCHAR2(50 BYTE) 
+, UPDATED_DATE DATE 
+, FLOW_CODE NUMBER(5, 0) 
+, CONSTRAINT TBL_FLOW_PK PRIMARY KEY 
+  (
+    FLOW_ID 
+  )
+
+CREATE TABLE ESILEVEL
+( level_id number(3) NOT NULL,  
+  level_name varchar2(50),
+  flow_id number(3),
+  next_level number(3),
+  created_by VARCHAR2(50),
+  created_date DATE,
+  updated_by VARCHAR(50),
+  updated_date DATE,
+  CONSTRAINT tbl_level_pk PRIMARY KEY (level_id)
+);
+
+CREATE TABLE ESIAPPROVALSTATUS
+( approval_id number(10) NOT NULL,  
+  flow_id number(5),
+  level_id number(3),
+  report_cycle_id number(5),
+  status number(1),
+  last_approver_id varchar2(50),
+  comments varchar2(150),
+  approval_type number(1),
+  created_by VARCHAR2(50),
+  created_date DATE,
+  updated_by VARCHAR(50),
+  updated_date DATE,
+  CONSTRAINT approval_status1_pk PRIMARY KEY (approval_id),
+  CONSTRAINT approval_status1_fk FOREIGN KEY (flow_id) REFERENCES ESIFLOW (flow_id),
+  CONSTRAINT approval_status2_fk FOREIGN KEY (level_id) REFERENCES ESILEVEL (level_id),
+  CONSTRAINT approval_status3_fk FOREIGN KEY (report_cycle_id) REFERENCES ESIREPORTCYCLE (report_cycle_id)
+);
+
+CREATE TABLE ESIAPPROVALSTATUSLOG
+( approval_log_id number(10) NOT NULL,
+  approval_status_id number(10),
+  status number(1),  
+  comments varchar2(150),
+  approval_type number(1),
+  created_by VARCHAR2(50),
+  created_date DATE,
+  updated_by VARCHAR(50),
+  updated_date DATE,
+  CONSTRAINT approval_status_log1_pk PRIMARY KEY (approval_log_id),
+  CONSTRAINT approval_status_log1_fk FOREIGN KEY (approval_status_id) REFERENCES ESIAPPROVALSTATUS (approval_id)
+);
+
+CREATE TABLE ESIPROCESSEDDETAILDATA
+( processed_id number(10) NOT NULL,
+  yeat number(4),
+  quarter number(2),
+  month number(2),
+  processed_date DATE,
+  channel_id VARCHAR2(50),
+  condition_id number(10),
+  sim_id number(14),
+  fcd DATE,
+  status number(1),
+  amount number(10,4),
+  created_by VARCHAR2(50),
+  created_date DATE,
+  updated_by VARCHAR(50),
+  updated_date DATE,
+  CONSTRAINT processed_detail_data1_pk PRIMARY KEY (processed_id),
+  CONSTRAINT processed_detail_data1_fk FOREIGN KEY (condition_id) REFERENCES ESIKPICONDITION (condition_id)
+);
+
+CREATE TABLE ESICONDITIONWISESUMMARY
+( condition_wise_summary_id number(10) NOT NULL,
+  channel_id VARCHAR2(50),
+  kpi_condition_config_id number(10),
+  month number(2),
+  processed_date DATE,
+  countable number(10),
+  amount number(10),
+  percentage number(7,4),
+  created_by VARCHAR2(50),
+  created_date DATE,
+  updated_by VARCHAR(50),
+  updated_date DATE,
+  CONSTRAINT condition_wise_summary1_pk PRIMARY KEY (condition_wise_summary_id),
+  CONSTRAINT condition_wise_summary1_fk FOREIGN KEY (kpi_condition_config_id) REFERENCES ESIKPICONDITIONCONFIG (kpi_condition_config_id)
+);
+
+CREATE TABLE ESIKPIWISESUMMARY
+( kpi_wise_summary_id number(10) NOT NULL,
+  channel_id VARCHAR2(50),
+  processed_date DATE,
+  month number(2),
+  report_cycle_id number(10),
+  kpi_config_id number(10),
+  countable number(10),
+  amount number(10),
+  percentage number(7,4),
+  target_count number(10),
+  target_amount number(10),
+  target_percentage number(7,4),
+  achievement_percentage number(7,4),
+  is_eligible number(1),
+  eligible_incentive number(12,4),
+  created_by VARCHAR2(50),
+  created_date DATE,
+  updated_by VARCHAR(50),
+  updated_date DATE,
+  CONSTRAINT kpi_wise_summary1_pk PRIMARY KEY (kpi_wise_summary_id),
+  CONSTRAINT kpi_wise_summary1_fk FOREIGN KEY (report_cycle_id) REFERENCES ESIREPORTCYCLE (report_cycle_id),
+  CONSTRAINT kpi_wise_summary2_fk FOREIGN KEY (kpi_config_id) REFERENCES ESIKPICONFIGURATION (kpi_config_id)
+);
+
+CREATE TABLE ESIVPEOPLESYNCLOGDATA
+( vpeople_log_id number(10) NOT NULL,
+  report_cycle_id number(10),
+  is_processed number(1),
+  created_by VARCHAR2(50),
+  created_date DATE,
+  updated_by VARCHAR(50),
+  updated_date DATE,
+  CONSTRAINT vpeople_log_pk PRIMARY KEY (vpeople_log_id),
+  CONSTRAINT vpeople_log1_fk FOREIGN KEY (report_cycle_id) REFERENCES ESIREPORTCYCLE (report_cycle_id)
+);
+
+
+
+
