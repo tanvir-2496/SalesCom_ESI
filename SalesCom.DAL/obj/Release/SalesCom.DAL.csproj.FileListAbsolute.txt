@@ -418,3 +418,13 @@ D:\SalesCom_ESI_19_Jul_22\SalesCom.DAL\bin\Release\SalesCom.Entity.pdb
 D:\SalesCom_ESI_19_Jul_22\SalesCom.DAL\obj\Release\SalesCom.DAL.csprojResolveAssemblyReference.cache
 D:\SalesCom_ESI_19_Jul_22\SalesCom.DAL\obj\Release\SalesCom.DAL.dll
 D:\SalesCom_ESI_19_Jul_22\SalesCom.DAL\obj\Release\SalesCom.DAL.pdb
+E:\SalesCom_ESI\SalesCom.DAL\bin\Release\SalesCom.DAL.dll.config
+E:\SalesCom_ESI\SalesCom.DAL\bin\Release\SalesCom.DAL.dll
+E:\SalesCom_ESI\SalesCom.DAL\bin\Release\SalesCom.DAL.pdb
+E:\SalesCom_ESI\SalesCom.DAL\bin\Release\Oracle.DataAccess.dll
+E:\SalesCom_ESI\SalesCom.DAL\bin\Release\Oracle.ManagedDataAccess.dll
+E:\SalesCom_ESI\SalesCom.DAL\bin\Release\SalesCom.Entity.dll
+E:\SalesCom_ESI\SalesCom.DAL\bin\Release\SalesCom.Entity.pdb
+E:\SalesCom_ESI\SalesCom.DAL\obj\Release\SalesCom.DAL.csprojResolveAssemblyReference.cache
+E:\SalesCom_ESI\SalesCom.DAL\obj\Release\SalesCom.DAL.dll
+E:\SalesCom_ESI\SalesCom.DAL\obj\Release\SalesCom.DAL.pdb

@@ -32,7 +32,15 @@ public partial class SetupKpiTarget : System.Web.UI.Page
 
             this.ddlCloneYear.DataSource = Common.GenrateYear();
             this.ddlCloneYear.DataBind();
-
+            {
+                ddlCloneMonth.SelectedValue = "0";
+                ddlCloneMonth.Enabled = true;
+                int reportCloneType = Convert.ToInt32(ddlCloneReportType.SelectedValue);
+                if (reportCloneType == 1)
+                {
+                    ddlCloneMonth.Enabled = false;
+                }
+            }
 
             ClearAllDropdown();
         }
@@ -207,7 +215,8 @@ public partial class SetupKpiTarget : System.Web.UI.Page
         }
         var year = Convert.ToInt32(ddlCloneYear.SelectedValue == "" ? DateTime.Now.Year.ToString() : ddlCloneYear.SelectedValue);
         var quarter = Convert.ToInt32(ddlCloneQuarter.SelectedValue == "0" ? "1" : ddlCloneQuarter.SelectedValue);
-        Common.PopulateTargetReportId(ddlCloneReportName, 0, year, quarter, salesGroup);
+        string type = ddlCloneReportType.SelectedValue;
+        Common.PopulateTargetReportIdByType(ddlCloneReportName, 0, year, quarter, salesGroup, type);
     }
 
 

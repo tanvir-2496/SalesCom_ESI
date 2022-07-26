@@ -195,3 +195,8 @@ D:\SalesCom_ESI_19_Jul_22\POS.DAL\bin\Release\POS.DAL.pdb
 D:\SalesCom_ESI_19_Jul_22\POS.DAL\obj\Release\POS.DAL.csprojResolveAssemblyReference.cache
 D:\SalesCom_ESI_19_Jul_22\POS.DAL\obj\Release\POS.DAL.dll
 D:\SalesCom_ESI_19_Jul_22\POS.DAL\obj\Release\POS.DAL.pdb
+E:\SalesCom_ESI\POS.DAL\bin\Release\POS.DAL.dll
+E:\SalesCom_ESI\POS.DAL\bin\Release\POS.DAL.pdb
+E:\SalesCom_ESI\POS.DAL\obj\Release\POS.DAL.csprojResolveAssemblyReference.cache
+E:\SalesCom_ESI\POS.DAL\obj\Release\POS.DAL.dll
+E:\SalesCom_ESI\POS.DAL\obj\Release\POS.DAL.pdb

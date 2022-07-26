@@ -13,7 +13,7 @@ namespace ESI.DAL
 {
     public class TargetDAL
     {
-        public static List<SalesChannelTargetViewModel> GetKPIApprovedByAllList(int status, int year, int quarter,string sGroup)
+        public static List<SalesChannelTargetViewModel> GetKPIApprovedByAllList(int status, int year, int quarter, string sGroup)
         {
             ESI_OracleProcedure procedure = new ESI_OracleProcedure("ESI_GETSALESCHANNELFORTARGET");
             procedure.AddInputParameter("P_Status", status, OracleType.Number);
@@ -255,6 +255,33 @@ namespace ESI.DAL
                 throw ex;
             }
 
+        }
+
+        public static List<SalesChannelTargetViewModel> GetKPIApprovedByAllListForTerget(int status, int year, int quarter, string sGroup, string type)
+        {
+            ESI_OracleProcedure procedure = new ESI_OracleProcedure("ESI_GETSALESCHANNELBYTYPE");
+            procedure.AddInputParameter("P_Status", status, OracleType.Number);
+            procedure.AddInputParameter("P_YEAR", year, OracleType.Number);
+            procedure.AddInputParameter("P_QUARTER", quarter, OracleType.Number);
+
+            procedure.AddInputParameter("p_SALESGROUP", sGroup, OracleType.VarChar);
+            procedure.AddInputParameter("p_ReportType", type, OracleType.VarChar);
+            procedure.AddInputParameter("P_PAGETYPE", "Target Setup", OracleType.VarChar);
+            try
+            {
+                DataTable dt = procedure.ExecuteQueryToDataTable();
+                List<SalesChannelTargetViewModel> results = new List<SalesChannelTargetViewModel>();
+                foreach (DataRow dr in dt.Rows)
+                {
+                    results.Add(new SalesChannelTargetViewModel(dr));
+                }
+
+                return results;
+            }
+            catch (Exception ex)
+            {
+                throw (ex);
+            }
         }
     }
 }

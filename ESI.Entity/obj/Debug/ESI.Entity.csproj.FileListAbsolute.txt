@@ -139,3 +139,8 @@ D:\SalesCom_ESI_19_Jul_22\ESI.Entity\bin\Debug\ESI.Entity.pdb
 D:\SalesCom_ESI_19_Jul_22\ESI.Entity\obj\Debug\ESI.Entity.csprojResolveAssemblyReference.cache
 D:\SalesCom_ESI_19_Jul_22\ESI.Entity\obj\Debug\ESI.Entity.dll
 D:\SalesCom_ESI_19_Jul_22\ESI.Entity\obj\Debug\ESI.Entity.pdb
+E:\SalesCom_ESI\ESI.Entity\bin\Debug\ESI.Entity.dll
+E:\SalesCom_ESI\ESI.Entity\bin\Debug\ESI.Entity.pdb
+E:\SalesCom_ESI\ESI.Entity\obj\Debug\ESI.Entity.csprojResolveAssemblyReference.cache
+E:\SalesCom_ESI\ESI.Entity\obj\Debug\ESI.Entity.dll
+E:\SalesCom_ESI\ESI.Entity\obj\Debug\ESI.Entity.pdb

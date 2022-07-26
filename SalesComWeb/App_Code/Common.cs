@@ -1037,4 +1037,14 @@ public class Common
     }
 
     #endregion
+
+    public static void PopulateTargetReportIdByType(ListControl lc, int status, int year, int quarter, string sGroup, string type)
+    {
+        lc.DataSource = TargetDAL.GetKPIApprovedByAllListForTerget(status, year, quarter, sGroup, type);
+        lc.DataTextField = "sales_channel_name";
+        lc.DataValueField = "report_cycle_id";
+
+        lc.DataBind();
+        lc.Items.Insert(0, new ListItem("Select Channel", "0"));
+    }
 }

@@ -22,7 +22,7 @@ namespace ESI.Entity
         public string INCENTIVE_PAYOUT { get; set; }
         public string INCENTIVE_PAYOUT_JSON { get; set; }
         public string REMARKS { get; set; }
-        public int WEIGHTAGE { get; set; }
+        public decimal WEIGHTAGE { get; set; }
         public int Created_By { get; set; }
         public DateTime Created_Date { get; set; }
         public int Updated_By { get; set; }
@@ -46,7 +46,7 @@ namespace ESI.Entity
             if (dr["IS_LAST_LEVEL"] != DBNull.Value) this.IS_LAST_LEVEL = Convert.ToInt32(dr["IS_LAST_LEVEL"]);
             this.INCENTIVE_PAYOUT = dr["INCENTIVE_PAYOUT"] as String;
             this.REMARKS = dr["REMARKS"] as String;
-            if (dr["WEIGHTAGE"] != DBNull.Value) this.WEIGHTAGE = Convert.ToInt32(dr["WEIGHTAGE"]);
+            if (dr["WEIGHTAGE"] != DBNull.Value) this.WEIGHTAGE = Convert.ToDecimal(dr["WEIGHTAGE"]);
            
             if (dr["CREATED_BY"] != DBNull.Value) this.Created_By = Convert.ToInt32(dr["CREATED_BY"]);
             if (dr["CREATED_DATE"] != DBNull.Value) this.Created_Date = Convert.ToDateTime(dr["CREATED_DATE"]);

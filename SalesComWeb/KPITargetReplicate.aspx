@@ -346,7 +346,7 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
     <div class="leftPanel"></div>
     <div class="Content">
-        <asp:updatepanel id="lstpanel" runat="server">
+        <asp:UpdatePanel ID="lstpanel" runat="server">
             <ContentTemplate>
                 <div>
 
@@ -423,7 +423,17 @@
                     </div>
                     <div class="hideClass" style="float: right; margin-right: 30px">
                         <table>
-                              <tr>
+                            <tr>
+                                <td>
+                                    <asp:Label ID="lblCloneReportType" SkinID="lblCommonSkin" runat="server" Text="Replicate Report Type"> </asp:Label>
+                                    <asp:DropDownList ID="ddlCloneReportType" runat="server" SkinID="ddlCommonSkin">
+                                        <asp:ListItem Text="Arrear_1" Value="3"></asp:ListItem>
+                                        <asp:ListItem Text="Arrear_2" Value="4"></asp:ListItem>
+                                        <asp:ListItem Text="Arrear_3" Value="5"></asp:ListItem>
+                                    </asp:DropDownList>
+                                </td>
+                            </tr>
+                            <tr>
                                 <td>
                                     <asp:Label ID="lblCloneSalesGroup" runat="server" Text="Replicate Sales Group" SkinID="lblCommonSkin" mandatory="true"></asp:Label>
 
@@ -486,30 +496,29 @@
                                     </asp:DropDownList>
                                 </td>
                             </tr>
-                           
+
 
                         </table>
-                
-                    </div>
-                      <div style="text-align: center; width: 100%; padding: 10px; font-size: 20px; color: #d49800" >
-                            <table style="padding-left:400px !important;padding-top:40px !important;">
-                              <tr>
 
-                                <td class="tdSubmit" colspan="2" style="width:200px !important">
+                    </div>
+                    <div style="text-align: center; width: 100%; padding: 10px; font-size: 20px; color: #d49800">
+                        <table style="padding-left: 400px !important; padding-top: 40px !important;">
+                            <tr>
+
+                                <td class="tdSubmit" colspan="2" style="width: 200px !important">
                                     <asp:Button ID="btnSave" Style="width: 150px !important;" OnClientClick="return OperationalValidation();" runat="server" Text="KPI Target Replicate" SkinID="btnCommonSkin" />
                                 </td>
                             </tr>
                         </table>
                     </div>
-                            <div class="msg">
+                    <div class="msg">
 
-                            <asp:Label ID="lblMsg" runat="server">
+                        <asp:Label ID="lblMsg" runat="server">
     
-                            </asp:Label>
-                        </div>
+                        </asp:Label>
+                    </div>
 
                     <div style="text-align: center; width: 100%; padding: 10px; font-size: 20px; color: #d49800" id="successMessage">
-                           
                     </div>
 
                 </div>
@@ -517,7 +526,7 @@
 
             </ContentTemplate>
 
-        </asp:updatepanel>
+        </asp:UpdatePanel>
 
     </div>
 
@@ -549,11 +558,10 @@
 
             document.getElementById("<%=lblMsg.ClientID%>").innerHTML = "";
             $("span[id$=lblMsg]").html("<b>Please select Sub KPI</b><br>").css("color", "red");
-          
+
             var isAllValid = true;
 
             document.getElementById("<%=lblMsg.ClientID%>").innerHTML = "";
-
 
             var SalesGroup = $('#<%=ddlSalesGroup.ClientID %> option:selected').val();
             var Year = $('#<%=ddlYear.ClientID %> option:selected').val();
@@ -564,8 +572,7 @@
             var SubKPI = $('#<%=ddlSubKPI.ClientID %> option:selected').val();
             var Condition = $('#<%=ddlCondition.ClientID %> option:selected').val();
 
-        
-           
+
 
             var CloneSalesGroup = $('#<%=ddlCloneSalesGroup.ClientID %> option:selected').val();
             var CloneYear = $('#<%=ddlCloneYear.ClientID %> option:selected').val();
@@ -575,7 +582,7 @@
             var CloneKPI = $('#<%=ddlCloneKPI.ClientID %> option:selected').val();
             var CloneSubKPI = $('#<%=ddlCloneSubKPI.ClientID %> option:selected').val();
             var CloneCondition = $('#<%=ddlCloneCondition.ClientID %> option:selected').val();
-         
+
 
             //Orginal Section Start//
 
@@ -640,7 +647,11 @@
 
 
             //Replicate Section Start//
-
+            if (CloneReportType == "" || CloneReportType == "0") {
+                $("span[id$=lblMsg]").html("<b>Please select replicate report type</b><br>").css("color", "red");
+                isAllValid = false;
+                return false;
+            }
             if (CloneSalesGroup == "" || CloneSalesGroup == "0") {
                 $("span[id$=lblMsg]").html("<b>Please select replicate sales group</b><br>").css("color", "red");
                 isAllValid = false;
@@ -692,7 +703,7 @@
                     isAllValid = false;
                     return false;
                 }
-               
+
             }
 
             if ((Condition != "" && Condition != "0")) {
@@ -702,7 +713,7 @@
                     return false;
                 }
             }
-          
+
 
             if ((CloneCondition != "" && CloneCondition != "0") && (Condition == "" || Condition == "0")) {
                 $("span[id$=lblMsg]").html("<b>Please unselect replicate condition</b><br>").css("color", "red");
@@ -712,7 +723,7 @@
 
             // After all validation done
             if (isAllValid) {
-               
+
                 dataFromItem = [];
 
                 var getFromItem = {};
@@ -732,7 +743,6 @@
                 var dataToItem = [];
 
                 var getToItem = {};
-
                 getToItem.ToCloneSalesGroup = CloneSalesGroup; //CloneSalesGroup;
                 getToItem.ToCloneYear = CloneYear; //CloneYear 
                 getToItem.ToCloneQuarter = CloneQuarter; //CloneQuarter
@@ -749,10 +759,10 @@
             return false;
         }
 
-  
+
 
         function DataSaveAjaxCall(dataFromItem, dataToItem) {
-            var Data = JSON.stringify({ dataFromItem: dataFromItem, dataToItem: dataToItem});
+            var Data = JSON.stringify({ dataFromItem: dataFromItem, dataToItem: dataToItem });
 
             $.ajax({
 
@@ -789,6 +799,7 @@
 
 
             //To Data
+            $('#<%=ddlCloneReportType.ClientID %>').val(3);
             $('#<%=ddlCloneSalesGroup.ClientID %>').val(0);
             $('#<%=ddlCloneYear.ClientID %>').val(2022);
             $('#<%=ddlCloneQuarter.ClientID %>').val(0);
@@ -798,7 +809,7 @@
             $('#ddlCloneSubKPI').empty();
             $('#ddlCloneCondition').empty();
 
-          }
+        }
 
         function atActual(e, checkbox) {
             var amount = checkbox.parentElement.previousSibling.previousElementSibling.childNodes[1].children["0"];
