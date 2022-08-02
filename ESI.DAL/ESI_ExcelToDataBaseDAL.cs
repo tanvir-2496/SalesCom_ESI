@@ -48,11 +48,13 @@ namespace ESI.DAL
                     command.CommandText = "ESI_DELETEKPITARGET";
                     command.CommandType = CommandType.StoredProcedure;
                     command.Parameters.Add("pImportedBy", OracleType.Number).Value = imported_by;
+                    command.Parameters.Add("pConditionId", OracleType.Number).Value = condition_id;
                     command.ExecuteNonQuery();
 
                     command.CommandText = "ESI_SYSNCHKPITARGET";
                     command.CommandType = CommandType.StoredProcedure;
                     command.Parameters.Add("pImportedBy", OracleType.Number);
+                    command.Parameters.Add("pConditionId", OracleType.Number);
                     command.Parameters.Add("pGroupId", OracleType.Number).Value = groupId;
                     command.ExecuteNonQuery();
 

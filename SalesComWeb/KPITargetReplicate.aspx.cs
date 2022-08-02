@@ -67,11 +67,11 @@ public partial class SetupKpiTarget : System.Web.UI.Page
         {
             ddlMonth.Items.Insert(0, new ListItem("M1", "1"));
         }
-        else if (reportname.Contains("_M1_"))
+        else if (reportname.Contains("_M2_"))
         {
             ddlMonth.Items.Insert(0, new ListItem("M2", "2"));
         }
-        else if (reportname.Contains("_M1_"))
+        else if (reportname.Contains("_M3_"))
         {
             ddlMonth.Items.Insert(0, new ListItem("M3", "3"));
         }
@@ -152,14 +152,14 @@ public partial class SetupKpiTarget : System.Web.UI.Page
         var reportCycleId = Convert.ToInt32(ddlReportName.SelectedValue == "" ? "1" : ddlReportName.SelectedValue);
         var parentKPI = Convert.ToInt32(ddlKPI.SelectedValue == "" ? "1" : ddlKPI.SelectedValue);
         Common.PopulateSubKPIData(ddlSubKPI, reportCycleId, parentKPI);
-        Common.PopulateCondition(ddlCondition, reportCycleId, parentKPI);
+        Common.PopulateConditionReplicate(ddlCondition, reportCycleId, parentKPI);
     }
 
     protected void ddl_SubKPI_IndexChanged(object sender, EventArgs e)
     {
         var reportCycleId = Convert.ToInt32(ddlReportName.SelectedValue == "" ? "1" : ddlReportName.SelectedValue);
         var parentKPI = Convert.ToInt32(ddlSubKPI.SelectedValue == "" ? "1" : ddlSubKPI.SelectedValue);
-        Common.PopulateCondition(ddlCondition, reportCycleId, parentKPI);
+        Common.PopulateConditionReplicate(ddlCondition, reportCycleId, parentKPI);
     }
 
     #region Clone Section
@@ -230,7 +230,8 @@ public partial class SetupKpiTarget : System.Web.UI.Page
         }
         var year = Convert.ToInt32(ddlCloneYear.SelectedValue == "" ? DateTime.Now.Year.ToString() : ddlCloneYear.SelectedValue);
         var quarter = Convert.ToInt32(ddlCloneQuarter.SelectedValue == "0" ? "1" : ddlCloneQuarter.SelectedValue);
-        Common.PopulateTargetReportId(ddlCloneReportName, 0, year, quarter, salesGroup);
+        string type = ddlCloneReportType.SelectedValue;
+        Common.PopulateTargetReportIdByType(ddlCloneReportName, 0, year, quarter, salesGroup, type);
     }
     protected void ddl_Clone_Quarter_IndexChanged(object sender, EventArgs e)
     {
@@ -242,7 +243,8 @@ public partial class SetupKpiTarget : System.Web.UI.Page
         }
         var year = Convert.ToInt32(ddlCloneYear.SelectedValue == "" ? DateTime.Now.Year.ToString() : ddlCloneYear.SelectedValue);
         var quarter = Convert.ToInt32(ddlCloneQuarter.SelectedValue == "0" ? "1" : ddlCloneQuarter.SelectedValue);
-        Common.PopulateTargetReportId(ddlCloneReportName, 0, year, quarter, salesGroup);
+        string type = ddlCloneReportType.SelectedValue;
+        Common.PopulateTargetReportIdByType(ddlCloneReportName, 0, year, quarter, salesGroup, type);
     }
 
     public void CloneMonthDropDown()
@@ -256,11 +258,11 @@ public partial class SetupKpiTarget : System.Web.UI.Page
         {
             ddlCloneMonth.Items.Insert(0, new ListItem("M1", "1"));
         }
-        else if (reportname.Contains("_M1_"))
+        else if (reportname.Contains("_M2_"))
         {
             ddlCloneMonth.Items.Insert(0, new ListItem("M2", "2"));
         }
-        else if (reportname.Contains("_M1_"))
+        else if (reportname.Contains("_M3_"))
         {
             ddlCloneMonth.Items.Insert(0, new ListItem("M3", "3"));
         }

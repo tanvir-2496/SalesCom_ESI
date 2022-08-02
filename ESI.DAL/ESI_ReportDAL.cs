@@ -260,7 +260,7 @@ namespace ESI.DAL
 
         public static DataTable DetailReportData(Int64 CycleReportID)
         {
-            ESI_OracleProcedure procedure = new ESI_OracleProcedure("ESI_GET_SUMMARY_REPORT");
+            ESI_OracleProcedure procedure = new ESI_OracleProcedure("ESI_GET_SUMMARY_REPORT_DETAIL");
             procedure.AddInputParameter("R_REPORT_CYCLEID", CycleReportID, OracleType.Number);
 
             try

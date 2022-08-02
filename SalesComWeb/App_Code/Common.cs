@@ -469,6 +469,16 @@ public class Common
         lc.DataBind();
         lc.Items.Insert(0, new ListItem("Select Condition", "0"));
     }
+
+    public static void PopulateConditionReplicate(ListControl lc, int reportCycleId, int parentKPI)
+    {
+        lc.DataSource = TargetDAL.GetKPIConditionRep(reportCycleId, parentKPI);
+        lc.DataTextField = "CON_NAME";
+        lc.DataValueField = "CON_ID";
+
+        lc.DataBind();
+        lc.Items.Insert(0, new ListItem("Select Condition", "0"));
+    }
     public static void PopulateAdHocReportId(ListControl lc)
     {
         lc.DataSource = AdHocReportDAL.GetItemList(0);

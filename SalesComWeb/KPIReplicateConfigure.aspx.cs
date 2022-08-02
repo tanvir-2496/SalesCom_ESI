@@ -66,11 +66,11 @@ public partial class SetupKpiConfigure : System.Web.UI.Page
         {
             ddlMonth.Items.Insert(0, new ListItem("M1", "1"));
         }
-        else if (reportname.Contains("_M1_"))
+        else if (reportname.Contains("_M2_"))
         {
             ddlMonth.Items.Insert(0, new ListItem("M2", "2"));
         }
-        else if (reportname.Contains("_M1_"))
+        else if (reportname.Contains("_M3_"))
         {
             ddlMonth.Items.Insert(0, new ListItem("M3", "3"));
         }

@@ -23,6 +23,9 @@ namespace ESI.Entity
         public int M1_TARGET { get; set; }
         public int M2_TARGET { get; set; }
         public int M3_TARGET { get; set; }
+        public int TotalQuarterTARGET { get; set; }
+        public int TotalQuarterAMOUNT { get; set; }
+
         public int IncentiveEntitlement { get; set; }
         public int TotalQuarterAchievement { get; set; } 
         public string QuarterlyAchievementThresholds { get; set; }
@@ -52,6 +55,8 @@ namespace ESI.Entity
             if (dr["M1_TARGET"] != DBNull.Value) this.M1_TARGET = Convert.ToInt32(dr["M1_TARGET"]);
             if (dr["M2_TARGET"] != DBNull.Value) this.M2_TARGET = Convert.ToInt32(dr["M2_TARGET"]);
             if (dr["M3_TARGET"] != DBNull.Value) this.M3_TARGET = Convert.ToInt32(dr["M3_TARGET"]);
+            if (dr["TotalQuarterTARGET"] != DBNull.Value) this.TotalQuarterTARGET = Convert.ToInt32(dr["TotalQuarterTARGET"]);
+            if (dr["TotalQuarterAMOUNT"] != DBNull.Value) this.TotalQuarterAMOUNT = Convert.ToInt32(dr["TotalQuarterAMOUNT"]);
 
 
             if (dr["TotalQuarterAchievement"] != DBNull.Value) this.TotalQuarterAchievement = Convert.ToInt32(dr["TotalQuarterAchievement"]);

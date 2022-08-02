@@ -142,3 +142,8 @@ E:\SalesCom_ESI\SalesCom.Entity\bin\Release\SalesCom.Entity.pdb
 E:\SalesCom_ESI\SalesCom.Entity\obj\Release\SalesCom.Entity.csprojResolveAssemblyReference.cache
 E:\SalesCom_ESI\SalesCom.Entity\obj\Release\SalesCom.Entity.dll
 E:\SalesCom_ESI\SalesCom.Entity\obj\Release\SalesCom.Entity.pdb
+D:\Salescom Development\SalesCom_ESI_31_07_22\SalesCom_ESI\SalesCom.Entity\bin\Release\SalesCom.Entity.dll
+D:\Salescom Development\SalesCom_ESI_31_07_22\SalesCom_ESI\SalesCom.Entity\bin\Release\SalesCom.Entity.pdb
+D:\Salescom Development\SalesCom_ESI_31_07_22\SalesCom_ESI\SalesCom.Entity\obj\Release\SalesCom.Entity.csprojResolveAssemblyReference.cache
+D:\Salescom Development\SalesCom_ESI_31_07_22\SalesCom_ESI\SalesCom.Entity\obj\Release\SalesCom.Entity.dll
+D:\Salescom Development\SalesCom_ESI_31_07_22\SalesCom_ESI\SalesCom.Entity\obj\Release\SalesCom.Entity.pdb

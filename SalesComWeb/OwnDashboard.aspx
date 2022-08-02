@@ -98,13 +98,12 @@
                             <col />
                             <col />
                             <col />
-                            <col />
                         </colgroup>
                         <thead>
                             <tr class="gridheader">
-                                <th style="width: 30px">#</th>
+                                <%--<th style="width: 30px">#</th>--%>
+                                <th style="width: 150px; text-align: left;">KPI Name</th>
                                 <th style="width: 150px; text-align: left">KPI Type</th>
-                                <th style="width: 150px; text-align: left">KPI Name</th>
                                 <%--  <th style="width: 60px">Weightage</th>--%>
                                 <th style="width: 80px">Month 1 Target</th>
                                 <th style="width: 80px">Month 1 Amount</th>
@@ -116,10 +115,12 @@
                                 <th style="width: 80px">Month 3 Amount</th>
                                 <th style="width: 100px">Month 3 Achievement(%)</th>
 
+                                <th style="width: 80px">Quarterly Target</th>
+                                <th style="width: 80px">Quarterly Amount</th>
                                 <th style="width: 100px">Total Quarterly Achievement(%)</th>
                                 <th style="width: 80px">Quarterly Achievement Thresholds</th>
                                 <th style="width: 100px">Incentive Entitlement(%)</th>
-                                <th style="width: 100px">Eligible months of Incentive as per Conditions</th>
+                                <th style="width: 100px">Condition Eligibly</th>
                                 <th style="width: 100px">Eligible Incentive Amount</th>
                             </tr>
                         </thead>
@@ -131,14 +132,15 @@
                 </LayoutTemplate>
                 <ItemTemplate>
                     <tr class='<%# Container.DataItemIndex % 2 == 0 ? "row" : "altrow" %>'>
-                        <td style="text-align: center">
+<%--                        <td style="text-align: center">
                             <%# Container.DataItemIndex +1  %>
-                        </td>
-                        <td>
-                            <%#Eval("KPIType")%>
-                        </td>
-                        <td>
+                        </td>--%>
+
+                        <td style="text-align:<%#(string)Eval("KPIType") == "KPI" ? "left;font-weight: bold;" : "right"%>">
                             <%# (string)Eval("KPIType") =="KPI" ? Eval("KPIName") :""+Eval("KPIName")%>  
+                        </td>
+                        <td style="text-align:<%#(string)Eval("KPIType") == "KPI" ? "left" : "right"%>">
+                            <%# Eval("KPIType")%>
                         </td>
                         <td>
                             <%# ((int) Eval("M1_TARGET") < 0) ? "Not Set" :  Eval("M1_TARGET") %>
@@ -167,6 +169,13 @@
                         <td>
                             <%# ((int) Eval("M3_ACH") < 1) ? "00" :  Eval("M3_ACH") %>
                         </td>
+                        <td style="text-align: center">
+                            <%#Eval("TotalQuarterTARGET")%>
+                        </td>
+                        <td style="text-align: center">
+                            <%#Eval("TotalQuarterAMOUNT")%>
+                        </td>
+
                         <td>
                             <%# ((int) Eval("TotalQuarterAchievement") < 1) ? "00" :  Eval("TotalQuarterAchievement") %>
                            
@@ -209,13 +218,13 @@
                             <col />
                             <col />
                             <col />
-                            <col />
                         </colgroup>
                         <thead>
                             <tr class="gridheader">
-                                <th style="width: 30px">#</th>
-                                <th style="width: 200px; text-align: left">KPI Type</th>
+                                <%--<th style="width: 30px">#</th>--%>
                                 <th style="width: 150px; text-align: left">KPI Name</th>
+                                <th style="width: 200px; text-align: left">KPI Type</th>
+
                                 <%--  <th style="width: 60px">Weightage</th>--%>
                                 <th style="width: 80px">Month 1 Target</th>
                                 <th style="width: 80px">Month 1 Amount</th>
@@ -230,7 +239,7 @@
                                 <th style="width: 100px">Total Quarterly Achievement(%)</th>
                                 <th style="width: 80px">Quarterly Achievement Thresholds</th>
                                 <th style="width: 100px">Incentive Entitlement(%)</th>
-                                <th style="width: 100px">Eligible months of Incentive as per Conditions</th>
+                                <th style="width: 100px">Condition Eligibly</th>
                                 <th style="width: 100px">Eligible Incentive Amount</th>
                                 <th style="width: 100px">Original Report Incentive Amount</th>
                                 <th style="width: 100px">Adjustment Incentive Amount</th>
@@ -244,14 +253,15 @@
                 </LayoutTemplate>
                 <ItemTemplate>
                     <tr class='<%# Container.DataItemIndex % 2 == 0 ? "row" : "altrow" %>'>
-                        <td style="text-align: center">
+<%--                        <td style="text-align: center">
                             <%# Container.DataItemIndex +1  %>
-                        </td>
-                        <td>
-                            <%#Eval("KPIType")%>
-                        </td>
-                        <td>
+                        </td>--%>
+
+                        <td style="text-align:<%#(string)Eval("KPIType") == "KPI" ? "left;font-weight: bold;" : "right"%>">
                           <%# (string)Eval("KPIType") =="KPI" ? Eval("KPIName") :""+Eval("KPIName")%>
+                        </td>
+                        <td style="text-align:<%#(string)Eval("KPIType") == "KPI" ? "left" : "right"%>">
+                            <%#Eval("KPIType")%>
                         </td>
                         <td>
                             <%# ((int) Eval("M1_TARGET") < 0) ? "Not Set" :  Eval("M1_TARGET") %>
@@ -327,13 +337,13 @@
                             <col />
                             <col />
                             <col />
-                            <col />
                         </colgroup>
                         <thead>
                             <tr class="gridheader">
-                                <th style="width: 30px">#</th>
-                                <th style="width: 150px; text-align: left">KPI Type</th>
+                                <%--<th style="width: 30px">#</th>--%>
                                 <th style="width: 150px; text-align: left">KPI Name</th>
+                                <th style="width: 150px; text-align: left">KPI Type</th>
+
                                 <%--  <th style="width: 60px">Weightage</th>--%>
                                 <th style="width: 80px">Month 1 Target</th>
                                 <th style="width: 80px">Month 1 Amount</th>
@@ -348,7 +358,7 @@
                                 <th style="width: 100px">Total Quarterly Achievement(%)</th>
                                 <th style="width: 80px">Quarterly Achievement Thresholds</th>
                                 <th style="width: 100px">Incentive Entitlement(%)</th>
-                                <th style="width: 100px">Eligible months of Incentive as per Conditions</th>
+                                <th style="width: 100px">Condition Eligibly</th>
                                 <th style="width: 100px">Eligible Incentive Amount</th>
                                 <th style="width: 100px">Arrear1 Report Incentive Amount</th>
                                 <th style="width: 100px">Adjustment Incentive Amount</th>
@@ -362,14 +372,15 @@
                 </LayoutTemplate>
                 <ItemTemplate>
                     <tr class='<%# Container.DataItemIndex % 2 == 0 ? "row" : "altrow" %>'>
-                        <td style="text-align: center">
+<%--                        <td style="text-align: center">
                             <%# Container.DataItemIndex +1  %>
-                        </td>
-                         <td>
-                            <%#Eval("KPIType")%>
-                        </td>
-                        <td>
+                        </td>--%>
+
+                        <td style="text-align:<%#(string)Eval("KPIType") == "KPI" ? "left;font-weight: bold;" : "right"%>">
                          <%# (string)Eval("KPIType") =="KPI" ? Eval("KPIName") :""+Eval("KPIName")%> 
+                        </td>
+                         <td style="text-align:<%#(string)Eval("KPIType") == "KPI" ? "left" : "right"%>">
+                            <%#Eval("KPIType")%>
                         </td>
                         <td>
                             <%# ((int) Eval("M1_TARGET") < 0) ? "Not Set" :  Eval("M1_TARGET") %>
@@ -445,13 +456,13 @@
                             <col />
                             <col />
                             <col />
-                            <col />
                         </colgroup>
                         <thead>
                             <tr class="gridheader">
-                                <th style="width: 30px">#</th>
-                                <th style="width: 150px; text-align: left">KPI Type</th>
+                                <%--<th style="width: 30px">#</th>--%>
                                 <th style="width: 150px; text-align: left">KPI Name</th>
+                                <th style="width: 150px; text-align: left">KPI Type</th>
+
                                 <%--  <th style="width: 60px">Weightage</th>--%>
                                 <th style="width: 80px">Month 1 Target</th>
                                 <th style="width: 80px">Month 1 Amount</th>
@@ -466,7 +477,7 @@
                                 <th style="width: 100px">Total Quarterly Achievement(%)</th>
                                 <th style="width: 80px">Quarterly Achievement Thresholds</th>
                                 <th style="width: 100px">Incentive Entitlement(%)</th>
-                                <th style="width: 100px">Eligible months of Incentive as per Conditions</th>
+                                <th style="width: 100px">Condition Eligibly</th>
                                 <th style="width: 100px">Eligible Incentive Amount</th>
                                 <th style="width: 100px">Arrear2 Report Incentive Amount</th>
                                 <th style="width: 100px">Adjustment Incentive Amount</th>
@@ -480,14 +491,15 @@
                 </LayoutTemplate>
                 <ItemTemplate>
                     <tr class='<%# Container.DataItemIndex % 2 == 0 ? "row" : "altrow" %>'>
-                        <td style="text-align: center">
+<%--                        <td style="text-align: center">
                             <%# Container.DataItemIndex +1  %>
-                        </td>
-                         <td>
-                            <%#Eval("KPIType")%>
-                        </td>
-                        <td>
+                        </td>--%>
+
+                        <td style="text-align:<%#(string)Eval("KPIType") == "KPI" ? "left;font-weight: bold;" : "right"%>">
                           <%# (string)Eval("KPIType") =="KPI" ? Eval("KPIName") :""+Eval("KPIName")%> 
+                        </td>
+                         <td style="text-align:<%#(string)Eval("KPIType") == "KPI" ? "left" : "right"%>">
+                            <%#Eval("KPIType")%>
                         </td>
                         <td>
                             <%# ((int) Eval("M1_TARGET") < 0) ? "Not Set" :  Eval("M1_TARGET") %>

@@ -428,3 +428,23 @@ E:\SalesCom_ESI\SalesCom.DAL\bin\Release\SalesCom.Entity.pdb
 E:\SalesCom_ESI\SalesCom.DAL\obj\Release\SalesCom.DAL.csprojResolveAssemblyReference.cache
 E:\SalesCom_ESI\SalesCom.DAL\obj\Release\SalesCom.DAL.dll
 E:\SalesCom_ESI\SalesCom.DAL\obj\Release\SalesCom.DAL.pdb
+D:\Salescom Development\SalesCom_ESI_31_07_22\SalesCom_ESI\SalesCom.DAL\bin\Release\SalesCom.DAL.dll.config
+D:\Salescom Development\SalesCom_ESI_31_07_22\SalesCom_ESI\SalesCom.DAL\bin\Release\SalesCom.DAL.dll
+D:\Salescom Development\SalesCom_ESI_31_07_22\SalesCom_ESI\SalesCom.DAL\bin\Release\SalesCom.DAL.pdb
+D:\Salescom Development\SalesCom_ESI_31_07_22\SalesCom_ESI\SalesCom.DAL\bin\Release\Oracle.DataAccess.dll
+D:\Salescom Development\SalesCom_ESI_31_07_22\SalesCom_ESI\SalesCom.DAL\bin\Release\Oracle.ManagedDataAccess.dll
+D:\Salescom Development\SalesCom_ESI_31_07_22\SalesCom_ESI\SalesCom.DAL\bin\Release\SalesCom.Entity.dll
+D:\Salescom Development\SalesCom_ESI_31_07_22\SalesCom_ESI\SalesCom.DAL\bin\Release\SalesCom.Entity.pdb
+D:\Salescom Development\SalesCom_ESI_31_07_22\SalesCom_ESI\SalesCom.DAL\obj\Release\SalesCom.DAL.csprojResolveAssemblyReference.cache
+D:\Salescom Development\SalesCom_ESI_31_07_22\SalesCom_ESI\SalesCom.DAL\obj\Release\SalesCom.DAL.dll
+D:\Salescom Development\SalesCom_ESI_31_07_22\SalesCom_ESI\SalesCom.DAL\obj\Release\SalesCom.DAL.pdb
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_31_07_22\SalesCom_ESI\SalesCom.DAL\bin\Release\SalesCom.DAL.dll.config
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_31_07_22\SalesCom_ESI\SalesCom.DAL\bin\Release\SalesCom.DAL.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_31_07_22\SalesCom_ESI\SalesCom.DAL\bin\Release\SalesCom.DAL.pdb
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_31_07_22\SalesCom_ESI\SalesCom.DAL\bin\Release\Oracle.DataAccess.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_31_07_22\SalesCom_ESI\SalesCom.DAL\bin\Release\Oracle.ManagedDataAccess.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_31_07_22\SalesCom_ESI\SalesCom.DAL\bin\Release\SalesCom.Entity.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_31_07_22\SalesCom_ESI\SalesCom.DAL\bin\Release\SalesCom.Entity.pdb
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_31_07_22\SalesCom_ESI\SalesCom.DAL\obj\Release\SalesCom.DAL.csprojResolveAssemblyReference.cache
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_31_07_22\SalesCom_ESI\SalesCom.DAL\obj\Release\SalesCom.DAL.dll
+E:\SalesCom\ESI Doc\Solution\SalesCom_ESI_31_07_22\SalesCom_ESI\SalesCom.DAL\obj\Release\SalesCom.DAL.pdb

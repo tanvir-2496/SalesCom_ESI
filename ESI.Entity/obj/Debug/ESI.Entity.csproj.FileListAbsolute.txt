@@ -144,3 +144,8 @@ E:\SalesCom_ESI\ESI.Entity\bin\Debug\ESI.Entity.pdb
 E:\SalesCom_ESI\ESI.Entity\obj\Debug\ESI.Entity.csprojResolveAssemblyReference.cache
 E:\SalesCom_ESI\ESI.Entity\obj\Debug\ESI.Entity.dll
 E:\SalesCom_ESI\ESI.Entity\obj\Debug\ESI.Entity.pdb
+D:\Salescom Development\SalesCom_ESI_31_07_22\SalesCom_ESI\ESI.Entity\bin\Debug\ESI.Entity.dll
+D:\Salescom Development\SalesCom_ESI_31_07_22\SalesCom_ESI\ESI.Entity\bin\Debug\ESI.Entity.pdb
+D:\Salescom Development\SalesCom_ESI_31_07_22\SalesCom_ESI\ESI.Entity\obj\Debug\ESI.Entity.csprojResolveAssemblyReference.cache
+D:\Salescom Development\SalesCom_ESI_31_07_22\SalesCom_ESI\ESI.Entity\obj\Debug\ESI.Entity.dll
+D:\Salescom Development\SalesCom_ESI_31_07_22\SalesCom_ESI\ESI.Entity\obj\Debug\ESI.Entity.pdb

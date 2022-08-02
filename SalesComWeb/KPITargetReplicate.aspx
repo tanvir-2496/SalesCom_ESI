@@ -647,11 +647,7 @@
 
 
             //Replicate Section Start//
-            if (CloneReportType == "" || CloneReportType == "0") {
-                $("span[id$=lblMsg]").html("<b>Please select replicate report type</b><br>").css("color", "red");
-                isAllValid = false;
-                return false;
-            }
+
             if (CloneSalesGroup == "" || CloneSalesGroup == "0") {
                 $("span[id$=lblMsg]").html("<b>Please select replicate sales group</b><br>").css("color", "red");
                 isAllValid = false;

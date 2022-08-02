@@ -61,6 +61,29 @@ namespace ESI.DAL
                 throw (ex);
             }
         }
+
+        public static List<KPICondition> GetKPIConditionRep(int reportCycleId, int parentKpi)
+        {
+            ESI_OracleProcedure procedure = new ESI_OracleProcedure("ESI_GETKPICONDIFORTAR_REP");
+            procedure.AddInputParameter("P_REPORT_CYCLE_ID", reportCycleId, OracleType.Number);
+            procedure.AddInputParameter("P_PARENT_KPI_ID", parentKpi, OracleType.Number);
+
+            try
+            {
+                DataTable dt = procedure.ExecuteQueryToDataTable();
+                List<KPICondition> results = new List<KPICondition>();
+                foreach (DataRow dr in dt.Rows)
+                {
+                    results.Add(new KPICondition(dr));
+                }
+
+                return results;
+            }
+            catch (Exception ex)
+            {
+                throw (ex);
+            }
+        }
         //KPITargetEnt
 
         public static List<KPITargetEnt> GetKPIByData(int reportCycleId, int parentKpi)
